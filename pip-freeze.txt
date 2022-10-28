@@ -82,7 +82,7 @@ en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.4
 ephem==4.1.3
 et-xmlfile==1.1.0
-etils==0.8.0
+etils==0.9.0
 etuples==0.3.8
 fa2==0.3.5
 fastai==2.7.9
@@ -221,7 +221,7 @@ netCDF4==1.6.1
 networkx==2.6.3
 nibabel==3.0.2
 nltk==3.7
-notebook==5.5.0
+notebook==5.7.16
 numba==0.56.3
 numexpr==2.8.4
 numpy==1.21.6
@@ -264,6 +264,7 @@ prefetch-generator==1.0.1
 preshed==3.0.8
 prettytable==3.4.1
 progressbar2==3.38.0
+prometheus-client==0.15.0
 promise==2.3
 prompt-toolkit==2.0.10
 prophet==1.1.1
