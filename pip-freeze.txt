@@ -133,7 +133,7 @@ googleapis-common-protos==1.57.0
 googledrivedownloader==0.4
 graphviz==0.10.1
 greenlet==2.0.1
-grpcio==1.50.0
+grpcio==1.51.0
 grpcio-status==1.48.2
 gspread==3.4.2
 gspread-dataframe==3.0.8
@@ -169,7 +169,7 @@ ipython-sql==0.3.9
 ipywidgets==7.7.1
 itsdangerous==1.1.0
 jax==0.3.25
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.3.25+cuda11.cudnn805-cp37-cp37m-manylinux2014_x86_64.whl
+jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.3.25+cuda11.cudnn805-cp38-cp38-manylinux2014_x86_64.whl
 jieba==0.42.1
 Jinja2==2.11.3
 joblib==1.2.0
@@ -262,7 +262,7 @@ plotnine==0.8.0
 pluggy==0.7.1
 pooch==1.6.0
 portpicker==1.3.9
-prefetch-generator==1.0.1
+prefetch-generator==1.0.3
 preshed==3.0.8
 prettytable==3.5.0
 progressbar2==3.38.0
@@ -308,7 +308,7 @@ pytest==3.6.4
 python-apt==0.0.0
 python-dateutil==2.8.2
 python-louvain==0.16
-python-slugify==6.1.2
+python-slugify==7.0.0
 python-utils==3.4.5
 pytz==2022.6
 pyviz-comms==2.2.1
@@ -365,7 +365,7 @@ tensorflow-hub==0.12.0
 tensorflow-io-gcs-filesystem==0.27.0
 tensorflow-metadata==1.11.0
 tensorflow-probability==0.17.0
-termcolor==2.1.0
+termcolor==2.1.1
 terminado==0.13.3
 testpath==0.6.0
 text-unidecode==1.3
@@ -376,11 +376,11 @@ tifffile==2021.11.2
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
-torch @ https://download.pytorch.org/whl/cu113/torch-1.12.1%2Bcu113-cp37-cp37m-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu113/torchaudio-0.12.1%2Bcu113-cp37-cp37m-linux_x86_64.whl
+torch @ https://download.pytorch.org/whl/cu113/torch-1.12.1%2Bcu113-cp38-cp38-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu113/torchaudio-0.12.1%2Bcu113-cp38-cp38-linux_x86_64.whl
 torchsummary==1.5.1
 torchtext==0.13.1
-torchvision @ https://download.pytorch.org/whl/cu113/torchvision-0.13.1%2Bcu113-cp37-cp37m-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cu113/torchvision-0.13.1%2Bcu113-cp38-cp38-linux_x86_64.whl
 tornado==6.0.4
 tqdm==4.64.1
 traitlets==5.1.1
