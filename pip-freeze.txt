@@ -33,7 +33,7 @@ bs4==0.0.1
 CacheControl==0.12.11
 cachetools==5.2.0
 catalogue==2.0.8
-certifi==2022.9.24
+certifi==2022.12.7
 cffi==1.15.1
 cftime==1.6.2
 chardet==3.0.4
@@ -61,7 +61,7 @@ Cython==0.29.32
 daft==0.0.4
 dask==2022.2.1
 datascience==0.17.5
-db-dtypes==1.0.4
+db-dtypes==1.0.5
 debugpy==1.0.0
 decorator==4.4.2
 defusedxml==0.7.1
@@ -73,7 +73,7 @@ dm-tree==0.1.7
 dnspython==2.2.1
 docutils==0.17.1
 dopamine-rl==1.0.5
-earthengine-api==0.1.334
+earthengine-api==0.1.335
 easydict==1.10
 ecos==2.0.10
 editdistance==0.5.3
@@ -92,7 +92,7 @@ fastjsonschema==2.16.2
 fastprogress==1.0.3
 fastrlock==0.8.1
 feather-format==0.4.1
-filelock==3.8.0
+filelock==3.8.2
 firebase-admin==5.3.0
 fix-yahoo-finance==0.0.22
 Flask==1.1.4
@@ -155,7 +155,7 @@ imbalanced-learn==0.8.1
 imblearn==0.0
 imgaug==0.4.0
 importlib-metadata==4.13.0
-importlib-resources==5.10.0
+importlib-resources==5.10.1
 imutils==0.5.4
 inflect==2.1.0
 intel-openmp==2022.2.1
@@ -176,7 +176,7 @@ jsonschema==4.3.3
 jupyter-client==6.1.12
 jupyter-console==6.1.0
 jupyter-core==5.1.0
-jupyterlab-widgets==3.0.3
+jupyterlab-widgets==3.0.4
 kaggle==1.5.12
 kapre==0.3.7
 keras==2.9.0
@@ -193,7 +193,7 @@ lmdb==0.99
 locket==1.0.0
 logical-unification==0.4.5
 LunarCalendar==0.0.9
-lxml==4.9.1
+lxml==4.9.2
 Markdown==3.4.1
 MarkupSafe==2.0.1
 marshmallow==3.19.0
@@ -242,12 +242,12 @@ pandas-gbq==0.17.9
 pandas-profiling==1.4.1
 pandocfilters==1.5.0
 panel==0.12.1
-param==1.12.2
+param==1.12.3
 parso==0.8.3
 partd==1.3.0
 pastel==0.2.1
 pathlib==1.0.1
-pathy==0.10.0
+pathy==0.10.1
 patsy==0.5.3
 pep517==0.13.0
 pexpect==4.8.0
@@ -255,7 +255,7 @@ pickleshare==0.7.5
 Pillow==7.1.2
 pip==21.1.3
 pip-tools==6.2.0
-platformdirs==2.5.4
+platformdirs==2.6.0
 plotly==5.5.0
 plotnine==0.8.0
 pluggy==0.7.1
@@ -293,7 +293,7 @@ Pygments==2.6.1
 pygobject==3.26.1
 pylev==1.4.0
 pymc==4.1.4
-PyMeeus==0.5.11
+PyMeeus==0.5.12
 pymongo==4.3.3
 pymystem3==0.2.0
 PyOpenGL==3.1.6
@@ -331,20 +331,20 @@ seaborn==0.11.2
 Send2Trash==1.8.0
 setuptools==57.4.0
 setuptools-git==1.2
-Shapely==1.8.5.post1
+shapely==2.0.0
 six==1.15.0
 sklearn-pandas==1.8.0
-smart-open==5.2.1
+smart-open==6.3.0
 snowballstemmer==2.2.0
 sortedcontainers==2.4.0
 soundfile==0.11.0
 spacy==3.4.3
 spacy-legacy==3.0.10
-spacy-loggers==1.0.3
+spacy-loggers==1.0.4
 Sphinx==1.8.6
 sphinxcontrib-serializinghtml==1.1.5
 sphinxcontrib-websupport==1.2.4
-SQLAlchemy==1.4.44
+SQLAlchemy==1.4.45
 sqlparse==0.4.3
 srsly==2.4.5
 statsmodels==0.12.2
@@ -362,7 +362,7 @@ tensorflow-estimator==2.9.0
 tensorflow-gcs-config==2.9.1
 tensorflow-hub==0.12.0
 tensorflow-io-gcs-filesystem==0.28.0
-tensorflow-metadata==1.11.0
+tensorflow-metadata==1.12.0
 tensorflow-probability==0.17.0
 termcolor==2.1.1
 terminado==0.13.3
@@ -382,7 +382,7 @@ torchtext==0.14.0
 torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.0%2Bcu116-cp38-cp38-linux_x86_64.whl
 tornado==6.0.4
 tqdm==4.64.1
-traitlets==5.6.0
+traitlets==5.7.1
 tweepy==3.10.0
 typeguard==2.7.1
 typer==0.7.0
@@ -401,7 +401,7 @@ widgetsnbextension==3.6.1
 wordcloud==1.8.2.2
 wrapt==1.14.1
 xarray==0.20.2
-xarray-einstats==0.3.0
+xarray-einstats==0.4.0
 xgboost==0.90
 xkit==0.0.0
 xlrd==1.2.0
