@@ -154,7 +154,7 @@ imagesize==1.4.1
 imbalanced-learn==0.8.1
 imblearn==0.0
 imgaug==0.4.0
-importlib-metadata==4.13.0
+importlib-metadata==5.1.0
 importlib-resources==5.10.1
 imutils==0.5.4
 inflect==2.1.0
@@ -338,7 +338,7 @@ smart-open==6.3.0
 snowballstemmer==2.2.0
 sortedcontainers==2.4.0
 soundfile==0.11.0
-spacy==3.4.3
+spacy==3.4.4
 spacy-legacy==3.0.10
 spacy-loggers==1.0.4
 Sphinx==1.8.6
@@ -400,7 +400,7 @@ wheel==0.38.4
 widgetsnbextension==3.6.1
 wordcloud==1.8.2.2
 wrapt==1.14.1
-xarray==0.20.2
+xarray==2022.12.0
 xarray-einstats==0.4.0
 xgboost==0.90
 xkit==0.0.0
