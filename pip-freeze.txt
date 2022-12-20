@@ -69,13 +69,13 @@ descartes==1.1.0
 dill==0.3.6
 distributed==2022.2.1
 dlib==19.24.0
-dm-tree==0.1.7
+dm-tree==0.1.8
 dnspython==2.2.1
 docutils==0.17.1
 dopamine-rl==1.0.5
 earthengine-api==0.1.335
 easydict==1.10
-ecos==2.0.10
+ecos==2.0.11
 editdistance==0.5.3
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
 entrypoints==0.4
@@ -110,18 +110,18 @@ geopy==1.17.0
 gin-config==0.5.0
 glob2==0.7
 google==2.0.3
-google-api-core==2.8.2
-google-api-python-client==1.12.11
+google-api-core==2.11.0
+google-api-python-client==2.70.0
 google-auth==2.15.0
-google-auth-httplib2==0.0.4
+google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.4.6
-google-cloud-bigquery==3.3.6
-google-cloud-bigquery-storage==2.16.2
+google-cloud-bigquery==3.4.1
+google-cloud-bigquery-storage==2.17.0
 google-cloud-core==2.3.2
-google-cloud-datastore==2.9.0
-google-cloud-firestore==2.7.2
+google-cloud-datastore==2.11.0
+google-cloud-firestore==2.7.3
 google-cloud-language==2.6.1
-google-cloud-storage==2.5.0
+google-cloud-storage==2.7.0
 google-cloud-translate==3.8.4
 google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
 google-crc32c==1.5.0
@@ -154,11 +154,11 @@ imagesize==1.4.1
 imbalanced-learn==0.8.1
 imblearn==0.0
 imgaug==0.4.0
-importlib-metadata==5.1.0
+importlib-metadata==5.2.0
 importlib-resources==5.10.1
 imutils==0.5.4
 inflect==2.1.0
-intel-openmp==2022.2.1
+intel-openmp==2023.0.0
 intervaltree==2.1.0
 ipykernel==5.3.4
 ipython==7.9.0
@@ -216,7 +216,7 @@ murmurhash==1.0.9
 music21==5.5.0
 natsort==5.5.0
 nbconvert==5.6.1
-nbformat==5.7.0
+nbformat==5.7.1
 netCDF4==1.6.2
 networkx==2.8.8
 nibabel==3.0.2
@@ -309,7 +309,7 @@ python-dateutil==2.8.2
 python-louvain==0.16
 python-slugify==7.0.0
 python-utils==3.4.5
-pytz==2022.6
+pytz==2022.7
 pyviz-comms==2.2.1
 PyWavelets==1.4.1
 PyYAML==6.0
@@ -361,7 +361,7 @@ tensorflow-datasets==4.6.0
 tensorflow-estimator==2.9.0
 tensorflow-gcs-config==2.9.1
 tensorflow-hub==0.12.0
-tensorflow-io-gcs-filesystem==0.28.0
+tensorflow-io-gcs-filesystem==0.29.0
 tensorflow-metadata==1.12.0
 tensorflow-probability==0.17.0
 termcolor==2.1.1
@@ -369,7 +369,7 @@ terminado==0.13.3
 testpath==0.6.0
 text-unidecode==1.3
 textblob==0.15.3
-thinc==8.1.5
+thinc==8.1.6
 threadpoolctl==3.1.0
 tifffile==2022.10.10
 toml==0.10.2
@@ -388,7 +388,7 @@ typeguard==2.7.1
 typer==0.7.0
 typing-extensions==4.4.0
 tzlocal==1.5.1
-uritemplate==3.0.1
+uritemplate==4.1.1
 urllib3==1.24.3
 vega-datasets==0.9.0
 wasabi==0.10.1
