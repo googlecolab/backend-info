@@ -54,7 +54,7 @@ crashtest==0.3.1
 crcmod==1.7
 cufflinks==0.17.3
 cvxopt==1.3.0
-cvxpy==1.2.2
+cvxpy==1.2.3
 cycler==0.11.0
 cymem==2.0.7
 Cython==0.29.32
@@ -75,7 +75,7 @@ docutils==0.17.1
 dopamine-rl==1.0.5
 earthengine-api==0.1.335
 easydict==1.10
-ecos==2.0.11
+ecos==2.0.12
 editdistance==0.5.3
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
 entrypoints==0.4
@@ -92,7 +92,7 @@ fastjsonschema==2.16.2
 fastprogress==1.0.3
 fastrlock==0.8.1
 feather-format==0.4.1
-filelock==3.8.2
+filelock==3.9.0
 firebase-admin==5.3.0
 fix-yahoo-finance==0.0.22
 Flask==1.1.4
@@ -140,7 +140,7 @@ gym-notices==0.0.8
 h5py==3.1.0
 HeapDict==1.0.1
 hijri-converter==2.2.4
-holidays==0.17.2
+holidays==0.18
 holoviews==1.14.9
 html5lib==1.0.1
 httpimport==0.5.18
@@ -154,8 +154,8 @@ imagesize==1.4.1
 imbalanced-learn==0.8.1
 imblearn==0.0
 imgaug==0.4.0
-importlib-metadata==5.2.0
-importlib-resources==5.10.1
+importlib-metadata==6.0.0
+importlib-resources==5.10.2
 imutils==0.5.4
 inflect==2.1.0
 intel-openmp==2023.0.0
@@ -175,7 +175,7 @@ jpeg4py==0.1.4
 jsonschema==4.3.3
 jupyter-client==6.1.12
 jupyter-console==6.1.0
-jupyter_core==5.1.1
+jupyter_core==5.1.2
 jupyterlab-widgets==3.0.5
 kaggle==1.5.12
 kapre==0.3.7
@@ -209,7 +209,7 @@ more-itertools==9.0.0
 moviepy==0.2.3.5
 mpmath==1.2.1
 msgpack==1.0.4
-multidict==6.0.3
+multidict==6.0.4
 multipledispatch==0.6.0
 multitasking==0.0.11
 murmurhash==1.0.9
@@ -230,7 +230,7 @@ oauthlib==3.2.2
 okgrade==0.4.3
 opencv-contrib-python==4.6.0.66
 opencv-python==4.6.0.66
-opencv-python-headless==4.6.0.66
+opencv-python-headless==4.7.0.68
 openpyxl==3.0.10
 opt-einsum==3.3.0
 osqp==0.6.2.post0
@@ -255,7 +255,7 @@ pickleshare==0.7.5
 Pillow==7.1.2
 pip==22.0.4
 pip-tools==6.6.2
-platformdirs==2.6.0
+platformdirs==2.6.2
 plotly==5.5.0
 plotnine==0.8.0
 pluggy==0.7.1
@@ -281,7 +281,7 @@ pyasn1-modules==0.2.8
 pycocotools==2.0.6
 pycparser==2.21
 pyct==0.4.8
-pydantic==1.10.2
+pydantic==1.10.4
 pydata-google-auth==1.4.0
 pydot==1.3.0
 pydot-ng==2.0.0
@@ -298,7 +298,7 @@ pymongo==4.3.3
 pymystem3==0.2.0
 PyOpenGL==3.1.6
 pyparsing==3.0.9
-pyrsistent==0.19.2
+pyrsistent==0.19.3
 pysimdjson==3.2.0
 pysndfile==1.3.8
 PySocks==1.7.1
@@ -339,12 +339,12 @@ snowballstemmer==2.2.0
 sortedcontainers==2.4.0
 soundfile==0.11.0
 spacy==3.4.4
-spacy-legacy==3.0.10
+spacy-legacy==3.0.11
 spacy-loggers==1.0.4
 Sphinx==1.8.6
 sphinxcontrib-serializinghtml==1.1.5
 sphinxcontrib-websupport==1.2.4
-SQLAlchemy==1.4.45
+SQLAlchemy==1.4.46
 sqlparse==0.4.3
 srsly==2.4.5
 statsmodels==0.12.2
@@ -357,14 +357,14 @@ tensorboard==2.9.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.9.2
-tensorflow-datasets==4.6.0
+tensorflow-datasets==4.8.1
 tensorflow-estimator==2.9.0
 tensorflow-gcs-config==2.9.1
 tensorflow-hub==0.12.0
 tensorflow-io-gcs-filesystem==0.29.0
 tensorflow-metadata==1.12.0
 tensorflow-probability==0.17.0
-termcolor==2.1.1
+termcolor==2.2.0
 terminado==0.13.3
 testpath==0.6.0
 text-unidecode==1.3
