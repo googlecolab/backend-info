@@ -31,7 +31,7 @@ bokeh==2.3.3
 branca==0.6.0
 bs4==0.0.1
 CacheControl==0.12.11
-cachetools==5.2.0
+cachetools==5.2.1
 catalogue==2.0.8
 certifi==2022.12.7
 cffi==1.15.1
@@ -57,7 +57,7 @@ cvxopt==1.3.0
 cvxpy==1.2.3
 cycler==0.11.0
 cymem==2.0.7
-Cython==0.29.32
+Cython==0.29.33
 daft==0.0.4
 dask==2022.2.1
 datascience==0.17.5
@@ -218,7 +218,7 @@ natsort==5.5.0
 nbconvert==5.6.1
 nbformat==5.7.1
 netCDF4==1.6.2
-networkx==2.8.8
+networkx==3.0
 nibabel==3.0.2
 nltk==3.7
 notebook==5.7.16
@@ -263,7 +263,7 @@ pooch==1.6.0
 portpicker==1.3.9
 prefetch-generator==1.0.3
 preshed==3.0.8
-prettytable==3.5.0
+prettytable==3.6.0
 progressbar2==3.38.0
 prometheus-client==0.15.0
 promise==2.3
@@ -342,12 +342,12 @@ spacy==3.4.4
 spacy-legacy==3.0.11
 spacy-loggers==1.0.4
 Sphinx==3.5.4
-sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==2.0.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
+sphinxcontrib.applehelp==1.0.3
 SQLAlchemy==1.4.46
 sqlparse==0.4.3
 srsly==2.4.5
@@ -379,11 +379,11 @@ tifffile==2022.10.10
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
-torch @ https://download.pytorch.org/whl/cu116/torch-1.13.0%2Bcu116-cp38-cp38-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu116/torchaudio-0.13.0%2Bcu116-cp38-cp38-linux_x86_64.whl
+torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp38-cp38-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu116/torchaudio-0.13.1%2Bcu116-cp38-cp38-linux_x86_64.whl
 torchsummary==1.5.1
-torchtext==0.14.0
-torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.0%2Bcu116-cp38-cp38-linux_x86_64.whl
+torchtext==0.14.1
+torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.1%2Bcu116-cp38-cp38-linux_x86_64.whl
 tornado==6.0.4
 tqdm==4.64.1
 traitlets==5.7.1
