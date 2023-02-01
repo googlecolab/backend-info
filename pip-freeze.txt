@@ -3,14 +3,14 @@
 # Be aware that this list does not necessarily reflect the current state of the
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
-absl-py==1.3.0
+absl-py==1.4.0
 aeppl==0.0.33
 aesara==2.7.9
 aiohttp==3.8.3
 aiosignal==1.3.1
-alabaster==0.7.12
+alabaster==0.7.13
 albumentations==1.2.1
-altair==4.2.0
+altair==4.2.2
 appdirs==1.4.4
 arviz==0.12.1
 astor==0.8.1
@@ -25,13 +25,13 @@ autograd==1.5
 Babel==2.11.0
 backcall==0.2.0
 beautifulsoup4==4.6.3
-bleach==5.0.1
+bleach==6.0.0
 blis==0.7.9
 bokeh==2.3.3
 branca==0.6.0
 bs4==0.0.1
 CacheControl==0.12.11
-cachetools==5.2.1
+cachetools==5.3.0
 catalogue==2.0.8
 certifi==2022.12.7
 cffi==1.15.1
@@ -40,13 +40,13 @@ chardet==4.0.0
 charset-normalizer==2.1.1
 click==7.1.2
 clikit==0.6.2
-cloudpickle==2.2.0
+cloudpickle==2.2.1
 cmake==3.22.6
-cmdstanpy==1.0.8
+cmdstanpy==1.1.0
 colorcet==3.0.1
 colorlover==0.3.0
 community==1.0.0b1
-confection==0.0.3
+confection==0.0.4
 cons==0.4.5
 contextlib2==0.5.5
 convertdate==2.4.0
@@ -71,10 +71,10 @@ dill==0.3.6
 distributed==2022.2.1
 dlib==19.24.0
 dm-tree==0.1.8
-dnspython==2.2.1
+dnspython==2.3.0
 docutils==0.16
 dopamine-rl==1.0.5
-earthengine-api==0.1.335
+earthengine-api==0.1.338
 easydict==1.10
 ecos==2.0.12
 editdistance==0.5.3
@@ -100,7 +100,7 @@ Flask==1.1.4
 flatbuffers==1.12
 folium==0.12.1.post1
 frozenlist==1.3.3
-fsspec==2022.11.0
+fsspec==2023.1.0
 future==0.16.0
 gast==0.4.0
 GDAL==3.0.4
@@ -116,8 +116,8 @@ google-api-python-client==2.70.0
 google-auth==2.16.0
 google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.4.6
-google-cloud-bigquery==3.4.1
-google-cloud-bigquery-storage==2.17.0
+google-cloud-bigquery==3.4.2
+google-cloud-bigquery-storage==2.18.1
 google-cloud-core==2.3.2
 google-cloud-datastore==2.11.1
 google-cloud-firestore==2.7.3
@@ -127,11 +127,11 @@ google-cloud-translate==3.8.4
 google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
 google-crc32c==1.5.0
 google-pasta==0.2.0
-google-resumable-media==2.4.0
+google-resumable-media==2.4.1
 googleapis-common-protos==1.58.0
 googledrivedownloader==0.4
 graphviz==0.10.1
-greenlet==2.0.1
+greenlet==2.0.2
 grpcio==1.51.1
 grpcio-status==1.48.2
 gspread==3.4.2
@@ -141,7 +141,7 @@ gym-notices==0.0.8
 h5py==3.1.0
 HeapDict==1.0.1
 hijri-converter==2.2.4
-holidays==0.18
+holidays==0.19
 holoviews==1.14.9
 html5lib==1.0.1
 httpimport==0.5.18
@@ -176,7 +176,7 @@ jpeg4py==0.1.4
 jsonschema==4.3.3
 jupyter-client==6.1.12
 jupyter-console==6.1.0
-jupyter_core==5.1.3
+jupyter_core==5.2.0
 jupyterlab-widgets==3.0.5
 kaggle==1.5.12
 kapre==0.3.7
@@ -217,7 +217,7 @@ murmurhash==1.0.9
 music21==5.5.0
 natsort==5.5.0
 nbconvert==5.6.1
-nbformat==5.7.1
+nbformat==5.7.3
 netCDF4==1.6.2
 networkx==3.0
 nibabel==3.0.2
@@ -235,7 +235,7 @@ opencv-python-headless==4.7.0.68
 openpyxl==3.0.10
 opt-einsum==3.3.0
 osqp==0.6.2.post0
-packaging==21.3
+packaging==23.0
 palettable==3.3.0
 pandas==1.3.5
 pandas-datareader==0.9.0
@@ -266,10 +266,10 @@ prefetch-generator==1.0.3
 preshed==3.0.8
 prettytable==3.6.0
 progressbar2==3.38.0
-prometheus-client==0.15.0
+prometheus-client==0.16.0
 promise==2.3
 prompt-toolkit==2.0.10
-prophet==1.1.1
+prophet==1.1.2
 proto-plus==1.22.2
 protobuf==3.19.6
 psutil==5.4.8
@@ -281,9 +281,9 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycocotools==2.0.6
 pycparser==2.21
-pyct==0.4.8
+pyct==0.5.0
 pydantic==1.10.4
-pydata-google-auth==1.5.0
+pydata-google-auth==1.6.0
 pydot==1.3.0
 pydot-ng==2.0.0
 pydotplus==2.0.2
@@ -307,14 +307,14 @@ pytest==3.6.4
 python-apt==2.0.1
 python-dateutil==2.8.2
 python-louvain==0.16
-python-slugify==7.0.0
+python-slugify==8.0.0
 python-utils==3.4.5
-pytz==2022.7
+pytz==2022.7.1
 pyviz-comms==2.2.1
 PyWavelets==1.4.1
 PyYAML==6.0
 pyzmq==23.2.1
-qdldl==0.1.5.post2
+qdldl==0.1.5.post3
 qudida==0.0.4
 regex==2022.6.2
 requests==2.25.1
@@ -331,8 +331,7 @@ scs==3.2.2
 seaborn==0.11.2
 Send2Trash==1.8.0
 setuptools==57.4.0
-setuptools-git==1.2
-shapely==2.0.0
+shapely==2.0.1
 six==1.15.0
 sklearn-pandas==1.8.0
 smart-open==6.3.0
@@ -340,16 +339,16 @@ snowballstemmer==2.2.0
 sortedcontainers==2.4.0
 soundfile==0.11.0
 spacy==3.4.4
-spacy-legacy==3.0.11
+spacy-legacy==3.0.12
 spacy-loggers==1.0.4
 Sphinx==3.5.4
+sphinxcontrib-applehelp==1.0.4
 sphinxcontrib-devhelp==1.0.2
-sphinxcontrib-htmlhelp==2.0.0
+sphinxcontrib-htmlhelp==2.0.1
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
-sphinxcontrib.applehelp==1.0.3
-SQLAlchemy==1.4.46
+SQLAlchemy==2.0.0
 sqlparse==0.4.3
 srsly==2.4.5
 statsmodels==0.12.2
@@ -362,11 +361,11 @@ tensorboard==2.9.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.9.2
-tensorflow-datasets==4.8.1
+tensorflow-datasets==4.8.2
 tensorflow-estimator==2.9.0
 tensorflow-gcs-config==2.9.1
 tensorflow-hub==0.12.0
-tensorflow-io-gcs-filesystem==0.29.0
+tensorflow-io-gcs-filesystem==0.30.0
 tensorflow-metadata==1.12.0
 tensorflow-probability==0.17.0
 termcolor==2.2.0
@@ -374,9 +373,9 @@ terminado==0.13.3
 testpath==0.6.0
 text-unidecode==1.3
 textblob==0.15.3
-thinc==8.1.6
+thinc==8.1.7
 threadpoolctl==3.1.0
-tifffile==2022.10.10
+tifffile==2023.1.23.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
@@ -397,7 +396,7 @@ uritemplate==4.1.1
 urllib3==1.24.3
 vega-datasets==0.9.0
 wasabi==0.10.1
-wcwidth==0.2.5
+wcwidth==0.2.6
 webargs==8.2.0
 webencodings==0.5.1
 Werkzeug==1.0.1
@@ -406,7 +405,7 @@ widgetsnbextension==3.6.1
 wordcloud==1.8.2.2
 wrapt==1.14.1
 xarray==2022.12.0
-xarray-einstats==0.4.0
+xarray-einstats==0.5.1
 xgboost==0.90
 xkit==0.0.0
 xlrd==1.2.0
@@ -414,4 +413,4 @@ xlwt==1.3.0
 yarl==1.8.2
 yellowbrick==1.5
 zict==2.2.0
-zipp==3.11.0
+zipp==3.12.0
