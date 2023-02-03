@@ -74,7 +74,7 @@ dm-tree==0.1.8
 dnspython==2.3.0
 docutils==0.16
 dopamine-rl==1.0.5
-earthengine-api==0.1.338
+earthengine-api==0.1.339
 easydict==1.10
 ecos==2.0.12
 editdistance==0.5.3
@@ -86,7 +86,7 @@ etils==1.0.0
 etuples==0.3.8
 fa2==0.3.5
 fastai==2.7.10
-fastcore==1.5.27
+fastcore==1.5.28
 fastdownload==0.0.7
 fastdtw==0.3.4
 fastjsonschema==2.16.2
@@ -348,7 +348,7 @@ sphinxcontrib-htmlhelp==2.0.1
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
-SQLAlchemy==2.0.0
+SQLAlchemy==1.4.46
 sqlparse==0.4.3
 srsly==2.4.5
 statsmodels==0.12.2
