@@ -74,7 +74,7 @@ dm-tree==0.1.8
 dnspython==2.3.0
 docutils==0.16
 dopamine-rl==1.0.5
-earthengine-api==0.1.339
+earthengine-api==0.1.340
 easydict==1.10
 ecos==2.0.12
 editdistance==0.5.3
@@ -97,7 +97,7 @@ filelock==3.9.0
 firebase-admin==5.3.0
 fix-yahoo-finance==0.0.22
 Flask==1.1.4
-flatbuffers==1.12
+flatbuffers==23.1.21
 folium==0.12.1.post1
 frozenlist==1.3.3
 fsspec==2023.1.0
@@ -180,8 +180,7 @@ jupyter_core==5.2.0
 jupyterlab-widgets==3.0.5
 kaggle==1.5.12
 kapre==0.3.7
-keras==2.9.0
-Keras-Preprocessing==1.1.2
+keras==2.11.0
 keras-vis==0.4.1
 kiwisolver==1.4.4
 korean-lunar-calendar==0.3.1
@@ -256,7 +255,7 @@ pickleshare==0.7.5
 Pillow==7.1.2
 pip==22.0.4
 pip-tools==6.6.2
-platformdirs==2.6.2
+platformdirs==3.0.0
 plotly==5.5.0
 plotnine==0.8.0
 pluggy==0.7.1
@@ -283,7 +282,7 @@ pycocotools==2.0.6
 pycparser==2.21
 pyct==0.5.0
 pydantic==1.10.4
-pydata-google-auth==1.6.0
+pydata-google-auth==1.7.0
 pydot==1.3.0
 pydot-ng==2.0.0
 pydotplus==2.0.2
@@ -308,7 +307,7 @@ python-apt==2.0.1
 python-dateutil==2.8.2
 python-louvain==0.16
 python-slugify==8.0.0
-python-utils==3.4.5
+python-utils==3.5.0
 pytz==2022.7.1
 pyviz-comms==2.2.1
 PyWavelets==1.4.1
@@ -356,18 +355,18 @@ sympy==1.7.1
 tables==3.7.0
 tabulate==0.8.10
 tblib==1.7.0
-tenacity==8.1.0
-tensorboard==2.9.1
+tenacity==8.2.0
+tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.9.2
+tensorflow==2.11.0
 tensorflow-datasets==4.8.2
-tensorflow-estimator==2.9.0
-tensorflow-gcs-config==2.9.1
+tensorflow-estimator==2.11.0
+tensorflow-gcs-config==2.11.0
 tensorflow-hub==0.12.0
 tensorflow-io-gcs-filesystem==0.30.0
 tensorflow-metadata==1.12.0
-tensorflow-probability==0.17.0
+tensorflow-probability==0.19.0
 termcolor==2.2.0
 terminado==0.13.3
 testpath==0.6.0
@@ -375,7 +374,7 @@ text-unidecode==1.3
 textblob==0.15.3
 thinc==8.1.7
 threadpoolctl==3.1.0
-tifffile==2023.1.23.1
+tifffile==2023.2.3
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
@@ -413,4 +412,4 @@ xlwt==1.3.0
 yarl==1.8.2
 yellowbrick==1.5
 zict==2.2.0
-zipp==3.12.0
+zipp==3.12.1
