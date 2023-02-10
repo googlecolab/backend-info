@@ -103,7 +103,7 @@ frozenlist==1.3.3
 fsspec==2023.1.0
 future==0.16.0
 gast==0.4.0
-GDAL==3.0.4
+GDAL==3.3.2
 gdown==4.4.0
 gensim==3.6.0
 geographiclib==1.52
