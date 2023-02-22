@@ -101,6 +101,7 @@ fix-yahoo-finance==0.0.22
 Flask==1.1.4
 flatbuffers==23.1.21
 folium==0.12.1.post1
+fonttools==4.38.0
 frozenlist==1.3.3
 fsspec==2023.1.0
 future==0.16.0
@@ -115,7 +116,7 @@ glob2==0.7
 google==2.0.3
 google-api-core==2.11.0
 google-api-python-client==2.70.0
-google-auth==2.16.0
+google-auth==2.16.1
 google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.4.6
 google-cloud-bigquery==3.4.2
@@ -158,7 +159,7 @@ imbalanced-learn==0.8.1
 imblearn==0.0
 imgaug==0.4.0
 importlib-metadata==6.0.0
-importlib-resources==5.10.2
+importlib-resources==5.12.0
 imutils==0.5.4
 inflect==2.1.0
 intel-openmp==2023.0.0
@@ -199,7 +200,7 @@ lxml==4.9.2
 Markdown==3.4.1
 MarkupSafe==2.0.1
 marshmallow==3.19.0
-matplotlib==3.2.2
+matplotlib==3.5.3
 matplotlib-venn==0.11.7
 miniKanren==1.0.3
 missingno==0.5.1
@@ -414,4 +415,4 @@ xlwt==1.3.0
 yarl==1.8.2
 yellowbrick==1.5
 zict==2.2.0
-zipp==3.13.0
+zipp==3.14.0
