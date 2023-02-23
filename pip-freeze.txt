@@ -62,7 +62,7 @@ cymem==2.0.7
 Cython==0.29.33
 daft==0.0.4
 dask==2022.2.1
-datascience==0.17.5
+datascience==0.17.6
 db-dtypes==1.0.5
 dbus-python==1.2.16
 debugpy==1.0.0
@@ -76,7 +76,7 @@ dm-tree==0.1.8
 dnspython==2.3.0
 docutils==0.16
 dopamine-rl==1.0.5
-earthengine-api==0.1.341
+earthengine-api==0.1.342
 easydict==1.10
 ecos==2.0.12
 editdistance==0.5.3
@@ -135,7 +135,7 @@ googleapis-common-protos==1.58.0
 googledrivedownloader==0.4
 graphviz==0.10.1
 greenlet==2.0.2
-grpcio==1.51.1
+grpcio==1.51.3
 grpcio-status==1.48.2
 gspread==3.4.2
 gspread-dataframe==3.0.8
@@ -233,7 +233,7 @@ oauthlib==3.2.2
 okgrade==0.4.3
 opencv-contrib-python==4.6.0.66
 opencv-python==4.6.0.66
-opencv-python-headless==4.7.0.68
+opencv-python-headless==4.7.0.72
 openpyxl==3.0.10
 opt-einsum==3.3.0
 osqp==0.6.2.post0
@@ -255,7 +255,7 @@ patsy==0.5.3
 pep517==0.13.0
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==8.4.0
 pip==22.0.4
 pip-tools==6.6.2
 platformdirs==3.0.0
