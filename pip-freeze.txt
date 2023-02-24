@@ -144,7 +144,7 @@ gym-notices==0.0.8
 h5py==3.1.0
 HeapDict==1.0.1
 hijri-converter==2.2.4
-holidays==0.19
+holidays==0.20
 holoviews==1.14.9
 html5lib==1.0.1
 httpimport==0.5.18
@@ -170,8 +170,8 @@ ipython-genutils==0.2.0
 ipython-sql==0.3.9
 ipywidgets==7.7.1
 itsdangerous==1.1.0
-jax==0.3.25
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.3.25+cuda11.cudnn805-cp38-cp38-manylinux2014_x86_64.whl
+jax==0.4.4
+jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.4+cuda11.cudnn82-cp38-cp38-manylinux2014_x86_64.whl
 jieba==0.42.1
 Jinja2==2.11.3
 joblib==1.2.0
