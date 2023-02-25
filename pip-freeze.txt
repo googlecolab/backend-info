@@ -40,7 +40,7 @@ cffi==1.15.1
 cftime==1.6.2
 chardet==4.0.0
 charset-normalizer==3.0.1
-click==7.1.2
+click==8.1.3
 clikit==0.6.2
 cloudpickle==2.2.1
 cmake==3.22.6
@@ -98,7 +98,7 @@ feather-format==0.4.1
 filelock==3.9.0
 firebase-admin==5.3.0
 fix-yahoo-finance==0.0.22
-Flask==1.1.4
+Flask==2.2.3
 flatbuffers==23.1.21
 folium==0.12.1.post1
 fonttools==4.38.0
@@ -169,17 +169,18 @@ ipython==7.9.0
 ipython-genutils==0.2.0
 ipython-sql==0.3.9
 ipywidgets==7.7.1
-itsdangerous==1.1.0
+itsdangerous==2.1.2
 jax==0.4.4
 jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.4+cuda11.cudnn82-cp38-cp38-manylinux2014_x86_64.whl
 jieba==0.42.1
-Jinja2==2.11.3
+Jinja2==3.1.2
 joblib==1.2.0
 jpeg4py==0.1.4
 jsonschema==4.3.3
 jupyter-client==6.1.12
 jupyter-console==6.1.0
 jupyter_core==5.2.0
+jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
 kaggle==1.5.12
 kapre==0.3.7
@@ -198,7 +199,7 @@ logical-unification==0.4.5
 LunarCalendar==0.0.9
 lxml==4.9.2
 Markdown==3.4.1
-MarkupSafe==2.0.1
+MarkupSafe==2.1.2
 marshmallow==3.19.0
 matplotlib==3.5.3
 matplotlib-venn==0.11.7
@@ -218,7 +219,8 @@ multitasking==0.0.11
 murmurhash==1.0.9
 music21==5.5.0
 natsort==5.5.0
-nbconvert==5.6.1
+nbclient==0.7.2
+nbconvert==6.5.4
 nbformat==5.7.3
 netCDF4==1.6.2
 networkx==3.0
@@ -372,12 +374,12 @@ tensorflow-metadata==1.12.0
 tensorflow-probability==0.19.0
 termcolor==2.2.0
 terminado==0.13.3
-testpath==0.6.0
 text-unidecode==1.3
 textblob==0.15.3
 thinc==8.1.7
 threadpoolctl==3.1.0
 tifffile==2023.2.3
+tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
@@ -401,7 +403,7 @@ wasabi==0.10.1
 wcwidth==0.2.6
 webargs==8.2.0
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 wheel==0.38.4
 widgetsnbextension==3.6.2
 wordcloud==1.8.2.2
