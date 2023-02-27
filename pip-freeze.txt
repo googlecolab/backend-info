@@ -202,9 +202,9 @@ Markdown==3.4.1
 MarkupSafe==2.1.2
 marshmallow==3.19.0
 matplotlib==3.5.3
-matplotlib-venn==0.11.7
+matplotlib-venn==0.11.9
 miniKanren==1.0.3
-missingno==0.5.1
+missingno==0.5.2
 mistune==0.8.4
 mizani==0.7.3
 mkl==2019.0
@@ -369,7 +369,7 @@ tensorflow-datasets==4.8.2
 tensorflow-estimator==2.11.0
 tensorflow-gcs-config==2.11.0
 tensorflow-hub==0.12.0
-tensorflow-io-gcs-filesystem==0.30.0
+tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-metadata==1.12.0
 tensorflow-probability==0.19.0
 termcolor==2.2.0
@@ -397,7 +397,7 @@ typer==0.7.0
 typing_extensions==4.5.0
 tzlocal==1.5.1
 uritemplate==4.1.1
-urllib3==1.24.3
+urllib3==1.26.14
 vega-datasets==0.9.0
 wasabi==0.10.1
 wcwidth==0.2.6
