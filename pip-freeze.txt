@@ -75,7 +75,6 @@ ephem==4.1.4
 et-xmlfile==1.1.0
 etils==1.0.0
 etuples==0.3.8
-fa2==0.3.5
 fastai==2.7.11
 fastcore==1.5.28
 fastdownload==0.0.7
@@ -88,7 +87,7 @@ fix-yahoo-finance==0.0.22
 Flask==2.2.3
 flatbuffers==23.3.3
 folium==0.12.1.post1
-fonttools==4.38.0
+fonttools==4.39.0
 fsspec==2023.3.0
 future==0.16.0
 gast==0.4.0
@@ -130,7 +129,7 @@ gym-notices==0.0.8
 h5py==3.1.0
 HeapDict==1.0.1
 hijri-converter==2.2.4
-holidays==0.20
+holidays==0.21
 holoviews==1.14.9
 html5lib==1.0.1
 httpimport==0.5.18
@@ -155,7 +154,7 @@ ipython-sql==0.3.9
 ipywidgets==7.7.1
 itsdangerous==2.1.2
 jax==0.4.4
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.4+cuda11.cudnn82-cp38-cp38-manylinux2014_x86_64.whl
+jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.4+cuda11.cudnn82-cp39-cp39-manylinux2014_x86_64.whl
 jieba==0.42.1
 Jinja2==3.1.2
 joblib==1.2.0
@@ -281,7 +280,7 @@ pyparsing==3.0.9
 pyrsistent==0.19.3
 PySocks==1.7.1
 pytest==3.6.4
-python-apt==2.0.1
+python-apt==0.0.0
 python-dateutil==2.8.2
 python-louvain==0.16
 python-slugify==8.0.1
@@ -357,11 +356,11 @@ tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
-torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp38-cp38-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu116/torchaudio-0.13.1%2Bcu116-cp38-cp38-linux_x86_64.whl
+torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu116/torchaudio-0.13.1%2Bcu116-cp39-cp39-linux_x86_64.whl
 torchsummary==1.5.1
 torchtext==0.14.1
-torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.1%2Bcu116-cp38-cp38-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.1%2Bcu116-cp39-cp39-linux_x86_64.whl
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.7.1
