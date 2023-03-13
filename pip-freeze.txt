@@ -372,7 +372,7 @@ typing_extensions==4.5.0
 tzdata==2022.7
 tzlocal==4.2
 uritemplate==4.1.1
-urllib3==1.26.14
+urllib3==1.26.15
 vega-datasets==0.9.0
 visions==0.7.4
 wasabi==0.10.1
