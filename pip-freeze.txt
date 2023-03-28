@@ -322,7 +322,7 @@ screen-resolution-extra==0.0.0
 scs==3.2.2
 seaborn==0.12.2
 Send2Trash==1.8.0
-setuptools==67.6.0
+setuptools==67.6.1
 shapely==2.0.1
 six==1.16.0
 sklearn-pandas==2.2.0
