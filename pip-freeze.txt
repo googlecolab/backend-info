@@ -22,6 +22,7 @@ backcall==0.2.0
 beautifulsoup4==4.11.2
 bleach==6.0.0
 blis==0.7.9
+blosc2==2.0.0
 bokeh==2.4.3
 branca==0.6.0
 CacheControl==0.12.11
@@ -51,7 +52,7 @@ cvxopt==1.3.0
 cvxpy==1.3.1
 cycler==0.11.0
 cymem==2.0.7
-Cython==0.29.33
+Cython==0.29.34
 dask==2022.12.1
 datascience==0.17.6
 db-dtypes==1.1.1
@@ -104,7 +105,7 @@ google-api-core==2.11.0
 google-api-python-client==2.70.0
 google-auth==2.17.1
 google-auth-httplib2==0.1.0
-google-auth-oauthlib==0.4.6
+google-auth-oauthlib==1.0.0
 google-cloud-bigquery==3.4.2
 google-cloud-bigquery-storage==2.19.1
 google-cloud-core==2.3.2
@@ -131,7 +132,7 @@ h5netcdf==1.1.0
 h5py==3.8.0
 HeapDict==1.0.1
 hijri-converter==2.2.4
-holidays==0.21.13
+holidays==0.22
 holoviews==1.15.4
 html5lib==1.1
 htmlmin==0.1.12
@@ -211,7 +212,7 @@ multitasking==0.0.11
 murmurhash==1.0.9
 music21==8.1.0
 natsort==8.3.1
-nbclient==0.7.2
+nbclient==0.7.3
 nbconvert==6.5.4
 nbformat==5.8.0
 nest-asyncio==1.5.6
@@ -271,8 +272,9 @@ prophet==1.1.2
 proto-plus==1.22.2
 protobuf==3.20.3
 psutil==5.9.4
-psycopg2==2.9.5
+psycopg2==2.9.6
 ptyprocess==0.7.0
+py-cpuinfo==9.0.0
 py4j==0.10.9.7
 pyarrow==9.0.0
 pyasn1==0.4.8
@@ -351,12 +353,12 @@ sqlparse==0.4.3
 srsly==2.4.6
 statsmodels==0.13.5
 sympy==1.11.1
-tables==3.7.0
+tables==3.8.0
 tabulate==0.8.10
 tangled-up-in-unicode==0.2.0
 tblib==1.7.0
 tenacity==8.2.2
-tensorboard==2.12.0
+tensorboard==2.12.1
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.12.0
@@ -365,7 +367,7 @@ tensorflow-estimator==2.12.0
 tensorflow-gcs-config==2.12.0
 tensorflow-hub==0.13.0
 tensorflow-io-gcs-filesystem==0.32.0
-tensorflow-metadata==1.12.0
+tensorflow-metadata==1.13.0
 tensorflow-probability==0.19.0
 tensorstore==0.1.35
 termcolor==2.2.0
