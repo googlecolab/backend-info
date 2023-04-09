@@ -102,18 +102,18 @@ gin-config==0.5.0
 glob2==0.7
 google==2.0.3
 google-api-core==2.11.0
-google-api-python-client==2.70.0
+google-api-python-client==2.84.0
 google-auth==2.17.2
 google-auth-httplib2==0.1.0
 google-auth-oauthlib==1.0.0
-google-cloud-bigquery==3.4.2
+google-cloud-bigquery==3.9.0
 google-cloud-bigquery-storage==2.19.1
 google-cloud-core==2.3.2
-google-cloud-datastore==2.11.1
-google-cloud-firestore==2.7.3
-google-cloud-language==2.6.1
-google-cloud-storage==2.7.0
-google-cloud-translate==3.8.4
+google-cloud-datastore==2.15.1
+google-cloud-firestore==2.11.0
+google-cloud-language==2.9.1
+google-cloud-storage==2.8.0
+google-cloud-translate==3.11.1
 google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
 google-crc32c==1.5.0
 google-pasta==0.2.0
@@ -145,7 +145,7 @@ imageio-ffmpeg==0.4.8
 imagesize==1.4.1
 imbalanced-learn==0.10.1
 imgaug==0.4.0
-importlib-metadata==6.1.0
+importlib-metadata==6.2.0
 importlib-resources==5.12.0
 imutils==0.5.4
 inflect==6.0.4
