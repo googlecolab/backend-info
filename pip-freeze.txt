@@ -89,8 +89,8 @@ flatbuffers==23.3.3
 flax==0.6.8
 folium==0.14.0
 fonttools==4.39.3
-frozendict==2.3.6
-fsspec==2023.3.0
+frozendict==2.3.7
+fsspec==2023.4.0
 future==0.18.3
 gast==0.4.0
 GDAL==3.3.2
@@ -145,7 +145,7 @@ imageio-ffmpeg==0.4.8
 imagesize==1.4.1
 imbalanced-learn==0.10.1
 imgaug==0.4.0
-importlib-metadata==6.2.0
+importlib-metadata==6.3.0
 importlib-resources==5.12.0
 imutils==0.5.4
 inflect==6.0.4
@@ -157,7 +157,7 @@ ipython-genutils==0.2.0
 ipython-sql==0.4.1
 ipywidgets==7.7.1
 itsdangerous==2.1.2
-jax==0.4.7
+jax==0.4.8
 jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.7+cuda11.cudnn86-cp39-cp39-manylinux2014_x86_64.whl
 jieba==0.42.1
 Jinja2==3.1.2
@@ -180,7 +180,7 @@ lazy_loader==0.2
 libclang==16.0.0
 librosa==0.10.0.post2
 lightgbm==3.3.5
-lit==16.0.0
+lit==16.0.1
 llvmlite==0.39.1
 locket==1.0.0
 logical-unification==0.4.5
@@ -332,7 +332,7 @@ snowballstemmer==2.2.0
 sortedcontainers==2.4.0
 soundfile==0.12.1
 soupsieve==2.4
-soxr==0.3.4
+soxr==0.3.5
 spacy==3.5.1
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
@@ -409,6 +409,6 @@ xarray-einstats==0.5.1
 xgboost==1.7.5
 xlrd==2.0.1
 yellowbrick==1.5
-yfinance==0.2.14
+yfinance==0.2.17
 zict==2.2.0
 zipp==3.15.0
