@@ -65,7 +65,8 @@ dlib==19.24.1
 dm-tree==0.1.8
 docutils==0.16
 dopamine-rl==4.0.6
-earthengine-api==0.1.348
+duckdb==0.7.1
+earthengine-api==0.1.349
 easydict==1.10
 ecos==2.0.12
 editdistance==0.6.2
@@ -103,7 +104,7 @@ glob2==0.7
 google==2.0.3
 google-api-core==2.11.0
 google-api-python-client==2.84.0
-google-auth==2.17.2
+google-auth==2.17.3
 google-auth-httplib2==0.1.0
 google-auth-oauthlib==1.0.0
 google-cloud-bigquery==3.9.0
@@ -166,7 +167,7 @@ jsonpickle==3.0.1
 jsonschema==4.3.3
 jupyter-client==6.1.12
 jupyter-console==6.1.0
-jupyter-server==1.23.6
+jupyter-server==1.24.0
 jupyter_core==5.3.0
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.7
@@ -198,7 +199,7 @@ missingno==0.5.2
 mistune==0.8.4
 mizani==0.8.1
 mkl==2019.0
-ml-dtypes==0.0.4
+ml-dtypes==0.1.0
 mlxtend==0.14.0
 more-itertools==9.1.0
 moviepy==1.0.3
@@ -230,7 +231,7 @@ opt-einsum==3.3.0
 optax==0.1.4
 orbax==0.1.7
 osqp==0.6.2.post0
-packaging==23.0
+packaging==23.1
 palettable==3.3.1
 pandas==1.5.3
 pandas-datareader==0.10.0
@@ -239,7 +240,7 @@ pandocfilters==1.5.0
 panel==0.14.4
 param==1.13.0
 parso==0.8.3
-partd==1.3.0
+partd==1.4.0
 pathlib==1.0.1
 pathy==0.10.1
 patsy==0.5.3
@@ -253,6 +254,7 @@ platformdirs==3.2.0
 plotly==5.13.1
 plotnine==0.10.1
 pluggy==1.0.0
+polars==0.17.2
 pooch==1.6.0
 portpicker==1.3.9
 prefetch-generator==1.0.3
@@ -313,7 +315,7 @@ regex==2022.10.31
 requests==2.27.1
 requests-oauthlib==1.3.1
 requests-unixsocket==0.2.0
-rich==13.3.3
+rich==13.3.4
 rpy2==3.5.5
 rsa==4.9
 scikit-image==0.19.3
@@ -333,7 +335,7 @@ sortedcontainers==2.4.0
 soundfile==0.12.1
 soupsieve==2.4
 soxr==0.3.5
-spacy==3.5.1
+spacy==3.5.2
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
 Sphinx==3.5.4
@@ -352,7 +354,7 @@ tables==3.8.0
 tabulate==0.8.10
 tblib==1.7.0
 tenacity==8.2.2
-tensorboard==2.12.1
+tensorboard==2.12.2
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.12.0
@@ -361,7 +363,7 @@ tensorflow-estimator==2.12.0
 tensorflow-gcs-config==2.12.0
 tensorflow-hub==0.13.0
 tensorflow-io-gcs-filesystem==0.32.0
-tensorflow-metadata==1.13.0
+tensorflow-metadata==1.13.1
 tensorflow-probability==0.19.0
 tensorstore==0.1.35
 termcolor==2.2.0
@@ -371,7 +373,7 @@ textblob==0.17.1
 tf-slim==1.1.0
 thinc==8.1.9
 threadpoolctl==3.1.0
-tifffile==2023.3.21
+tifffile==2023.4.12
 tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
