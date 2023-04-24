@@ -66,7 +66,7 @@ dm-tree==0.1.8
 docutils==0.16
 dopamine-rl==4.0.6
 duckdb==0.7.1
-earthengine-api==0.1.349
+earthengine-api==0.1.350
 easydict==1.10
 ecos==2.0.12
 editdistance==0.6.2
@@ -83,11 +83,11 @@ fastdownload==0.0.7
 fastjsonschema==2.16.3
 fastprogress==1.0.3
 fastrlock==0.8.1
-filelock==3.11.0
+filelock==3.12.0
 firebase-admin==5.3.0
 Flask==2.2.3
 flatbuffers==23.3.3
-flax==0.6.8
+flax==0.6.9
 folium==0.14.0
 fonttools==4.39.3
 frozendict==2.3.7
@@ -123,7 +123,7 @@ googleapis-common-protos==1.59.0
 googledrivedownloader==0.4
 graphviz==0.20.1
 greenlet==2.0.2
-grpcio==1.53.0
+grpcio==1.54.0
 grpcio-status==1.48.2
 gspread==3.4.2
 gspread-dataframe==3.0.8
@@ -131,9 +131,8 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.1.0
 h5py==3.8.0
-HeapDict==1.0.1
 hijri-converter==2.2.4
-holidays==0.22
+holidays==0.23
 holoviews==1.15.4
 html5lib==1.1
 httpimport==1.3.0
@@ -146,7 +145,7 @@ imageio-ffmpeg==0.4.8
 imagesize==1.4.1
 imbalanced-learn==0.10.1
 imgaug==0.4.0
-importlib-metadata==6.4.1
+importlib-metadata==6.5.0
 importlib-resources==5.12.0
 imutils==0.5.4
 inflect==6.0.4
@@ -228,11 +227,11 @@ opencv-python==4.7.0.72
 opencv-python-headless==4.7.0.72
 openpyxl==3.0.10
 opt-einsum==3.3.0
-optax==0.1.4
-orbax==0.1.7
+optax==0.1.5
+orbax-checkpoint==0.2.1
 osqp==0.6.2.post0
 packaging==23.1
-palettable==3.3.2
+palettable==3.3.3
 pandas==1.5.3
 pandas-datareader==0.10.0
 pandas-gbq==0.17.9
@@ -274,8 +273,8 @@ ptyprocess==0.7.0
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
 pyarrow==9.0.0
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
 pycocotools==2.0.6
 pycparser==2.21
 pyct==0.5.0
@@ -324,7 +323,7 @@ scipy==1.10.1
 scs==3.2.3
 seaborn==0.12.2
 Send2Trash==1.8.0
-setuptools==67.6.1
+setuptools==67.7.1
 shapely==2.0.1
 six==1.16.0
 sklearn-pandas==2.2.0
@@ -345,8 +344,8 @@ sphinxcontrib-htmlhelp==2.0.1
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
-SQLAlchemy==2.0.9
-sqlparse==0.4.3
+SQLAlchemy==2.0.10
+sqlparse==0.4.4
 srsly==2.4.6
 statsmodels==0.13.5
 sympy==1.11.1
@@ -365,7 +364,7 @@ tensorflow-hub==0.13.0
 tensorflow-io-gcs-filesystem==0.32.0
 tensorflow-metadata==1.13.1
 tensorflow-probability==0.19.0
-tensorstore==0.1.35
+tensorstore==0.1.36
 termcolor==2.2.0
 terminado==0.17.1
 text-unidecode==1.3
@@ -384,7 +383,7 @@ torchdata==0.6.0
 torchsummary==1.5.1
 torchtext==0.15.1
 torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.1%2Bcu118-cp39-cp39-linux_x86_64.whl
-tornado==6.2
+tornado==6.3.1
 tqdm==4.65.0
 traitlets==5.7.1
 triton==2.0.0
@@ -412,5 +411,5 @@ xgboost==1.7.5
 xlrd==2.0.1
 yellowbrick==1.5
 yfinance==0.2.18
-zict==2.2.0
+zict==3.0.0
 zipp==3.15.0
