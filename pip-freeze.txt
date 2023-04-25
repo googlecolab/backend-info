@@ -118,7 +118,7 @@ google-cloud-translate==3.11.1
 google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
 google-crc32c==1.5.0
 google-pasta==0.2.0
-google-resumable-media==2.4.1
+google-resumable-media==2.5.0
 googleapis-common-protos==1.59.0
 googledrivedownloader==0.4
 graphviz==0.20.1
@@ -131,7 +131,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.1.0
 h5py==3.8.0
-hijri-converter==2.2.4
+hijri-converter==2.3.0.post1
 holidays==0.23
 holoviews==1.15.4
 html5lib==1.1
@@ -158,7 +158,7 @@ ipython-sql==0.4.1
 ipywidgets==7.7.1
 itsdangerous==2.1.2
 jax==0.4.8
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.7+cuda11.cudnn86-cp39-cp39-manylinux2014_x86_64.whl
+jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.7+cuda11.cudnn86-cp310-cp310-manylinux2014_x86_64.whl
 jieba==0.42.1
 Jinja2==3.1.2
 joblib==1.2.0
@@ -180,7 +180,7 @@ lazy_loader==0.2
 libclang==16.0.0
 librosa==0.10.0.post2
 lightgbm==3.3.5
-lit==16.0.1
+lit==16.0.2
 llvmlite==0.39.1
 locket==1.0.0
 logical-unification==0.4.5
@@ -229,7 +229,7 @@ openpyxl==3.0.10
 opt-einsum==3.3.0
 optax==0.1.5
 orbax-checkpoint==0.2.1
-osqp==0.6.2.post0
+osqp==0.6.2.post8
 packaging==23.1
 palettable==3.3.3
 pandas==1.5.3
@@ -377,12 +377,12 @@ tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
-torch @ https://download.pytorch.org/whl/cu118/torch-2.0.0%2Bcu118-cp39-cp39-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu118/torchaudio-2.0.1%2Bcu118-cp39-cp39-linux_x86_64.whl
+torch @ https://download.pytorch.org/whl/cu118/torch-2.0.0%2Bcu118-cp310-cp310-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu118/torchaudio-2.0.1%2Bcu118-cp310-cp310-linux_x86_64.whl
 torchdata==0.6.0
 torchsummary==1.5.1
 torchtext==0.15.1
-torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.1%2Bcu118-cp39-cp39-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.1%2Bcu118-cp310-cp310-linux_x86_64.whl
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.7.1
