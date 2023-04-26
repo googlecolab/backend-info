@@ -85,7 +85,7 @@ fastprogress==1.0.3
 fastrlock==0.8.1
 filelock==3.12.0
 firebase-admin==5.3.0
-Flask==2.2.3
+Flask==2.2.4
 flatbuffers==23.3.3
 flax==0.6.9
 folium==0.14.0
@@ -131,7 +131,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.1.0
 h5py==3.8.0
-hijri-converter==2.3.0.post1
+hijri-converter==2.3.1
 holidays==0.23
 holoviews==1.15.4
 html5lib==1.1
@@ -209,7 +209,7 @@ multitasking==0.0.11
 murmurhash==1.0.9
 music21==8.1.0
 natsort==8.3.1
-nbclient==0.7.3
+nbclient==0.7.4
 nbconvert==6.5.4
 nbformat==5.8.0
 nest-asyncio==1.5.6
@@ -249,7 +249,7 @@ pickleshare==0.7.5
 Pillow==8.4.0
 pip==23.0.1
 pip-tools==6.6.2
-platformdirs==3.2.0
+platformdirs==3.3.0
 plotly==5.13.1
 plotnine==0.10.1
 pluggy==1.0.0
@@ -400,7 +400,7 @@ wcwidth==0.2.6
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.5.1
-Werkzeug==2.2.3
+Werkzeug==2.3.0
 wheel==0.40.0
 widgetsnbextension==3.6.4
 wordcloud==1.8.2.2
