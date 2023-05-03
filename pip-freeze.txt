@@ -11,6 +11,7 @@ anyio==3.6.2
 appdirs==1.4.4
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
+array-record==0.2.0
 arviz==0.15.1
 astropy==5.2.2
 astunparse==1.6.3
@@ -355,7 +356,7 @@ tensorboard==2.12.2
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.12.0
-tensorflow-datasets==4.8.3
+tensorflow-datasets==4.9.2
 tensorflow-estimator==2.12.0
 tensorflow-gcs-config==2.12.0
 tensorflow-hub==0.13.0
