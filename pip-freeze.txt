@@ -117,7 +117,7 @@ google-cloud-firestore==2.11.0
 google-cloud-language==2.9.1
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.1
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=830ead18852ea39481feb9e88be91c9bc693dcb73f0f9c799179537dfb088efa
+google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=d72e674ee75145a4b3c3d1a95801e7074d9f3b48016361e8164625f44613b390
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.5.0
@@ -384,13 +384,13 @@ torchdata==0.6.0
 torchsummary==1.5.1
 torchtext==0.15.1
 torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.1%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=9a679fa37a741018c804234693bbac3d487fb3dd55ee73f6b33677b177c8c07a
-tornado==6.2
+tornado==6.3.1
 tqdm==4.65.0
 traitlets==5.7.1
 triton==2.0.0
 tweepy==4.13.0
 typer==0.7.0
-types-setuptools==67.7.0.1
+types-setuptools==67.7.0.2
 typing_extensions==4.5.0
 tzdata==2023.3
 tzlocal==4.3

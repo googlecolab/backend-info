@@ -984,7 +984,7 @@ openjdk-11-jdk-headless/focal-updates,focal-security,now 11.0.18+10-0ubuntu1~20.
 openjdk-11-jre-headless/focal-updates,focal-security,now 11.0.18+10-0ubuntu1~20.04.1 amd64 [installed,automatic]
 openmpi-bin/focal,now 4.0.3-0ubuntu1 amd64 [installed,automatic]
 openmpi-common/focal,now 4.0.3-0ubuntu1 all [installed,automatic]
-openssh-client/focal-updates,now 1:8.2p1-4ubuntu0.5 amd64 [installed]
+openssh-client/focal-updates,now 1:8.2p1-4ubuntu0.7 amd64 [installed]
 openssl/now 1.1.1f-1ubuntu2.16 amd64 [installed,upgradable to: 1.1.1f-1ubuntu2.18]
 p7zip-full/focal,now 16.02+dfsg-7build1 amd64 [installed]
 p7zip/focal,now 16.02+dfsg-7build1 amd64 [installed,automatic]
