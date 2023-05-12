@@ -117,7 +117,7 @@ google-cloud-firestore==2.11.0
 google-cloud-language==2.9.1
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.1
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=d72e674ee75145a4b3c3d1a95801e7074d9f3b48016361e8164625f44613b390
+google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=9b5bfdf3a6af8aa07c9a04cd35aa2a53fbdc2f965ba06c9e7b6d6da94e4c2ce1
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.5.0
@@ -364,7 +364,7 @@ tensorflow-gcs-config==2.12.0
 tensorflow-hub==0.13.0
 tensorflow-io-gcs-filesystem==0.32.0
 tensorflow-metadata==1.13.1
-tensorflow-probability==0.19.0
+tensorflow-probability==0.20.0
 tensorstore==0.1.36
 termcolor==2.3.0
 terminado==0.17.1
