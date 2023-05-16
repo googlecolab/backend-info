@@ -117,7 +117,7 @@ google-cloud-firestore==2.11.0
 google-cloud-language==2.9.1
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.1
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=e57a5385e1dc6f9b9e293266aac1a0b30fde5f2451e9966c6c7dead99aa3b45d
+google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=ce23bc5bf95bcc7b06eae82979135fee950c35fb67406e12e9511dc1a9c237bf
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.5.0
@@ -378,12 +378,12 @@ tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
-torch @ https://download.pytorch.org/whl/cu118/torch-2.0.0%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=4b690e2b77f21073500c65d8bb9ea9656b8cb4e969f357370bbc992a3b074764
-torchaudio @ https://download.pytorch.org/whl/cu118/torchaudio-2.0.1%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=19c4ef9012324c4fb80ea66934551b7807d97148c28538e2eabafe16ab50e91c
-torchdata==0.6.0
+torch @ https://download.pytorch.org/whl/cu118/torch-2.0.1%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=a7a49d459bf4862f64f7bc1a68beccf8881c2fa9f3e0569608e16ba6f85ebf7b
+torchaudio @ https://download.pytorch.org/whl/cu118/torchaudio-2.0.2%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=26692645ea061a005c57ec581a2d0425210ac6ba9f923edf11cc9b0ef3a111e9
+torchdata==0.6.1
 torchsummary==1.5.1
-torchtext==0.15.1
-torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.1%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=9a679fa37a741018c804234693bbac3d487fb3dd55ee73f6b33677b177c8c07a
+torchtext==0.15.2
+torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.2%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=19ca4ab5d6179bbe53cff79df1a855ee6533c2861ddc7389f68349d8b9f8302a
 tornado==6.3.1
 tqdm==4.65.0
 traitlets==5.7.1
