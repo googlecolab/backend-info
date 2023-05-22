@@ -117,7 +117,7 @@ google-cloud-firestore==2.11.0
 google-cloud-language==2.9.1
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.1
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=d4c7f5f1d4c5e480a49e95ee2ef18628af6526ba66bfb1c26f09f870724972e3
+google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=332962c5158a6ea9c5e08b47b1ab8d39031d0af9d001c8db6494d1d68efc7fc1
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.5.0
@@ -389,7 +389,7 @@ traitlets==5.7.1
 triton==2.0.0
 tweepy==4.13.0
 typer==0.7.0
-types-setuptools==67.7.0.3
+types-setuptools==67.8.0.0
 typing_extensions==4.5.0
 tzdata==2023.3
 tzlocal==4.3
