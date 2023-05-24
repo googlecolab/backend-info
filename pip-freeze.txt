@@ -117,7 +117,7 @@ google-cloud-firestore==2.11.0
 google-cloud-language==2.9.1
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.1
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=ae3bcd024a974cb8805153af1f65984a4eeddb6749fa31bcadb3002f653029fc
+google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=f07093b9dee5645b44f94cc44378af1f6b4b3304238d83e42339a2a67e55a3ed
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.5.0
