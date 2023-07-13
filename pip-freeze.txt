@@ -95,9 +95,9 @@ Flask==2.2.5
 flatbuffers==23.5.26
 flax==0.7.0
 folium==0.14.0
-fonttools==4.40.0
+fonttools==4.41.0
 frozendict==2.3.8
-frozenlist==1.3.3
+frozenlist==1.4.0
 fsspec==2023.6.0
 future==0.18.3
 gast==0.4.0
@@ -369,7 +369,7 @@ tensorflow==2.12.0
 tensorflow-datasets==4.9.2
 tensorflow-estimator==2.12.0
 tensorflow-gcs-config==2.12.0
-tensorflow-hub==0.13.0
+tensorflow-hub==0.14.0
 tensorflow-io-gcs-filesystem==0.32.0
 tensorflow-metadata==1.13.1
 tensorflow-probability==0.20.1
@@ -422,4 +422,4 @@ yarl==1.9.2
 yellowbrick==1.5
 yfinance==0.2.22
 zict==3.0.0
-zipp==3.16.0
+zipp==3.16.1
