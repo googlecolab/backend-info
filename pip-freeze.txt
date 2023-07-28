@@ -71,10 +71,10 @@ distributed==2022.12.1
 distro==1.7.0
 dlib==19.24.2
 dm-tree==0.1.8
-docutils==0.16
+docutils==0.18.1
 dopamine-rl==4.0.6
 duckdb==0.8.1
-earthengine-api==0.1.360
+earthengine-api==0.1.361
 easydict==1.10
 ecos==2.0.12
 editdistance==0.6.2
@@ -234,7 +234,7 @@ nbconvert==6.5.4
 nbformat==5.9.1
 nest-asyncio==1.5.6
 networkx==3.1
-nibabel==3.0.2
+nibabel==4.0.2
 nltk==3.8.1
 notebook==6.4.8
 numba==0.56.4
@@ -247,8 +247,8 @@ opencv-python==4.7.0.72
 opencv-python-headless==4.8.0.74
 openpyxl==3.0.10
 opt-einsum==3.3.0
-optax==0.1.5
-orbax-checkpoint==0.3.0
+optax==0.1.7
+orbax-checkpoint==0.3.1
 osqp==0.6.2.post8
 packaging==23.1
 palettable==3.3.3
@@ -256,7 +256,7 @@ pandas==1.5.3
 pandas-datareader==0.10.0
 pandas-gbq==0.17.9
 pandocfilters==1.5.0
-panel==1.2.0
+panel==1.2.1
 param==1.13.0
 parso==0.8.3
 partd==1.4.0
@@ -359,7 +359,7 @@ soxr==0.3.5
 spacy==3.5.4
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
-Sphinx==3.5.4
+Sphinx==5.0.2
 sphinxcontrib-applehelp==1.0.4
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==2.0.1
