@@ -21,7 +21,7 @@ async-timeout==4.0.3
 attrs==23.1.0
 audioread==3.0.1
 autograd==1.6.2
-Babel==2.12.1
+Babel==2.13.0
 backcall==0.2.0
 beautifulsoup4==4.11.2
 bleach==6.0.0
@@ -38,14 +38,14 @@ catalogue==2.0.10
 certifi==2023.7.22
 cffi==1.16.0
 chardet==5.2.0
-charset-normalizer==3.2.0
+charset-normalizer==3.3.0
 chex==0.1.7
 click==8.1.7
 click-plugins==1.1.1
 cligj==0.7.2
 cloudpickle==2.2.1
-cmake==3.27.5
-cmdstanpy==1.1.0
+cmake==3.27.6
+cmdstanpy==1.2.0
 colorcet==3.0.1
 colorlover==0.3.0
 colour==0.1.5
@@ -91,7 +91,7 @@ exceptiongroup==1.1.3
 fastai==2.7.12
 fastcore==1.5.29
 fastdownload==0.0.7
-fastjsonschema==2.18.0
+fastjsonschema==2.18.1
 fastprogress==1.0.3
 fastrlock==0.8.2
 filelock==3.12.4
@@ -110,7 +110,7 @@ gast==0.4.0
 gcsfs==2023.6.0
 GDAL==3.4.3
 gdown==4.6.6
-geemap==0.27.3
+geemap==0.27.4
 gensim==4.3.2
 geocoder==1.38.1
 geographiclib==2.0
@@ -141,9 +141,9 @@ google-resumable-media==2.6.0
 googleapis-common-protos==1.60.0
 googledrivedownloader==0.4
 graphviz==0.20.1
-greenlet==2.0.2
+greenlet==3.0.0
 grpc-google-iam-v1==0.12.6
-grpcio==1.58.0
+grpcio==1.59.0
 grpcio-status==1.48.2
 gspread==3.4.2
 gspread-dataframe==3.3.1
@@ -151,7 +151,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.2.0
 h5py==3.9.0
-holidays==0.33
+holidays==0.34
 holoviews==1.17.1
 html5lib==1.1
 httpimport==1.3.1
@@ -159,7 +159,7 @@ httplib2==0.22.0
 humanize==4.7.0
 hyperopt==0.2.7
 idna==3.4
-imageio==2.31.4
+imageio==2.31.5
 imageio-ffmpeg==0.4.9
 imagesize==1.4.1
 imbalanced-learn==0.10.1
@@ -180,8 +180,8 @@ ipython-sql==0.5.0
 ipytree==0.2.2
 ipywidgets==7.7.1
 itsdangerous==2.1.2
-jax==0.4.14
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.14+cuda11.cudnn86-cp310-cp310-manylinux2014_x86_64.whl#sha256=09c439923a785df517e3f470158dd3e46de454a01eca80935eed4ba383b5e90a
+jax==0.4.16
+jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.16+cuda11.cudnn86-cp310-cp310-manylinux2014_x86_64.whl#sha256=78b3a9acfda4bfaae8a1dc112995d56454020f5c02dba4d24c40c906332efd4a
 jeepney==0.7.1
 jieba==0.42.1
 Jinja2==3.1.2
@@ -208,7 +208,7 @@ libclang==16.0.6
 librosa==0.10.1
 lightgbm==4.0.0
 linkify-it-py==2.0.2
-lit==17.0.1
+lit==17.0.2
 llvmlite==0.39.1
 locket==1.0.0
 logical-unification==0.4.6
@@ -262,7 +262,7 @@ opt-einsum==3.3.0
 optax==0.1.7
 orbax-checkpoint==0.4.1
 osqp==0.6.2.post8
-packaging==23.1
+packaging==23.2
 pandas==1.5.3
 pandas-datareader==0.10.0
 pandas-gbq==0.17.9
@@ -280,7 +280,7 @@ pickleshare==0.7.5
 Pillow==9.4.0
 pip==23.1.2
 pip-tools==6.13.0
-platformdirs==3.10.0
+platformdirs==3.11.0
 plotly==5.15.0
 plotnine==0.12.3
 pluggy==1.3.0
@@ -299,7 +299,7 @@ prophet==1.1.4
 proto-plus==1.22.3
 protobuf==3.20.3
 psutil==5.9.5
-psycopg2==2.9.8
+psycopg2==2.9.9
 ptyprocess==0.7.0
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
@@ -353,14 +353,14 @@ regex==2023.6.3
 requests==2.31.0
 requests-oauthlib==1.3.1
 requirements-parser==0.5.0
-rich==13.5.3
+rich==13.6.0
 rpds-py==0.10.3
 rpy2==3.4.2
 rsa==4.9
 scikit-image==0.19.3
 scikit-learn==1.2.2
 scipy==1.11.3
-scooby==0.7.3
+scooby==0.7.4
 scs==3.2.3
 seaborn==0.12.2
 SecretStorage==3.3.1
@@ -389,6 +389,7 @@ sphinxcontrib-serializinghtml==1.1.9
 SQLAlchemy==2.0.21
 sqlparse==0.4.4
 srsly==2.4.8
+stanio==0.3.0
 statsmodels==0.14.0
 sympy==1.12
 tables==3.8.0
@@ -406,7 +407,7 @@ tensorflow-hub==0.14.0
 tensorflow-io-gcs-filesystem==0.34.0
 tensorflow-metadata==1.14.0
 tensorflow-probability==0.20.1
-tensorstore==0.1.44
+tensorstore==0.1.45
 termcolor==2.3.0
 terminado==0.17.1
 text-unidecode==1.3
@@ -437,15 +438,15 @@ typing_extensions==4.5.0
 tzlocal==5.0.1
 uc-micro-py==1.0.2
 uritemplate==4.1.1
-urllib3==2.0.5
+urllib3==2.0.6
 vega-datasets==0.9.0
 wadllib==1.3.6
 wasabi==1.1.2
-wcwidth==0.2.7
+wcwidth==0.2.8
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.6.3
-Werkzeug==2.3.7
+Werkzeug==3.0.0
 wheel==0.41.2
 widgetsnbextension==3.6.6
 wordcloud==1.9.2
