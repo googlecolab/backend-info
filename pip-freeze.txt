@@ -15,7 +15,7 @@ argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 array-record==0.4.1
 arviz==0.15.1
-astropy==5.3.3
+astropy==5.3.4
 astunparse==1.6.3
 async-timeout==4.0.3
 attrs==23.1.0
@@ -110,7 +110,7 @@ gast==0.4.0
 gcsfs==2023.6.0
 GDAL==3.4.3
 gdown==4.6.6
-geemap==0.27.4
+geemap==0.28.1
 gensim==4.3.2
 geocoder==1.38.1
 geographiclib==2.0
@@ -435,7 +435,7 @@ tweepy==4.13.0
 typer==0.9.0
 types-setuptools==68.2.0.0
 typing_extensions==4.5.0
-tzlocal==5.0.1
+tzlocal==5.1
 uc-micro-py==1.0.2
 uritemplate==4.1.1
 urllib3==2.0.6
