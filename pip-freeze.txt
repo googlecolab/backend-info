@@ -76,7 +76,7 @@ dm-tree==0.1.8
 docutils==0.18.1
 dopamine-rl==4.0.6
 duckdb==0.8.1
-earthengine-api==0.1.373
+earthengine-api==0.1.374
 easydict==1.10
 ecos==2.0.12
 editdistance==0.6.2
@@ -101,7 +101,7 @@ Flask==2.2.5
 flatbuffers==23.5.26
 flax==0.7.4
 folium==0.14.0
-fonttools==4.43.0
+fonttools==4.43.1
 frozendict==2.3.8
 frozenlist==1.4.0
 fsspec==2023.6.0
@@ -403,7 +403,7 @@ tensorflow==2.13.0
 tensorflow-datasets==4.9.3
 tensorflow-estimator==2.13.0
 tensorflow-gcs-config==2.13.0
-tensorflow-hub==0.14.0
+tensorflow-hub==0.15.0
 tensorflow-io-gcs-filesystem==0.34.0
 tensorflow-metadata==1.14.0
 tensorflow-probability==0.20.1
