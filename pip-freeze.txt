@@ -69,6 +69,7 @@ dbus-python==1.2.18
 debugpy==1.6.6
 decorator==4.4.2
 defusedxml==0.7.1
+diskcache==5.6.3
 distributed==2023.8.1
 distro==1.7.0
 dlib==19.24.2
@@ -168,6 +169,7 @@ importlib-resources==6.1.0
 imutils==0.5.4
 inflect==7.0.0
 iniconfig==2.0.0
+install==1.3.5
 intel-openmp==2023.2.0
 ipyevents==2.0.2
 ipyfilechooser==0.6.0
@@ -205,9 +207,11 @@ lazr.uri==1.0.6
 lazy_loader==0.3
 libclang==16.0.6
 librosa==0.10.1
+lida==0.0.10
 lightgbm==4.0.0
 linkify-it-py==2.0.2
 lit==17.0.2
+llmx==0.0.15a0
 llvmlite==0.39.1
 locket==1.0.0
 logical-unification==0.4.6
