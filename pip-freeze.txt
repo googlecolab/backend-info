@@ -31,7 +31,7 @@ bleach==6.1.0
 blinker==1.4
 blis==0.7.11
 blosc2==2.0.0
-bokeh==3.3.1
+bokeh==3.3.2
 bqplot==0.12.42
 branca==0.7.0
 build==1.0.3
@@ -47,7 +47,7 @@ click==8.1.7
 click-plugins==1.1.1
 cligj==0.7.2
 cloudpickle==2.2.1
-cmake==3.27.7
+cmake==3.27.9
 cmdstanpy==1.2.0
 colorcet==3.0.1
 colorlover==0.3.0
@@ -104,7 +104,7 @@ Flask==2.2.5
 flatbuffers==23.5.26
 flax==0.7.5
 folium==0.14.0
-fonttools==4.45.1
+fonttools==4.46.0
 frozendict==2.3.10
 frozenlist==1.4.0
 fsspec==2023.6.0
@@ -113,7 +113,7 @@ gast==0.5.4
 gcsfs==2023.6.0
 GDAL==3.4.3
 gdown==4.6.6
-geemap==0.28.2
+geemap==0.29.6
 gensim==4.3.2
 geocoder==1.38.1
 geographiclib==2.0
@@ -159,7 +159,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.3.0
 h5py==3.9.0
-holidays==0.37
+holidays==0.38
 holoviews==1.17.1
 html5lib==1.1
 httpimport==1.3.1
@@ -174,7 +174,7 @@ imageio-ffmpeg==0.4.9
 imagesize==1.4.1
 imbalanced-learn==0.10.1
 imgaug==0.4.0
-importlib-metadata==6.8.0
+importlib-metadata==7.0.0
 importlib-resources==6.1.1
 imutils==0.5.4
 inflect==7.0.0
@@ -225,7 +225,7 @@ llvmlite==0.41.1
 locket==1.0.0
 logical-unification==0.4.6
 lxml==4.9.3
-malloy==2023.1064
+malloy==2023.1067
 Markdown==3.5.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
@@ -272,7 +272,7 @@ opencv-python-headless==4.8.1.78
 openpyxl==3.1.2
 opt-einsum==3.3.0
 optax==0.1.7
-orbax-checkpoint==0.4.3
+orbax-checkpoint==0.4.4
 osqp==0.6.2.post8
 packaging==23.2
 pandas==1.5.3
@@ -287,14 +287,14 @@ parsy==2.1
 partd==1.4.1
 pathlib==1.0.1
 pathy==0.10.3
-patsy==0.5.3
+patsy==0.5.4
 peewee==3.17.0
 pexpect==4.9.0
 pickleshare==0.7.5
 Pillow==9.4.0
 pip==23.1.2
 pip-tools==6.13.0
-platformdirs==4.0.0
+platformdirs==4.1.0
 plotly==5.15.0
 plotnine==0.12.4
 pluggy==1.3.0
@@ -423,7 +423,7 @@ tensorflow-io-gcs-filesystem==0.34.0
 tensorflow-metadata==1.14.0
 tensorflow-probability==0.22.0
 tensorstore==0.1.45
-termcolor==2.3.0
+termcolor==2.4.0
 terminado==0.18.0
 text-unidecode==1.3
 textblob==0.17.1
@@ -463,7 +463,7 @@ wasabi==1.1.2
 wcwidth==0.2.12
 webcolors==1.13
 webencodings==0.5.1
-websocket-client==1.6.4
+websocket-client==1.7.0
 Werkzeug==3.0.1
 wheel==0.42.0
 widgetsnbextension==3.6.6
