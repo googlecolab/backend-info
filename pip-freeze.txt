@@ -22,11 +22,11 @@ atpublic==4.0
 attrs==23.1.0
 audioread==3.0.1
 autograd==1.6.2
-Babel==2.13.1
+Babel==2.14.0
 backcall==0.2.0
 beautifulsoup4==4.11.2
 bidict==0.22.1
-bigframes==0.15.0
+bigframes==0.16.0
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
@@ -127,7 +127,7 @@ google-api-core==2.11.1
 google-api-python-client==2.84.0
 google-auth==2.17.3
 google-auth-httplib2==0.1.1
-google-auth-oauthlib==1.1.0
+google-auth-oauthlib==1.2.0
 google-cloud-aiplatform==1.36.4
 google-cloud-bigquery==3.12.0
 google-cloud-bigquery-connection==1.12.1
@@ -145,7 +145,7 @@ google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
 google-crc32c==1.5.0
 google-generativeai==0.2.2
 google-pasta==0.2.0
-google-resumable-media==2.6.0
+google-resumable-media==2.7.0
 googleapis-common-protos==1.62.0
 googledrivedownloader==0.4
 graphviz==0.20.1
@@ -308,7 +308,7 @@ proglog==0.1.10
 progressbar2==4.2.0
 prometheus-client==0.19.0
 promise==2.3
-prompt-toolkit==3.0.41
+prompt-toolkit==3.0.42
 prophet==1.1.5
 proto-plus==1.23.0
 protobuf==3.20.3
