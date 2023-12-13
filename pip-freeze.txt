@@ -128,10 +128,10 @@ google-api-python-client==2.84.0
 google-auth==2.17.3
 google-auth-httplib2==0.1.1
 google-auth-oauthlib==1.2.0
-google-cloud-aiplatform==1.36.4
+google-cloud-aiplatform==1.38.0
 google-cloud-bigquery==3.12.0
 google-cloud-bigquery-connection==1.12.1
-google-cloud-bigquery-storage==2.23.0
+google-cloud-bigquery-storage==2.24.0
 google-cloud-core==2.3.3
 google-cloud-datastore==2.15.2
 google-cloud-firestore==2.11.1
