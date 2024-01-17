@@ -26,7 +26,7 @@ Babel==2.14.0
 backcall==0.2.0
 beautifulsoup4==4.11.2
 bidict==0.22.1
-bigframes==0.19.0
+bigframes==0.19.1
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
@@ -113,7 +113,7 @@ gast==0.5.4
 gcsfs==2023.6.0
 GDAL==3.4.3
 gdown==4.6.6
-geemap==0.30.3
+geemap==0.30.4
 gensim==4.3.2
 geocoder==1.38.1
 geographiclib==2.0
@@ -159,7 +159,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.3.0
 h5py==3.9.0
-holidays==0.40
+holidays==0.41
 holoviews==1.17.1
 html5lib==1.1
 httpimport==1.3.1
@@ -256,7 +256,7 @@ nbclassic==1.0.0
 nbclient==0.9.0
 nbconvert==6.5.4
 nbformat==5.9.2
-nest-asyncio==1.5.8
+nest-asyncio==1.5.9
 networkx==3.2.1
 nibabel==4.0.2
 nltk==3.8.1
@@ -272,7 +272,7 @@ opencv-python==4.8.0.76
 opencv-python-headless==4.9.0.80
 openpyxl==3.1.2
 opt-einsum==3.3.0
-optax==0.1.7
+optax==0.1.8
 orbax-checkpoint==0.4.4
 osqp==0.6.2.post8
 packaging==23.2
@@ -287,7 +287,8 @@ parso==0.8.3
 parsy==2.1
 partd==1.4.1
 pathlib==1.0.1
-pathy==0.10.3
+pathlib_abc==0.1.1
+pathy==0.11.0
 patsy==0.5.6
 peewee==3.17.0
 pexpect==4.9.0
@@ -357,7 +358,7 @@ python-louvain==0.16
 python-slugify==8.0.1
 python-utils==3.8.1
 pytz==2023.3.post1
-pyviz_comms==3.0.0
+pyviz_comms==3.0.1
 PyWavelets==1.5.0
 PyYAML==6.0.1
 pyzmq==23.2.1
@@ -370,7 +371,7 @@ requests==2.31.0
 requests-oauthlib==1.3.1
 requirements-parser==0.5.0
 rich==13.7.0
-rpds-py==0.16.2
+rpds-py==0.17.1
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.1
@@ -397,12 +398,12 @@ spacy==3.6.1
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 Sphinx==5.0.2
-sphinxcontrib-applehelp==1.0.7
-sphinxcontrib-devhelp==1.0.5
-sphinxcontrib-htmlhelp==2.0.4
+sphinxcontrib-applehelp==1.0.8
+sphinxcontrib-devhelp==1.0.6
+sphinxcontrib-htmlhelp==2.0.5
 sphinxcontrib-jsmath==1.0.1
-sphinxcontrib-qthelp==1.0.6
-sphinxcontrib-serializinghtml==1.1.9
+sphinxcontrib-qthelp==1.0.7
+sphinxcontrib-serializinghtml==1.1.10
 SQLAlchemy==2.0.24
 sqlglot==19.9.0
 sqlparse==0.4.4
