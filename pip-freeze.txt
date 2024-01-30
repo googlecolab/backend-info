@@ -4,7 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-aiohttp==3.9.1
+aiohttp==3.9.3
 aiosignal==1.3.1
 alabaster==0.7.16
 albumentations==1.3.1
@@ -207,7 +207,7 @@ jupyter_core==5.7.1
 jupyterlab-widgets==3.0.9
 jupyterlab_pygments==0.3.0
 kaggle==1.5.16
-kagglehub==0.1.6
+kagglehub==0.1.7
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.5
@@ -232,7 +232,7 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.4
 matplotlib==3.7.1
 matplotlib-inline==0.1.6
-matplotlib-venn==0.11.9
+matplotlib-venn==0.11.10
 mdit-py-plugins==0.4.0
 mdurl==0.1.2
 miniKanren==1.0.3
@@ -357,7 +357,7 @@ python-dateutil==2.8.2
 python-louvain==0.16
 python-slugify==8.0.2
 python-utils==3.8.2
-pytz==2023.3.post1
+pytz==2023.4
 pyviz_comms==3.0.1
 PyWavelets==1.5.0
 PyYAML==6.0.1
@@ -365,7 +365,7 @@ pyzmq==23.2.1
 qdldl==0.1.7.post0
 qudida==0.0.4
 ratelim==0.1.6
-referencing==0.32.1
+referencing==0.33.0
 regex==2023.6.3
 requests==2.31.0
 requests-oauthlib==1.3.1
@@ -423,7 +423,7 @@ tensorflow==2.15.0
 tensorflow-datasets==4.9.4
 tensorflow-estimator==2.15.0
 tensorflow-gcs-config==2.15.0
-tensorflow-hub==0.16.0
+tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.35.0
 tensorflow-metadata==1.14.0
 tensorflow-probability==0.22.0
@@ -432,10 +432,11 @@ termcolor==2.4.0
 terminado==0.18.0
 text-unidecode==1.3
 textblob==0.17.1
+tf-keras==2.15.0
 tf-slim==1.1.0
 thinc==8.1.12
 threadpoolctl==3.2.0
-tifffile==2023.12.9
+tifffile==2024.1.30
 tinycss2==1.2.1
 tokenizers==0.15.1
 toml==0.10.2
@@ -455,7 +456,7 @@ transformers==4.35.2
 triton==2.1.0
 tweepy==4.14.0
 typer==0.9.0
-types-pytz==2023.3.1.1
+types-pytz==2023.4.0.20240130
 types-setuptools==69.0.0.20240125
 typing_extensions==4.5.0
 tzlocal==5.2
