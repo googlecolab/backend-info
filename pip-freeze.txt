@@ -9,6 +9,7 @@ aiosignal==1.3.1
 alabaster==0.7.16
 albumentations==1.3.1
 altair==4.2.2
+annotated-types==0.6.0
 anyio==3.7.1
 appdirs==1.4.4
 argon2-cffi==23.1.0
@@ -35,10 +36,10 @@ bokeh==3.3.4
 bqplot==0.12.42
 branca==0.7.1
 build==1.0.3
-CacheControl==0.13.1
+CacheControl==0.14.0
 cachetools==5.3.2
 catalogue==2.0.10
-certifi==2023.11.17
+certifi==2024.2.2
 cffi==1.16.0
 chardet==5.2.0
 charset-normalizer==3.3.2
@@ -137,9 +138,9 @@ google-cloud-core==2.3.3
 google-cloud-datastore==2.15.2
 google-cloud-firestore==2.11.1
 google-cloud-functions==1.13.3
-google-cloud-iam==2.13.0
+google-cloud-iam==2.14.0
 google-cloud-language==2.9.1
-google-cloud-resource-manager==1.11.0
+google-cloud-resource-manager==1.12.0
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.3
 google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
@@ -152,7 +153,7 @@ googledrivedownloader==0.4
 graphviz==0.20.1
 greenlet==3.0.3
 grpc-google-iam-v1==0.13.0
-grpcio==1.60.0
+grpcio==1.60.1
 grpcio-status==1.48.2
 gspread==3.4.2
 gspread-dataframe==3.3.1
@@ -230,7 +231,7 @@ lxml==4.9.4
 malloy==2023.1067
 Markdown==3.5.2
 markdown-it-py==3.0.0
-MarkupSafe==2.1.4
+MarkupSafe==2.1.5
 matplotlib==3.7.1
 matplotlib-inline==0.1.6
 matplotlib-venn==0.11.10
@@ -247,7 +248,7 @@ more-itertools==10.1.0
 moviepy==1.0.3
 mpmath==1.3.0
 msgpack==1.0.7
-multidict==6.0.4
+multidict==6.0.5
 multipledispatch==1.0.0
 multitasking==0.0.11
 murmurhash==1.0.10
@@ -326,7 +327,8 @@ pyasn1-modules==0.3.0
 pycocotools==2.0.7
 pycparser==2.21
 pyct==0.5.0
-pydantic==1.10.14
+pydantic==2.6.0
+pydantic_core==2.16.1
 pydata-google-auth==1.8.2
 pydot==1.4.2
 pydot-ng==2.0.0
@@ -404,7 +406,7 @@ sphinxcontrib-htmlhelp==2.0.5
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.7
 sphinxcontrib-serializinghtml==1.1.10
-SQLAlchemy==2.0.24
+SQLAlchemy==2.0.25
 sqlglot==19.9.0
 sqlparse==0.4.4
 srsly==2.4.8
@@ -425,7 +427,7 @@ tensorflow-gcs-config==2.15.0
 tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.35.0
 tensorflow-metadata==1.14.0
-tensorflow-probability==0.22.0
+tensorflow-probability==0.23.0
 tensorstore==0.1.45
 termcolor==2.4.0
 terminado==0.18.0
@@ -457,7 +459,7 @@ tweepy==4.14.0
 typer==0.9.0
 types-pytz==2023.4.0.20240130
 types-setuptools==69.0.0.20240125
-typing_extensions==4.5.0
+typing_extensions==4.9.0
 tzlocal==5.2
 uc-micro-py==1.0.2
 uritemplate==4.1.1
