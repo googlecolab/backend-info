@@ -115,7 +115,7 @@ gast==0.5.4
 gcsfs==2023.6.0
 GDAL==3.6.4
 gdown==4.7.3
-geemap==0.30.4
+geemap==0.31.0
 gensim==4.3.2
 geocoder==1.38.1
 geographiclib==2.0
@@ -130,7 +130,7 @@ google-api-python-client==2.84.0
 google-auth==2.27.0
 google-auth-httplib2==0.1.1
 google-auth-oauthlib==1.2.0
-google-cloud-aiplatform==1.39.0
+google-cloud-aiplatform==1.42.0
 google-cloud-bigquery==3.12.0
 google-cloud-bigquery-connection==1.12.1
 google-cloud-bigquery-storage==2.24.0
