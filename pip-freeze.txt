@@ -59,7 +59,7 @@ confection==0.1.4
 cons==0.4.6
 contextlib2==21.6.0
 contourpy==1.2.0
-cryptography==42.0.2
+cryptography==42.0.3
 cufflinks==0.17.3
 cupy-cuda12x==12.2.0
 cvxopt==1.3.2
@@ -89,7 +89,7 @@ eerepr==0.0.4
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 et-xmlfile==1.1.0
-etils==1.6.0
+etils==1.7.0
 etuples==0.3.9
 exceptiongroup==1.2.0
 fastai==2.7.14
@@ -105,7 +105,7 @@ Flask==2.2.5
 flatbuffers==23.5.26
 flax==0.8.1
 folium==0.14.0
-fonttools==4.48.1
+fonttools==4.49.0
 frozendict==2.4.0
 frozenlist==1.4.1
 fsspec==2023.6.0
@@ -129,7 +129,7 @@ google-api-python-client==2.84.0
 google-auth==2.27.0
 google-auth-httplib2==0.1.1
 google-auth-oauthlib==1.2.0
-google-cloud-aiplatform==1.42.0
+google-cloud-aiplatform==1.42.1
 google-cloud-bigquery==3.12.0
 google-cloud-bigquery-connection==1.12.1
 google-cloud-bigquery-storage==2.24.0
@@ -316,7 +316,7 @@ psycopg2==2.9.9
 ptyprocess==0.7.0
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
-pyarrow==10.0.1
+pyarrow==14.0.2
 pyarrow-hotfix==0.6
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
@@ -382,7 +382,7 @@ SecretStorage==3.3.1
 Send2Trash==1.8.2
 sentencepiece==0.1.99
 setuptools==67.7.2
-shapely==2.0.2
+shapely==2.0.3
 six==1.16.0
 sklearn-pandas==2.2.0
 smart-open==6.4.0
@@ -392,7 +392,7 @@ sortedcontainers==2.4.0
 soundfile==0.12.1
 soupsieve==2.5
 soxr==0.3.7
-spacy==3.7.2
+spacy==3.7.4
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 Sphinx==5.0.2
@@ -449,7 +449,7 @@ tornado==6.3.2
 tqdm==4.66.2
 traitlets==5.7.1
 traittypes==0.2.1
-transformers==4.35.2
+transformers==4.37.2
 triton==2.1.0
 tweepy==4.14.0
 typer==0.9.0
