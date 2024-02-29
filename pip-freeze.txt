@@ -35,7 +35,7 @@ blosc2==2.0.0
 bokeh==3.3.4
 bqplot==0.12.43
 branca==0.7.1
-build==1.0.3
+build==1.1.1
 CacheControl==0.14.0
 cachetools==5.3.3
 catalogue==2.0.10
@@ -454,7 +454,7 @@ triton==2.1.0
 tweepy==4.14.0
 typer==0.9.0
 types-pytz==2024.1.0.20240203
-types-setuptools==69.1.0.20240223
+types-setuptools==69.1.0.20240229
 typing_extensions==4.10.0
 tzlocal==5.2
 uc-micro-py==1.0.3

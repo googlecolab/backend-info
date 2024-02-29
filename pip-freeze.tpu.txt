@@ -18,7 +18,7 @@ beautifulsoup4==4.12.3
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
-build==1.0.3
+build==1.1.1
 cachetools==5.3.3
 catalogue==2.0.10
 certifi==2024.2.2
@@ -272,7 +272,7 @@ trax==1.4.1
 triton==2.1.0
 typer==0.9.0
 types-pytz==2024.1.0.20240203
-types-setuptools==69.1.0.20240223
+types-setuptools==69.1.0.20240229
 typing_extensions==4.10.0
 tzlocal==5.2
 uritemplate==3.0.1
