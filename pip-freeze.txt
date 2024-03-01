@@ -51,7 +51,7 @@ cloudpathlib==0.16.0
 cloudpickle==2.2.1
 cmake==3.27.9
 cmdstanpy==1.2.1
-colorcet==3.0.1
+colorcet==3.1.0
 colorlover==0.3.0
 colour==0.1.5
 community==1.0.0b1
@@ -129,7 +129,7 @@ google-api-python-client==2.84.0
 google-auth==2.27.0
 google-auth-httplib2==0.1.1
 google-auth-oauthlib==1.2.0
-google-cloud-aiplatform==1.42.1
+google-cloud-aiplatform==1.43.0
 google-cloud-bigquery==3.12.0
 google-cloud-bigquery-connection==1.12.1
 google-cloud-bigquery-storage==2.24.0
@@ -322,7 +322,6 @@ pyasn1==0.5.1
 pyasn1-modules==0.3.0
 pycocotools==2.0.7
 pycparser==2.21
-pyct==0.5.0
 pydantic==2.6.3
 pydantic_core==2.16.3
 pydata-google-auth==1.8.2
