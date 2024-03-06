@@ -207,7 +207,7 @@ jupyter_core==5.7.1
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.10
 kaggle==1.5.16
-kagglehub==0.1.9
+kagglehub==0.2.0
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.5
