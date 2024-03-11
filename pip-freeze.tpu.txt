@@ -52,7 +52,7 @@ fastdownload==0.0.7
 fastjsonschema==2.19.1
 fastprogress==1.0.3
 filelock==3.13.1
-flatbuffers==24.3.6
+flatbuffers==24.3.7
 flax==0.8.1
 fonttools==4.49.0
 fsspec==2024.2.0
@@ -74,8 +74,8 @@ google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.7.0
-googleapis-common-protos==1.62.0
-grpcio==1.62.0
+googleapis-common-protos==1.63.0
+grpcio==1.62.1
 gspread==3.4.2
 gspread-dataframe==3.3.1
 gym==0.25.2
@@ -148,7 +148,7 @@ opencv-python==4.9.0.80
 opt-einsum==3.3.0
 optax==0.1.9
 orbax-checkpoint==0.4.4
-packaging==23.2
+packaging==24.0
 pandas==1.5.3
 pandas-stubs==1.5.3.230304
 pandocfilters==1.5.1
@@ -193,7 +193,7 @@ pyzmq==23.2.1
 referencing==0.33.0
 regex==2023.12.25
 requests==2.31.0
-requests-oauthlib==1.3.1
+requests-oauthlib==1.4.0
 requirements-parser==0.5.0
 rich==13.7.1
 rpds-py==0.18.0
@@ -235,8 +235,8 @@ tensorstore==0.1.45
 termcolor==2.4.0
 terminado==0.18.0
 text-unidecode==1.3
-tf-keras==2.15.0
 tf-slim==1.1.0
+tf_keras==2.15.1
 thinc==8.2.3
 threadpoolctl==3.3.0
 tifffile==2024.2.12
@@ -245,13 +245,12 @@ tokenizers==0.15.2
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cpu/torch-2.1.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=5077921fc2b54e69a534f3a9c0b98493c79a5547c49d46f5e77e42da3610e011
-torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.1.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=c5e84c3ee6d2ab53c0f8268e799e4ca18743643d24c3330ec099acb12b2e3175
-torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.1.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=479bf607276c688db13c3652f36978b06bf9d827763a799b6d6f07d90a794205
-torchdata==0.7.0
-torchsummary==1.5.1
-torchtext==0.16.0
-torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.16.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=4d3dd85091803d3302e1d5fde39d5b3ffc8a52ddd68f2323bfd19ae3019cc759
+torch @ https://download.pytorch.org/whl/cpu/torch-2.2.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=5f907293f5a58619c1c520380f17641f76400a136474a4b1a66c363d2563fe5e
+torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.2.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=058a2d2805d6b1d0a8273b63c9cb16f337dc39ec63a6a6b86c9ad74393c48c41
+torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.2.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=34fb064f130963e802e0465e13bb5c3a762d7a9340da83200c0255d0ca2ab87d
+torchdata==0.7.1
+torchtext==0.17.0
+torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.17.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=00e88e9483e52f99fc61a73941b6ef0b59d031930276fc220ee8973170f305ff
 tornado==6.3.3
 tqdm==4.66.2
 traitlets==5.7.1
@@ -259,7 +258,7 @@ transformers==4.38.2
 trax==1.4.1
 typer==0.9.0
 types-pytz==2024.1.0.20240203
-types-setuptools==69.1.0.20240302
+types-setuptools==69.1.0.20240310
 typing_extensions==4.10.0
 tzlocal==5.2
 uritemplate==3.0.1
@@ -272,7 +271,7 @@ weasel==0.3.4
 webencodings==0.5.1
 websocket-client==1.7.0
 Werkzeug==3.0.1
-wheel==0.42.0
+wheel==0.43.0
 widgetsnbextension==3.6.6
 wrapt==1.14.1
 zipp==3.17.0
