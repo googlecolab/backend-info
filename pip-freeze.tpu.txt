@@ -53,7 +53,7 @@ fastjsonschema==2.19.1
 fastprogress==1.0.3
 filelock==3.13.1
 flatbuffers==24.3.7
-flax==0.8.1
+flax==0.8.2
 fonttools==4.49.0
 fsspec==2024.2.0
 funcsigs==1.0.2
@@ -119,7 +119,7 @@ libclang==16.0.6
 librosa==0.10.1
 libtpu-nightly==0.1.dev20231213+default
 llvmlite==0.42.0
-Markdown==3.5.2
+Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.7.1
