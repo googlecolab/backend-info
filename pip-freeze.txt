@@ -27,7 +27,7 @@ Babel==2.14.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
-bigframes==0.24.0
+bigframes==0.25.0
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
@@ -480,4 +480,4 @@ yarl==1.9.4
 yellowbrick==1.5
 yfinance==0.2.37
 zict==3.0.0
-zipp==3.18.0
+zipp==3.18.1

@@ -274,4 +274,4 @@ Werkzeug==3.0.1
 wheel==0.43.0
 widgetsnbextension==3.6.6
 wrapt==1.14.1
-zipp==3.18.0
+zipp==3.18.1
