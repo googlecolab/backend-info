@@ -35,7 +35,7 @@ blosc2==2.0.0
 bokeh==3.3.4
 bqplot==0.12.43
 branca==0.7.1
-build==1.1.1
+build==1.2.1
 CacheControl==0.14.0
 cachetools==5.3.3
 catalogue==2.0.10
@@ -50,7 +50,7 @@ cligj==0.7.2
 cloudpathlib==0.16.0
 cloudpickle==2.2.1
 cmake==3.27.9
-cmdstanpy==1.2.1
+cmdstanpy==1.2.2
 colorcet==3.1.0
 colorlover==0.3.0
 colour==0.1.5
@@ -102,7 +102,7 @@ filelock==3.13.3
 fiona==1.9.6
 firebase-admin==5.3.0
 Flask==2.2.5
-flatbuffers==24.3.7
+flatbuffers==24.3.25
 flax==0.8.2
 folium==0.14.0
 fonttools==4.50.0
@@ -207,7 +207,7 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.10
 kaggle==1.5.16
-kagglehub==0.2.1
+kagglehub==0.2.2
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.5
@@ -270,14 +270,14 @@ opencv-python==4.8.0.76
 opencv-python-headless==4.9.0.80
 openpyxl==3.1.2
 opt-einsum==3.3.0
-optax==0.2.1
+optax==0.2.2
 orbax-checkpoint==0.4.4
 osqp==0.6.2.post8
 packaging==24.0
-pandas==2.0.3
+pandas==1.5.3
 pandas-datareader==0.10.0
 pandas-gbq==0.19.2
-pandas-stubs==2.0.3.230814
+pandas-stubs==1.5.3.230304
 pandocfilters==1.5.1
 panel==1.3.8
 param==2.1.0
@@ -317,8 +317,8 @@ py-cpuinfo==9.0.0
 py4j==0.10.9.7
 pyarrow==14.0.2
 pyarrow-hotfix==0.6
-pyasn1==0.5.1
-pyasn1-modules==0.3.0
+pyasn1==0.6.0
+pyasn1_modules==0.4.0
 pycocotools==2.0.7
 pycparser==2.21
 pydantic==2.6.4
@@ -364,7 +364,7 @@ referencing==0.34.0
 regex==2023.12.25
 requests==2.31.0
 requests-oauthlib==1.4.1
-requirements-parser==0.5.0
+requirements-parser==0.7.0
 rich==13.7.1
 rpds-py==0.18.0
 rpy2==3.4.2
@@ -404,12 +404,12 @@ SQLAlchemy==2.0.29
 sqlglot==20.11.0
 sqlparse==0.4.4
 srsly==2.4.8
-stanio==0.3.0
+stanio==0.5.0
 statsmodels==0.14.1
 sympy==1.12
 tables==3.8.0
 tabulate==0.9.0
-tbb==2021.11.0
+tbb==2021.12.0
 tblib==3.0.0
 tenacity==8.2.3
 tensorboard==2.15.2
@@ -454,7 +454,6 @@ typer==0.9.4
 types-pytz==2024.1.0.20240203
 types-setuptools==69.2.0.20240317
 typing_extensions==4.10.0
-tzdata==2024.1
 tzlocal==5.2
 uc-micro-py==1.0.3
 uritemplate==4.1.1
