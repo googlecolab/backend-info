@@ -81,8 +81,8 @@ dm-tree==0.1.8
 docstring_parser==0.16
 docutils==0.18.1
 dopamine-rl==4.0.6
-duckdb==0.10.1
-earthengine-api==0.1.398
+duckdb==0.10.2
+earthengine-api==0.1.399
 easydict==1.13
 ecos==2.0.13
 editdistance==0.6.2
@@ -130,7 +130,7 @@ google-api-python-client==2.84.0
 google-auth==2.27.0
 google-auth-httplib2==0.1.1
 google-auth-oauthlib==1.2.0
-google-cloud-aiplatform==1.47.0
+google-cloud-aiplatform==1.48.0
 google-cloud-bigquery==3.12.0
 google-cloud-bigquery-connection==1.12.1
 google-cloud-bigquery-storage==2.24.0
@@ -138,7 +138,7 @@ google-cloud-core==2.3.3
 google-cloud-datastore==2.15.2
 google-cloud-firestore==2.11.1
 google-cloud-functions==1.13.3
-google-cloud-iam==2.14.3
+google-cloud-iam==2.15.0
 google-cloud-language==2.13.3
 google-cloud-resource-manager==1.12.3
 google-cloud-storage==2.8.0
@@ -287,7 +287,7 @@ parsy==2.1
 partd==1.4.1
 pathlib==1.0.1
 patsy==0.5.6
-peewee==3.17.2
+peewee==3.17.3
 pexpect==4.9.0
 pickleshare==0.7.5
 Pillow==9.4.0
@@ -381,7 +381,7 @@ SecretStorage==3.3.1
 Send2Trash==1.8.3
 sentencepiece==0.1.99
 setuptools==67.7.2
-shapely==2.0.3
+shapely==2.0.4
 six==1.16.0
 sklearn-pandas==2.2.0
 smart-open==6.4.0
@@ -406,7 +406,7 @@ sqlglot==20.11.0
 sqlparse==0.5.0
 srsly==2.4.8
 stanio==0.5.0
-statsmodels==0.14.1
+statsmodels==0.14.2
 sympy==1.12
 tables==3.8.0
 tabulate==0.9.0
@@ -452,7 +452,7 @@ transformers==4.38.2
 triton==2.2.0
 tweepy==4.14.0
 typer==0.9.4
-types-pytz==2024.1.0.20240203
+types-pytz==2024.1.0.20240417
 types-setuptools==69.5.0.20240415
 typing_extensions==4.11.0
 tzdata==2024.1

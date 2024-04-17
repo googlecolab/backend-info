@@ -1006,7 +1006,7 @@ openjdk-11-jdk-headless/jammy-updates,jammy-security,now 11.0.22+7-0ubuntu2~22.0
 openjdk-11-jre-headless/jammy-updates,jammy-security,now 11.0.22+7-0ubuntu2~22.04.1 amd64 [installed,automatic]
 openmpi-bin/jammy,now 4.1.2-2ubuntu1 amd64 [installed,automatic]
 openmpi-common/jammy,now 4.1.2-2ubuntu1 all [installed,automatic]
-openssh-client/jammy-updates,jammy-security,now 1:8.9p1-3ubuntu0.6 amd64 [installed]
+openssh-client/jammy-updates,now 1:8.9p1-3ubuntu0.7 amd64 [installed]
 openssl/now 3.0.2-0ubuntu1.12 amd64 [installed,upgradable to: 3.0.2-0ubuntu1.15]
 p7zip-full/jammy,now 16.02+dfsg-8 amd64 [installed]
 p7zip/jammy,now 16.02+dfsg-8 amd64 [installed,automatic]
