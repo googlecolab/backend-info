@@ -80,10 +80,10 @@ gspread==3.4.2
 gspread-dataframe==3.3.1
 gym==0.25.2
 gym-notices==0.0.8
-h5py==3.10.0
+h5py==3.11.0
 httplib2==0.22.0
 huggingface-hub==0.20.3
-idna==3.6
+idna==3.7
 imageio==2.34.0
 importlib-metadata==4.6.4
 importlib_resources==6.4.0
@@ -106,7 +106,7 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.10
 kaggle==1.5.16
-kagglehub==0.2.2
+kagglehub==0.2.3
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.5
@@ -123,7 +123,7 @@ Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.7.1
-matplotlib-inline==0.1.6
+matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.0.2
 ml-dtypes==0.2.0
@@ -173,8 +173,8 @@ ptyprocess==0.7.0
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pycparser==2.22
-pydantic==2.6.4
-pydantic_core==2.16.3
+pydantic==2.7.0
+pydantic_core==2.18.1
 pygame==2.5.2
 Pygments==2.17.2
 PyGObject==3.42.1
@@ -191,7 +191,7 @@ PyWavelets==1.6.0
 PyYAML==6.0.1
 pyzmq==23.2.1
 referencing==0.34.0
-regex==2023.12.25
+regex==2024.4.16
 requests==2.31.0
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
@@ -199,7 +199,7 @@ rich==13.7.1
 rpds-py==0.18.0
 rpy2==3.4.2
 rsa==4.9
-safetensors==0.4.2
+safetensors==0.4.3
 scikit-image==0.19.3
 scikit-learn==1.2.2
 scipy==1.11.4
@@ -258,7 +258,7 @@ transformers==4.38.2
 trax==1.4.1
 typer==0.9.4
 types-pytz==2024.1.0.20240203
-types-setuptools==69.2.0.20240317
+types-setuptools==69.5.0.20240415
 typing_extensions==4.11.0
 tzdata==2024.1
 tzlocal==5.2
