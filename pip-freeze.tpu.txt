@@ -75,7 +75,7 @@ google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.7.0
 googleapis-common-protos==1.63.0
-grpcio==1.62.1
+grpcio==1.62.2
 gspread==3.4.2
 gspread-dataframe==3.3.1
 gym==0.25.2
@@ -239,9 +239,9 @@ tf-slim==1.1.0
 tf_keras==2.15.1
 thinc==8.2.3
 threadpoolctl==3.4.0
-tifffile==2024.2.12
+tifffile==2024.4.18
 tinycss2==1.2.1
-tokenizers==0.15.2
+tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.1
@@ -254,7 +254,7 @@ torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.17.0%2Bcpu-cp31
 tornado==6.3.3
 tqdm==4.66.2
 traitlets==5.7.1
-transformers==4.38.2
+transformers==4.40.0
 trax==1.4.1
 typer==0.9.4
 types-pytz==2024.1.0.20240417
