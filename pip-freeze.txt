@@ -92,7 +92,7 @@ entrypoints==0.4
 et-xmlfile==1.1.0
 etils==1.7.0
 etuples==0.3.9
-exceptiongroup==1.2.0
+exceptiongroup==1.2.1
 fastai==2.7.14
 fastcore==1.5.29
 fastdownload==0.0.7
@@ -114,7 +114,7 @@ future==0.18.3
 gast==0.5.4
 gcsfs==2023.6.0
 GDAL==3.6.4
-gdown==4.7.3
+gdown==5.1.0
 geemap==0.32.0
 gensim==4.3.2
 geocoder==1.38.1
