@@ -84,7 +84,7 @@ h5py==3.11.0
 httplib2==0.22.0
 huggingface-hub==0.20.3
 idna==3.7
-imageio==2.34.0
+imageio==2.34.1
 importlib-metadata==4.6.4
 importlib_resources==6.4.0
 iniconfig==2.0.0
@@ -160,7 +160,7 @@ pip==23.1.2
 pip-tools==6.13.0
 platformdirs==4.2.0
 plotly==5.15.0
-pluggy==1.4.0
+pluggy==1.5.0
 pooch==1.8.1
 portpicker==1.5.2
 preshed==3.0.9
