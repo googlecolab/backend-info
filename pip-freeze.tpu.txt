@@ -258,7 +258,7 @@ transformers==4.40.0
 trax==1.4.1
 typer==0.9.4
 types-pytz==2024.1.0.20240417
-types-setuptools==69.5.0.20240415
+types-setuptools==69.5.0.20240423
 typing_extensions==4.11.0
 tzdata==2024.1
 tzlocal==5.2
