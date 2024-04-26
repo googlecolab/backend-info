@@ -92,8 +92,8 @@ ipykernel==5.5.6
 ipython==7.34.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.1
-jax==0.4.23
-jaxlib==0.4.23
+jax==0.4.26
+jaxlib==0.4.26
 jeepney==0.7.1
 Jinja2==3.1.3
 joblib==1.4.0
@@ -118,7 +118,7 @@ lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
 librosa==0.10.1
-libtpu-nightly==0.1.dev20231213+default
+libtpu-nightly==0.1.dev20240403+default
 llvmlite==0.42.0
 marisa-trie==1.1.0
 Markdown==3.6
