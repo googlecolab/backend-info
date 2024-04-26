@@ -94,7 +94,7 @@ etils==1.7.0
 etuples==0.3.9
 exceptiongroup==1.2.1
 fastai==2.7.14
-fastcore==1.5.29
+fastcore==1.5.32
 fastdownload==0.0.7
 fastjsonschema==2.19.1
 fastprogress==1.0.3
@@ -209,7 +209,7 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.10
 kaggle==1.5.16
-kagglehub==0.2.3
+kagglehub==0.2.4
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.5
@@ -360,7 +360,7 @@ pytz==2023.4
 pyviz_comms==3.0.2
 PyWavelets==1.6.0
 PyYAML==6.0.1
-pyzmq==23.2.1
+pyzmq==24.0.1
 qdldl==0.1.7.post2
 qudida==0.0.4
 ratelim==0.1.6
