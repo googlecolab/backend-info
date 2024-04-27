@@ -208,7 +208,7 @@ jupyter-server==1.24.0
 jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.10
-kaggle==1.5.16
+kaggle==1.6.12
 kagglehub==0.2.4
 keras==2.15.0
 keyring==23.5.0
