@@ -27,7 +27,7 @@ Babel==2.14.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
-bigframes==1.3.0
+bigframes==1.4.0
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
@@ -93,13 +93,13 @@ et-xmlfile==1.1.0
 etils==1.7.0
 etuples==0.3.9
 exceptiongroup==1.2.1
-fastai==2.7.14
+fastai==2.7.15
 fastcore==1.5.32
 fastdownload==0.0.7
 fastjsonschema==2.19.1
 fastprogress==1.0.3
 fastrlock==0.8.2
-filelock==3.13.4
+filelock==3.14.0
 fiona==1.9.6
 firebase-admin==5.3.0
 Flask==2.2.5
@@ -345,7 +345,7 @@ pyOpenSSL==24.1.0
 pyparsing==3.1.2
 pyperclip==1.8.2
 pyproj==3.6.1
-pyproject_hooks==1.0.0
+pyproject_hooks==1.1.0
 pyshp==2.3.1
 PySocks==1.7.1
 pytensor==2.18.6
@@ -434,7 +434,7 @@ textblob==0.17.1
 tf-slim==1.1.0
 tf_keras==2.15.1
 thinc==8.2.3
-threadpoolctl==3.4.0
+threadpoolctl==3.5.0
 tifffile==2024.4.24
 tinycss2==1.3.0
 tokenizers==0.19.1
