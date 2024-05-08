@@ -41,7 +41,7 @@ defusedxml==0.7.1
 distrax==0.1.5
 distro==1.7.0
 dm-tree==0.1.8
-dopamine-rl==4.0.6
+dopamine_rl==4.0.9
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 etils==1.7.0
@@ -95,7 +95,7 @@ ipywidgets==7.7.1
 jax==0.4.26
 jaxlib==0.4.26
 jeepney==0.7.1
-Jinja2==3.1.3
+Jinja2==3.1.4
 joblib==1.4.2
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
@@ -120,7 +120,7 @@ libclang==18.1.1
 librosa==0.10.2
 libtpu-nightly==0.1.dev20240403+default
 llvmlite==0.42.0
-marisa-trie==1.1.0
+marisa-trie==1.1.1
 Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
@@ -178,7 +178,7 @@ pycparser==2.22
 pydantic==2.7.1
 pydantic_core==2.18.2
 pygame==2.5.2
-Pygments==2.17.2
+Pygments==2.18.0
 PyGObject==3.42.1
 PyJWT==2.3.0
 pyparsing==3.1.2
@@ -198,7 +198,7 @@ requests==2.31.0
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
 rich==13.7.1
-rpds-py==0.18.0
+rpds-py==0.18.1
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.3
@@ -223,7 +223,7 @@ spacy-loggers==1.0.5
 srsly==2.4.8
 StrEnum==0.4.15
 sympy==1.12
-tenacity==8.2.3
+tenacity==8.3.0
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
 tensorflow @ https://storage.googleapis.com/cloud-tpu-tpuvm-artifacts/tensorflow/tf-2.15.0/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=23069418d5bea74d96f14f0ee47e8f429f0da4267df91769040a80f477e6ee05
@@ -242,7 +242,7 @@ tf-slim==1.1.0
 tf_keras==2.15.1
 thinc==8.2.3
 threadpoolctl==3.5.0
-tifffile==2024.4.24
+tifffile==2024.5.3
 tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
@@ -257,7 +257,7 @@ torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.17.0%2Bcpu-cp31
 tornado==6.3.3
 tqdm==4.66.4
 traitlets==5.7.1
-transformers==4.40.1
+transformers==4.40.2
 trax==1.4.1
 typer==0.9.4
 types-pytz==2024.1.0.20240417
@@ -274,7 +274,7 @@ wcwidth==0.2.13
 weasel==0.3.4
 webencodings==0.5.1
 websocket-client==1.8.0
-Werkzeug==3.0.2
+Werkzeug==3.0.3
 wheel==0.43.0
 widgetsnbextension==3.6.6
 wrapt==1.14.1
