@@ -47,7 +47,7 @@ entrypoints==0.4
 etils==1.7.0
 exceptiongroup==1.2.1
 fastai==2.7.15
-fastcore==1.5.34
+fastcore==1.5.35
 fastdownload==0.0.7
 fastjsonschema==2.19.1
 fastprogress==1.0.3
@@ -117,7 +117,7 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
-librosa==0.10.2
+librosa==0.10.2.post1
 libtpu-nightly==0.1.dev20240403+default
 llvmlite==0.42.0
 marisa-trie==1.1.1
@@ -261,7 +261,7 @@ transformers==4.40.2
 trax==1.4.1
 typer==0.9.4
 types-pytz==2024.1.0.20240417
-types-setuptools==69.5.0.20240423
+types-setuptools==69.5.0.20240513
 typing_extensions==4.11.0
 tzdata==2024.1
 tzlocal==5.2
