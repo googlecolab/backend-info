@@ -84,7 +84,7 @@ docstring_parser==0.16
 docutils==0.18.1
 dopamine_rl==4.0.9
 duckdb==0.10.2
-earthengine-api==0.1.402
+earthengine-api==0.1.403
 easydict==1.13
 ecos==2.0.13
 editdistance==0.6.2
@@ -96,7 +96,7 @@ etils==1.7.0
 etuples==0.3.9
 exceptiongroup==1.2.1
 fastai==2.7.15
-fastcore==1.5.35
+fastcore==1.5.37
 fastdownload==0.0.7
 fastjsonschema==2.19.1
 fastprogress==1.0.3
@@ -299,7 +299,7 @@ pickleshare==0.7.5
 Pillow==9.4.0
 pip==23.1.2
 pip-tools==6.13.0
-platformdirs==4.2.1
+platformdirs==4.2.2
 plotly==5.15.0
 plotnine==0.12.4
 pluggy==1.5.0
@@ -447,18 +447,17 @@ tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cu121/torch-2.2.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=1adf430f01ff649c848ac021785e18007b0714fdde68e4e65bd0c640bf3fb8e1
-torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.2.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=23f6236429e2bf676b820e8e7221a1d58aaf908bff2ba2665aa852df71a97961
-torchdata==0.7.1
+torch @ https://download.pytorch.org/whl/cu121/torch-2.3.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=0a12aa9aa6bc442dff8823ac8b48d991fd0771562eaa38593f9c8196d65f7007
+torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.3.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=38b49393f8c322dcaa29d19e5acbf5a0b1978cf1b719445ab670f1fb486e3aa6
 torchsummary==1.5.1
-torchtext==0.17.1
-torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.17.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=27af47915f6e762c1d44e58e8088d22ac97445668f9f793524032b2baf4f34bd
+torchtext==0.18.0
+torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.18.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=13e1b48dc5ce41ccb8100ab3dd26fdf31d8f1e904ecf2865ac524493013d0df5
 tornado==6.3.3
 tqdm==4.66.4
 traitlets==5.7.1
 traittypes==0.2.1
 transformers==4.40.2
-triton==2.2.0
+triton==2.3.0
 tweepy==4.14.0
 typer==0.9.4
 types-pytz==2024.1.0.20240417
@@ -491,4 +490,4 @@ yarl==1.9.4
 yellowbrick==1.5
 yfinance==0.2.38
 zict==3.0.0
-zipp==3.18.1
+zipp==3.18.2

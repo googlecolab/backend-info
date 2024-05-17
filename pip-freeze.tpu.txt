@@ -47,7 +47,7 @@ entrypoints==0.4
 etils==1.7.0
 exceptiongroup==1.2.1
 fastai==2.7.15
-fastcore==1.5.35
+fastcore==1.5.37
 fastdownload==0.0.7
 fastjsonschema==2.19.1
 fastprogress==1.0.3
@@ -55,7 +55,7 @@ filelock==3.14.0
 flatbuffers==24.3.25
 flax==0.8.3
 fonttools==4.51.0
-fsspec==2024.3.1
+fsspec==2024.5.0
 funcsigs==1.0.2
 gast==0.5.4
 GDAL==3.6.4
@@ -160,7 +160,7 @@ pickleshare==0.7.5
 pillow==10.3.0
 pip==23.1.2
 pip-tools==6.13.0
-platformdirs==4.2.1
+platformdirs==4.2.2
 plotly==5.15.0
 pluggy==1.5.0
 pooch==1.8.1
@@ -193,7 +193,7 @@ PyWavelets==1.6.0
 PyYAML==6.0.1
 pyzmq==24.0.1
 referencing==0.35.1
-regex==2024.5.10
+regex==2024.5.15
 requests==2.31.0
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
@@ -248,12 +248,11 @@ tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cpu/torch-2.2.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=5f907293f5a58619c1c520380f17641f76400a136474a4b1a66c363d2563fe5e
-torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.2.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=058a2d2805d6b1d0a8273b63c9cb16f337dc39ec63a6a6b86c9ad74393c48c41
-torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.2.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=34fb064f130963e802e0465e13bb5c3a762d7a9340da83200c0255d0ca2ab87d
-torchdata==0.7.1
-torchtext==0.17.0
-torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.17.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=00e88e9483e52f99fc61a73941b6ef0b59d031930276fc220ee8973170f305ff
+torch @ https://download.pytorch.org/whl/cpu/torch-2.3.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=e3c220702d82c7596924150e0499fbbffcf62a88a59adc860fa357cd8dc1c302
+torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.3.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=07af21e4ae08da39cc880057e42af170e74c3bd616d98797c792c498fe0c2641
+torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.3.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=fec488d1e034a78b58de46552fd684868ee8e49853c3b901628be9dbbc40095b
+torchtext==0.18.0
+torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.18.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=6f285024f8a93598a67fbd2c86b534cd01236e8f6bda8704cd3459cc63d665a3
 tornado==6.3.3
 tqdm==4.66.4
 traitlets==5.7.1
@@ -278,4 +277,4 @@ Werkzeug==3.0.3
 wheel==0.43.0
 widgetsnbextension==3.6.6
 wrapt==1.14.1
-zipp==3.18.1
+zipp==3.18.2
