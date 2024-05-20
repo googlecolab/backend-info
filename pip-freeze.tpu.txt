@@ -82,7 +82,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5py==3.11.0
 httplib2==0.22.0
-huggingface-hub==0.20.3
+huggingface-hub==0.23.0
 idna==3.7
 imageio==2.34.1
 importlib-metadata==4.6.4
@@ -105,7 +105,7 @@ jupyter-server==1.24.0
 jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.10
-kaggle==1.6.12
+kaggle==1.6.14
 kagglehub==0.2.5
 keras==2.15.0
 keyring==23.5.0
@@ -256,11 +256,11 @@ torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.18.0%2Bcpu-cp31
 tornado==6.3.3
 tqdm==4.66.4
 traitlets==5.7.1
-transformers==4.40.2
+transformers==4.41.0
 trax==1.4.1
 typer==0.9.4
 types-pytz==2024.1.0.20240417
-types-setuptools==69.5.0.20240513
+types-setuptools==69.5.0.20240518
 typing_extensions==4.11.0
 tzdata==2024.1
 tzlocal==5.2
