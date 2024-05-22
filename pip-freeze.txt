@@ -9,9 +9,8 @@ aiosignal==1.3.1
 alabaster==0.7.16
 albumentations==1.3.1
 altair==4.2.2
-annotated-types==0.6.0
+annotated-types==0.7.0
 anyio==3.7.1
-appdirs==1.4.4
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 array_record==0.5.1
@@ -96,7 +95,7 @@ etils==1.7.0
 etuples==0.3.9
 exceptiongroup==1.2.1
 fastai==2.7.15
-fastcore==1.5.37
+fastcore==1.5.38
 fastdownload==0.0.7
 fastjsonschema==2.19.1
 fastprogress==1.0.3
@@ -132,7 +131,7 @@ google-api-python-client==2.84.0
 google-auth==2.27.0
 google-auth-httplib2==0.1.1
 google-auth-oauthlib==1.2.0
-google-cloud-aiplatform==1.51.0
+google-cloud-aiplatform==1.52.0
 google-cloud-bigquery==3.21.0
 google-cloud-bigquery-connection==1.12.1
 google-cloud-bigquery-storage==2.25.0
@@ -155,7 +154,7 @@ googledrivedownloader==0.4
 graphviz==0.20.3
 greenlet==3.0.3
 grpc-google-iam-v1==0.13.0
-grpcio==1.63.0
+grpcio==1.64.0
 grpcio-status==1.48.2
 gspread==6.0.2
 gspread-dataframe==3.3.1
@@ -163,12 +162,12 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.3.0
 h5py==3.9.0
-holidays==0.48
+holidays==0.49
 holoviews==1.17.1
 html5lib==1.1
 httpimport==1.3.1
 httplib2==0.22.0
-huggingface-hub==0.23.0
+huggingface-hub==0.23.1
 humanize==4.7.0
 hyperopt==0.2.7
 ibis-framework==8.0.0
@@ -461,7 +460,7 @@ triton==2.3.0
 tweepy==4.14.0
 typer==0.9.4
 types-pytz==2024.1.0.20240417
-types-setuptools==69.5.0.20240518
+types-setuptools==69.5.0.20240519
 typing_extensions==4.11.0
 tzdata==2024.1
 tzlocal==5.2
@@ -488,6 +487,6 @@ xlrd==2.0.1
 xyzservices==2024.4.0
 yarl==1.9.4
 yellowbrick==1.5
-yfinance==0.2.38
+yfinance==0.2.40
 zict==3.0.0
 zipp==3.18.2

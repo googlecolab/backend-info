@@ -5,7 +5,7 @@
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
 altair==4.2.2
-annotated-types==0.6.0
+annotated-types==0.7.0
 anyio==3.7.1
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
@@ -47,7 +47,7 @@ entrypoints==0.4
 etils==1.7.0
 exceptiongroup==1.2.1
 fastai==2.7.15
-fastcore==1.5.37
+fastcore==1.5.38
 fastdownload==0.0.7
 fastjsonschema==2.19.1
 fastprogress==1.0.3
@@ -75,14 +75,14 @@ google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.7.0
 googleapis-common-protos==1.63.0
-grpcio==1.63.0
+grpcio==1.64.0
 gspread==6.0.2
 gspread-dataframe==3.3.1
 gym==0.25.2
 gym-notices==0.0.8
 h5py==3.11.0
 httplib2==0.22.0
-huggingface-hub==0.23.0
+huggingface-hub==0.23.1
 idna==3.7
 imageio==2.34.1
 importlib-metadata==4.6.4
@@ -260,7 +260,7 @@ transformers==4.41.0
 trax==1.4.1
 typer==0.9.4
 types-pytz==2024.1.0.20240417
-types-setuptools==69.5.0.20240518
+types-setuptools==69.5.0.20240519
 typing_extensions==4.11.0
 tzdata==2024.1
 tzlocal==5.2
