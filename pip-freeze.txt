@@ -82,8 +82,8 @@ dm-tree==0.1.8
 docstring_parser==0.16
 docutils==0.18.1
 dopamine_rl==4.0.9
-duckdb==0.10.2
-earthengine-api==0.1.403
+duckdb==0.10.3
+earthengine-api==0.1.404
 easydict==1.13
 ecos==2.0.13
 editdistance==0.6.2
@@ -368,7 +368,7 @@ qdldl==0.1.7.post2
 qudida==0.0.4
 ratelim==0.1.6
 referencing==0.35.1
-regex==2023.12.25
+regex==2024.5.15
 requests==2.31.0
 requests-oauthlib==1.3.1
 requirements-parser==0.9.0
@@ -440,7 +440,7 @@ tf-slim==1.1.0
 tf_keras==2.15.1
 thinc==8.2.3
 threadpoolctl==3.5.0
-tifffile==2024.5.10
+tifffile==2024.5.22
 tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
@@ -455,7 +455,7 @@ tornado==6.3.3
 tqdm==4.66.4
 traitlets==5.7.1
 traittypes==0.2.1
-transformers==4.41.0
+transformers==4.41.1
 triton==2.3.0
 tweepy==4.14.0
 typer==0.9.4

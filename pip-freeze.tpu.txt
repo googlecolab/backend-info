@@ -242,7 +242,7 @@ tf-slim==1.1.0
 tf_keras==2.15.1
 thinc==8.2.3
 threadpoolctl==3.5.0
-tifffile==2024.5.10
+tifffile==2024.5.22
 tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
@@ -256,7 +256,7 @@ torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.18.0%2Bcpu-cp31
 tornado==6.3.3
 tqdm==4.66.4
 traitlets==5.7.1
-transformers==4.41.0
+transformers==4.41.1
 trax==1.4.1
 typer==0.9.4
 types-pytz==2024.1.0.20240417
