@@ -21,7 +21,7 @@ blis==0.7.11
 build==1.2.1
 cachetools==5.3.3
 catalogue==2.0.10
-certifi==2024.2.2
+certifi==2024.6.2
 cffi==1.16.0
 charset-normalizer==3.3.2
 chex==0.1.86
@@ -29,7 +29,7 @@ click==8.1.7
 cloud-tpu-client==0.10
 cloudpathlib==0.16.0
 cloudpickle==3.0.0
-confection==0.1.4
+confection==0.1.5
 contourpy==1.2.1
 cryptography==3.4.8
 cycler==0.12.1
@@ -41,20 +41,21 @@ defusedxml==0.7.1
 distrax==0.1.5
 distro==1.7.0
 dm-tree==0.1.8
+docstring_parser==0.16
 dopamine_rl==4.0.9
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 etils==1.7.0
 exceptiongroup==1.2.1
 fastai==2.7.15
-fastcore==1.5.41
+fastcore==1.5.43
 fastdownload==0.0.7
 fastjsonschema==2.19.1
 fastprogress==1.0.3
 filelock==3.14.0
 flatbuffers==24.3.25
 flax==0.8.4
-fonttools==4.52.4
+fonttools==4.53.0
 fsspec==2024.5.0
 funcsigs==1.0.2
 gast==0.5.4
@@ -74,8 +75,8 @@ google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.7.0
-googleapis-common-protos==1.63.0
-grpcio==1.64.0
+googleapis-common-protos==1.63.1
+grpcio==1.64.1
 gspread==6.0.2
 gspread-dataframe==3.3.1
 gym==0.25.2
@@ -85,6 +86,7 @@ httplib2==0.22.0
 huggingface-hub==0.23.2
 idna==3.7
 imageio==2.34.1
+immutabledict==4.2.0
 importlib-metadata==4.6.4
 importlib_resources==6.4.0
 iniconfig==2.0.0
@@ -146,7 +148,7 @@ numba==0.59.1
 numpy==1.25.2
 oauth2client==4.1.3
 oauthlib==3.2.2
-opencv-python==4.9.0.80
+opencv-python==4.10.0.82
 opt-einsum==3.3.0
 optax==0.1.9
 orbax-checkpoint==0.4.4
@@ -172,11 +174,12 @@ prompt_toolkit==3.0.45
 protobuf==3.20.3
 psutil==5.9.5
 ptyprocess==0.7.0
+pyarrow==16.1.0
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pycparser==2.22
-pydantic==2.7.2
-pydantic_core==2.18.3
+pydantic==2.7.3
+pydantic_core==2.18.4
 pygame==2.5.2
 Pygments==2.18.0
 PyGObject==3.42.1
@@ -210,6 +213,7 @@ SecretStorage==3.3.1
 Send2Trash==1.8.3
 sentencepiece==0.1.99
 setuptools==67.7.2
+simple_parsing==0.1.5
 six==1.16.0
 sklearn-pandas==2.2.0
 smart-open==6.4.0
@@ -227,7 +231,7 @@ tenacity==8.3.0
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
 tensorflow @ https://storage.googleapis.com/cloud-tpu-tpuvm-artifacts/tensorflow/tf-2.15.0/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=23069418d5bea74d96f14f0ee47e8f429f0da4267df91769040a80f477e6ee05
-tensorflow-datasets==4.9.4
+tensorflow-datasets==4.9.5
 tensorflow-estimator==2.15.0
 tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.0
@@ -256,19 +260,19 @@ torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.18.0%2Bcpu-cp31
 tornado==6.3.3
 tqdm==4.66.4
 traitlets==5.7.1
-transformers==4.41.1
+transformers==4.41.2
 trax==1.4.1
 typer==0.9.4
 types-pytz==2024.1.0.20240417
 types-setuptools==70.0.0.20240524
-typing_extensions==4.12.0
+typing_extensions==4.12.1
 tzdata==2024.1
 tzlocal==5.2
 uritemplate==3.0.1
 urllib3==2.0.7
 vega-datasets==0.9.0
 wadllib==1.3.6
-wasabi==1.1.2
+wasabi==1.1.3
 wcwidth==0.2.13
 weasel==0.3.4
 webencodings==0.5.1
@@ -277,4 +281,4 @@ Werkzeug==3.0.3
 wheel==0.43.0
 widgetsnbextension==3.6.6
 wrapt==1.14.1
-zipp==3.19.0
+zipp==3.19.1
