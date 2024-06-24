@@ -188,6 +188,7 @@ ipyevents==2.0.2
 ipyfilechooser==0.6.0
 ipykernel==5.5.6
 ipyleaflet==0.18.2
+ipyparallel==8.8.0
 ipython==7.34.0
 ipython-genutils==0.2.0
 ipython-sql==0.5.0
