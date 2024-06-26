@@ -464,7 +464,7 @@ triton==2.3.0
 tweepy==4.14.0
 typer==0.12.3
 types-pytz==2024.1.0.20240417
-types-setuptools==70.0.0.20240524
+types-setuptools==70.1.0.20240625
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
