@@ -384,7 +384,7 @@ scikit-image==0.19.3
 scikit-learn==1.2.2
 scipy==1.11.4
 scooby==0.10.0
-scs==3.2.4.post3
+scs==3.2.5
 seaborn==0.13.1
 SecretStorage==3.3.1
 Send2Trash==1.8.3
