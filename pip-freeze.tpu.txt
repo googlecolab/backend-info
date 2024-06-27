@@ -48,17 +48,17 @@ entrypoints==0.4
 etils==1.7.0
 exceptiongroup==1.2.1
 fastai==2.7.15
-fastcore==1.5.46
+fastcore==1.5.48
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
-filelock==3.15.3
+filelock==3.15.4
 flatbuffers==24.3.25
 flax==0.8.4
 fonttools==4.53.0
 fsspec==2024.6.0
 funcsigs==1.0.2
-gast==0.5.4
+gast==0.5.5
 GDAL==3.6.4
 gdown==5.1.0
 gensim==4.3.2
@@ -75,7 +75,7 @@ google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.7.1
-googleapis-common-protos==1.63.1
+googleapis-common-protos==1.63.2
 grpcio==1.64.1
 gspread==6.0.2
 gspread-dataframe==3.3.1
@@ -85,7 +85,7 @@ h5py==3.11.0
 httplib2==0.22.0
 huggingface-hub==0.23.4
 idna==3.7
-imageio==2.34.1
+imageio==2.34.2
 immutabledict==4.2.0
 importlib-metadata==4.6.4
 importlib_resources==6.4.0
@@ -181,7 +181,7 @@ pyasn1_modules==0.4.0
 pycparser==2.22
 pydantic==2.7.4
 pydantic_core==2.18.4
-pygame==2.5.2
+pygame==2.6.0
 Pygments==2.18.0
 PyGObject==3.42.1
 PyJWT==2.3.0
@@ -229,7 +229,7 @@ spacy-loggers==1.0.5
 srsly==2.4.8
 StrEnum==0.4.15
 sympy==1.12.1
-tenacity==8.4.1
+tenacity==8.4.2
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
 tensorflow @ https://storage.googleapis.com/cloud-tpu-tpuvm-artifacts/tensorflow/tf-2.15.0/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=23069418d5bea74d96f14f0ee47e8f429f0da4267df91769040a80f477e6ee05
@@ -266,7 +266,7 @@ transformers==4.41.2
 trax==1.4.1
 typer==0.12.3
 types-pytz==2024.1.0.20240417
-types-setuptools==70.1.0.20240625
+types-setuptools==70.1.0.20240627
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
