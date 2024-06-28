@@ -26,7 +26,7 @@ Babel==2.15.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
-bigframes==1.9.0
+bigframes==1.10.0
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
@@ -112,7 +112,7 @@ frozendict==2.4.4
 frozenlist==1.4.1
 fsspec==2023.6.0
 future==0.18.3
-gast==0.5.5
+gast==0.6.0
 gcsfs==2023.6.0
 GDAL==3.6.4
 gdown==5.1.0
@@ -126,7 +126,7 @@ gin-config==0.5.0
 glob2==0.7
 google==2.0.3
 google-ai-generativelanguage==0.6.4
-google-api-core==2.11.1
+google-api-core==2.16.2
 google-api-python-client==2.84.0
 google-auth==2.27.0
 google-auth-httplib2==0.1.1
@@ -135,6 +135,7 @@ google-cloud-aiplatform==1.57.0
 google-cloud-bigquery==3.21.0
 google-cloud-bigquery-connection==1.12.1
 google-cloud-bigquery-storage==2.25.0
+google-cloud-bigtable==2.24.0
 google-cloud-core==2.3.3
 google-cloud-datastore==2.15.2
 google-cloud-firestore==2.11.1
@@ -276,7 +277,7 @@ oauthlib==3.2.2
 opencv-contrib-python==4.8.0.76
 opencv-python==4.8.0.76
 opencv-python-headless==4.10.0.84
-openpyxl==3.1.4
+openpyxl==3.1.5
 opt-einsum==3.3.0
 optax==0.2.2
 orbax-checkpoint==0.4.4

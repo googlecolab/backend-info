@@ -58,7 +58,7 @@ flax==0.8.4
 fonttools==4.53.0
 fsspec==2024.6.1
 funcsigs==1.0.2
-gast==0.5.5
+gast==0.6.0
 GDAL==3.6.4
 gdown==5.1.0
 gensim==4.3.2
