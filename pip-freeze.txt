@@ -26,7 +26,7 @@ Babel==2.15.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
-bigframes==1.10.0
+bigframes==1.11.0
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
@@ -142,6 +142,7 @@ google-cloud-firestore==2.11.1
 google-cloud-functions==1.13.3
 google-cloud-iam==2.15.0
 google-cloud-language==2.13.3
+google-cloud-pubsub==2.21.5
 google-cloud-resource-manager==1.12.3
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.3
@@ -163,7 +164,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.3.0
 h5py==3.9.0
-holidays==0.51
+holidays==0.52
 holoviews==1.17.1
 html5lib==1.1
 httpimport==1.3.1
@@ -330,8 +331,8 @@ pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pycocotools==2.0.8
 pycparser==2.22
-pydantic==2.7.4
-pydantic_core==2.18.4
+pydantic==2.8.0
+pydantic_core==2.20.0
 pydata-google-auth==1.8.2
 pydot==1.4.2
 pydot-ng==2.0.0
