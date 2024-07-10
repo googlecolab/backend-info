@@ -26,7 +26,7 @@ Babel==2.15.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
-bigframes==1.11.0
+bigframes==1.11.1
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
@@ -38,7 +38,7 @@ build==1.2.1
 CacheControl==0.14.0
 cachetools==5.3.3
 catalogue==2.0.10
-certifi==2024.6.2
+certifi==2024.7.4
 cffi==1.16.0
 chardet==5.2.0
 charset-normalizer==3.3.2
@@ -83,7 +83,7 @@ docstring_parser==0.16
 docutils==0.18.1
 dopamine_rl==4.0.9
 duckdb==0.10.3
-earthengine-api==0.1.409
+earthengine-api==0.1.410
 easydict==1.13
 ecos==2.0.14
 editdistance==0.6.2
@@ -95,7 +95,7 @@ etils==1.7.0
 etuples==0.3.9
 exceptiongroup==1.2.1
 fastai==2.7.15
-fastcore==1.5.48
+fastcore==1.5.50
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
@@ -107,7 +107,7 @@ Flask==2.2.5
 flatbuffers==24.3.25
 flax==0.8.4
 folium==0.14.0
-fonttools==4.53.0
+fonttools==4.53.1
 frozendict==2.4.4
 frozenlist==1.4.1
 fsspec==2023.6.0
@@ -130,8 +130,8 @@ google-api-core==2.16.2
 google-api-python-client==2.84.0
 google-auth==2.27.0
 google-auth-httplib2==0.1.1
-google-auth-oauthlib==1.2.0
-google-cloud-aiplatform==1.57.0
+google-auth-oauthlib==1.2.1
+google-cloud-aiplatform==1.59.0
 google-cloud-bigquery==3.21.0
 google-cloud-bigquery-connection==1.12.1
 google-cloud-bigquery-storage==2.25.0
@@ -140,10 +140,10 @@ google-cloud-core==2.3.3
 google-cloud-datastore==2.15.2
 google-cloud-firestore==2.11.1
 google-cloud-functions==1.13.3
-google-cloud-iam==2.15.0
-google-cloud-language==2.13.3
-google-cloud-pubsub==2.21.5
-google-cloud-resource-manager==1.12.3
+google-cloud-iam==2.15.1
+google-cloud-language==2.13.4
+google-cloud-pubsub==2.22.0
+google-cloud-resource-manager==1.12.4
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.3
 google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
@@ -296,7 +296,7 @@ parsy==2.1
 partd==1.4.2
 pathlib==1.0.1
 patsy==0.5.6
-peewee==3.17.5
+peewee==3.17.6
 pexpect==4.9.0
 pickleshare==0.7.5
 Pillow==9.4.0
@@ -331,8 +331,8 @@ pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pycocotools==2.0.8
 pycparser==2.22
-pydantic==2.8.0
-pydantic_core==2.20.0
+pydantic==2.8.2
+pydantic_core==2.20.1
 pydata-google-auth==1.8.2
 pydot==1.4.2
 pydot-ng==2.0.0
@@ -346,7 +346,7 @@ PyGObject==3.42.1
 PyJWT==2.3.0
 pymc==5.10.4
 pymystem3==0.2.0
-pynvjitlink-cu12==0.2.4
+pynvjitlink-cu12==0.3.0
 PyOpenGL==3.1.7
 pyOpenSSL==24.1.0
 pyparsing==3.1.2
@@ -378,7 +378,7 @@ requests-oauthlib==1.3.1
 requirements-parser==0.9.0
 rich==13.7.1
 rmm-cu12==24.4.0
-rpds-py==0.18.1
+rpds-py==0.19.0
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.3
@@ -386,7 +386,7 @@ scikit-image==0.19.3
 scikit-learn==1.2.2
 scipy==1.11.4
 scooby==0.10.0
-scs==3.2.5
+scs==3.2.6
 seaborn==0.13.1
 SecretStorage==3.3.1
 Send2Trash==1.8.3
@@ -418,15 +418,15 @@ SQLAlchemy==2.0.31
 sqlglot==20.11.0
 sqlparse==0.5.0
 srsly==2.4.8
-stanio==0.5.0
+stanio==0.5.1
 statsmodels==0.14.2
 StrEnum==0.4.15
-sympy==1.12.1
+sympy==1.13.0
 tables==3.8.0
 tabulate==0.9.0
 tbb==2021.13.0
 tblib==3.0.0
-tenacity==8.4.2
+tenacity==8.5.0
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
 tensorflow @ https://storage.googleapis.com/colab-tf-builds-public-09h6ksrfwbb9g9xv/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a2ec79931350b378c1ef300ca836b52a55751acb71a433582508a07f0de57c42
@@ -434,7 +434,7 @@ tensorflow-datasets==4.9.6
 tensorflow-estimator==2.15.0
 tensorflow-gcs-config==2.15.0
 tensorflow-hub==0.16.1
-tensorflow-io-gcs-filesystem==0.37.0
+tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.15.0
 tensorflow-probability==0.23.0
 tensorstore==0.1.45
@@ -446,7 +446,7 @@ tf-slim==1.1.0
 tf_keras==2.15.1
 thinc==8.2.5
 threadpoolctl==3.5.0
-tifffile==2024.6.18
+tifffile==2024.7.2
 tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
@@ -483,7 +483,7 @@ webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.3
 wheel==0.43.0
-widgetsnbextension==3.6.6
+widgetsnbextension==3.6.7
 wordcloud==1.9.3
 wrapt==1.14.1
 xarray==2023.7.0
