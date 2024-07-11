@@ -83,7 +83,7 @@ docstring_parser==0.16
 docutils==0.18.1
 dopamine_rl==4.0.9
 duckdb==0.10.3
-earthengine-api==0.1.410
+earthengine-api==0.1.411
 easydict==1.13
 ecos==2.0.14
 editdistance==0.6.2
@@ -95,7 +95,7 @@ etils==1.7.0
 etuples==0.3.9
 exceptiongroup==1.2.1
 fastai==2.7.15
-fastcore==1.5.50
+fastcore==1.5.51
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
@@ -156,7 +156,7 @@ googledrivedownloader==0.4
 graphviz==0.20.3
 greenlet==3.0.3
 grpc-google-iam-v1==0.13.1
-grpcio==1.64.1
+grpcio==1.65.0
 grpcio-status==1.48.2
 gspread==6.0.2
 gspread-dataframe==3.3.1
@@ -214,7 +214,7 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.11
 kaggle==1.6.14
-kagglehub==0.2.5
+kagglehub==0.2.7
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.5
