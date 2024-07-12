@@ -156,7 +156,7 @@ googledrivedownloader==0.4
 graphviz==0.20.3
 greenlet==3.0.3
 grpc-google-iam-v1==0.13.1
-grpcio==1.65.0
+grpcio==1.64.1
 grpcio-status==1.48.2
 gspread==6.0.2
 gspread-dataframe==3.3.1
@@ -311,7 +311,7 @@ pooch==1.8.2
 portpicker==1.5.2
 prefetch-generator==1.0.3
 preshed==3.0.9
-prettytable==3.10.0
+prettytable==3.10.2
 proglog==0.1.10
 progressbar2==4.2.0
 prometheus_client==0.20.0

@@ -76,7 +76,7 @@ google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.7.1
 googleapis-common-protos==1.63.2
-grpcio==1.65.0
+grpcio==1.64.1
 gspread==6.0.2
 gspread-dataframe==3.3.1
 gym==0.25.2
