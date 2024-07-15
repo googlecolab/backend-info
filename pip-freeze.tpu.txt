@@ -262,7 +262,7 @@ torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.18.0%2Bcpu-cp31
 tornado==6.3.3
 tqdm==4.66.4
 traitlets==5.7.1
-transformers==4.41.2
+transformers==4.42.4
 trax==1.4.1
 typer==0.12.3
 types-pytz==2024.1.0.20240417
