@@ -4,6 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
+accelerate==0.32.1
 altair==4.2.2
 annotated-types==0.7.0
 anyio==3.7.1
@@ -19,7 +20,7 @@ bleach==6.1.0
 blinker==1.4
 blis==0.7.11
 build==1.2.1
-cachetools==5.3.3
+cachetools==5.4.0
 catalogue==2.0.10
 certifi==2024.7.4
 cffi==1.16.0
@@ -83,7 +84,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5py==3.11.0
 httplib2==0.22.0
-huggingface-hub==0.23.4
+huggingface-hub==0.23.5
 idna==3.7
 imageio==2.34.2
 immutabledict==4.2.0
@@ -175,7 +176,7 @@ prompt_toolkit==3.0.47
 protobuf==3.20.3
 psutil==5.9.5
 ptyprocess==0.7.0
-pyarrow==16.1.0
+pyarrow==17.0.0
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pycparser==2.22
