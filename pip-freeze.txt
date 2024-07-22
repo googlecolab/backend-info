@@ -59,7 +59,7 @@ confection==0.1.5
 cons==0.4.6
 contextlib2==21.6.0
 contourpy==1.2.1
-cryptography==42.0.8
+cryptography==43.0.0
 cuda-python==12.2.1
 cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.4.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=57366e7ef09dc63e0b389aff20df6c37d91e2790065861ee31a4720149f5b694
 cufflinks==0.17.3
@@ -118,7 +118,7 @@ gcsfs==2023.6.0
 GDAL==3.6.4
 gdown==5.1.0
 geemap==0.33.1
-gensim==4.3.2
+gensim==4.3.3
 geocoder==1.38.1
 geographiclib==2.0
 geopandas==0.13.2
@@ -147,7 +147,7 @@ google-cloud-pubsub==2.22.0
 google-cloud-resource-manager==1.12.4
 google-cloud-storage==2.8.0
 google-cloud-translate==3.15.4
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
+google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.5.0
 google-generativeai==0.7.2
 google-pasta==0.2.0
@@ -301,8 +301,8 @@ peewee==3.17.6
 pexpect==4.9.0
 pickleshare==0.7.5
 Pillow==9.4.0
-pip==23.1.2
-pip-tools==6.13.0
+pip==24.1.2
+pip-tools==7.4.1
 platformdirs==4.2.2
 plotly==5.15.0
 plotnine==0.12.4
@@ -310,7 +310,7 @@ pluggy==1.5.0
 polars==0.20.2
 pooch==1.8.2
 portpicker==1.5.2
-prefetch-generator==1.0.3
+prefetch_generator==1.0.3
 preshed==3.0.9
 prettytable==3.10.2
 proglog==0.1.10
@@ -349,7 +349,7 @@ pymc==5.10.4
 pymystem3==0.2.0
 pynvjitlink-cu12==0.3.0
 PyOpenGL==3.1.7
-pyOpenSSL==24.1.0
+pyOpenSSL==24.2.1
 pyparsing==3.1.2
 pyperclip==1.9.0
 pyproj==3.6.1
@@ -392,7 +392,7 @@ seaborn==0.13.1
 SecretStorage==3.3.1
 Send2Trash==1.8.3
 sentencepiece==0.1.99
-setuptools==67.7.2
+setuptools==71.0.4
 shapely==2.0.5
 shellingham==1.5.4
 simple_parsing==0.1.5
@@ -411,9 +411,9 @@ spacy-loggers==1.0.5
 Sphinx==5.0.2
 sphinxcontrib-applehelp==1.0.8
 sphinxcontrib-devhelp==1.0.6
-sphinxcontrib-htmlhelp==2.0.5
+sphinxcontrib-htmlhelp==2.0.6
 sphinxcontrib-jsmath==1.0.1
-sphinxcontrib-qthelp==1.0.7
+sphinxcontrib-qthelp==1.0.8
 sphinxcontrib-serializinghtml==1.1.10
 SQLAlchemy==2.0.31
 sqlglot==20.11.0
@@ -422,7 +422,7 @@ srsly==2.4.8
 stanio==0.5.1
 statsmodels==0.14.2
 StrEnum==0.4.15
-sympy==1.13.0
+sympy==1.13.1
 tables==3.8.0
 tabulate==0.9.0
 tbb==2021.13.0
@@ -447,7 +447,7 @@ tf-slim==1.1.0
 tf_keras==2.15.1
 thinc==8.2.5
 threadpoolctl==3.5.0
-tifffile==2024.7.2
+tifffile==2024.7.21
 tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
@@ -467,7 +467,7 @@ triton==2.3.1
 tweepy==4.14.0
 typer==0.12.3
 types-pytz==2024.1.0.20240417
-types-setuptools==70.3.0.20240710
+types-setuptools==71.0.0.20240722
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
@@ -494,6 +494,6 @@ xlrd==2.0.1
 xyzservices==2024.6.0
 yarl==1.9.4
 yellowbrick==1.5
-yfinance==0.2.40
+yfinance==0.2.41
 zict==3.0.0
 zipp==3.19.2
