@@ -35,7 +35,7 @@ bleach==6.1.0
 blinker==1.4
 blis==0.7.11
 blosc2==2.0.0
-bokeh==3.4.2
+bokeh==3.4.3
 bqplot==0.12.43
 branca==0.7.2
 build==1.2.1
@@ -88,7 +88,7 @@ docstring_parser==0.16
 docutils==0.18.1
 dopamine_rl==4.0.9
 duckdb==0.10.3
-earthengine-api==0.1.412
+earthengine-api==0.1.413
 easydict==1.13
 ecos==2.0.14
 editdistance==0.8.1
@@ -186,7 +186,7 @@ imagesize==1.4.1
 imbalanced-learn==0.12.3
 imgaug==0.4.0
 immutabledict==4.2.0
-importlib_metadata==8.1.0
+importlib_metadata==8.2.0
 importlib_resources==6.4.0
 imutils==0.5.4
 inflect==7.3.1
@@ -220,7 +220,7 @@ jupyter-server==1.24.0
 jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.11
-kaggle==1.6.14
+kaggle==1.6.17
 kagglehub==0.2.8
 keras==2.15.0
 keyring==23.5.0
@@ -278,7 +278,7 @@ notebook==6.5.5
 notebook_shim==0.2.4
 numba==0.60.0
 numexpr==2.10.1
-numpy==1.25.2
+numpy==1.26.4
 nvtx==0.2.10
 oauth2client==4.1.3
 oauthlib==3.2.2
@@ -291,10 +291,10 @@ optax==0.2.2
 orbax-checkpoint==0.4.4
 osqp==0.6.7.post0
 packaging==24.1
-pandas==2.0.3
+pandas==2.1.4
 pandas-datareader==0.10.0
 pandas-gbq==0.19.2
-pandas-stubs==2.0.3.230814
+pandas-stubs==2.1.4.231227
 pandocfilters==1.5.1
 panel==1.4.4
 param==2.1.1
@@ -383,7 +383,7 @@ requests-oauthlib==1.3.1
 requirements-parser==0.9.0
 rich==13.7.1
 rmm-cu12==24.4.0
-rpds-py==0.19.0
+rpds-py==0.19.1
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.3
@@ -405,11 +405,11 @@ sklearn-pandas==2.2.0
 smart-open==7.0.4
 sniffio==1.3.1
 snowballstemmer==2.2.0
-snowflake-connector-python==3.11.0
+snowflake-connector-python==3.12.0
 sortedcontainers==2.4.0
 soundfile==0.12.1
 soupsieve==2.5
-soxr==0.3.7
+soxr==0.4.0
 spacy==3.7.5
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
@@ -452,7 +452,7 @@ tf-slim==1.1.0
 tf_keras==2.15.1
 thinc==8.2.5
 threadpoolctl==3.5.0
-tifffile==2024.7.21
+tifffile==2024.7.24
 tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
