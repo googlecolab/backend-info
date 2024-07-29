@@ -49,7 +49,7 @@ entrypoints==0.4
 etils==1.7.0
 exceptiongroup==1.2.2
 fastai==2.7.15
-fastcore==1.5.54
+fastcore==1.5.55
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
@@ -229,7 +229,7 @@ spacy-loggers==1.0.5
 srsly==2.4.8
 StrEnum==0.4.15
 sympy==1.13.1
-tenacity==8.5.0
+tenacity==9.0.0
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
 tensorflow @ https://storage.googleapis.com/cloud-tpu-tpuvm-artifacts/tensorflow/tf-2.15.0/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=23069418d5bea74d96f14f0ee47e8f429f0da4267df91769040a80f477e6ee05
@@ -282,6 +282,6 @@ webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.3
 wheel==0.43.0
-widgetsnbextension==3.6.7
+widgetsnbextension==3.6.8
 wrapt==1.14.1
 zipp==3.19.2
