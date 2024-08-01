@@ -31,7 +31,7 @@ Babel==2.15.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
-bigframes==1.11.1
+bigframes==1.12.0
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
