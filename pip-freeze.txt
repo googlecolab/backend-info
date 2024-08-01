@@ -354,7 +354,7 @@ pyerfa==2.0.1.4
 pygame==2.6.0
 Pygments==2.16.1
 PyGObject==3.42.1
-PyJWT==2.8.0
+PyJWT==2.9.0
 pymc==5.10.4
 pymystem3==0.2.0
 pynvjitlink-cu12==0.3.0
@@ -375,7 +375,7 @@ python-louvain==0.16
 python-slugify==8.0.4
 python-utils==3.8.2
 pytz==2024.1
-pyviz_comms==3.0.2
+pyviz_comms==3.0.3
 PyYAML==6.0.1
 pyzmq==24.0.1
 qdldl==0.1.7.post4
