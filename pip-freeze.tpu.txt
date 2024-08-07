@@ -12,7 +12,7 @@ argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 array_record==0.5.1
 astunparse==1.6.3
-attrs==24.1.0
+attrs==24.2.0
 audioread==3.0.1
 backcall==0.2.0
 beautifulsoup4==4.12.3
@@ -23,7 +23,7 @@ build==1.2.1
 cachetools==5.4.0
 catalogue==2.0.10
 certifi==2024.7.4
-cffi==1.16.0
+cffi==1.17.0
 charset-normalizer==3.3.2
 chex==0.1.86
 click==8.1.7
@@ -194,7 +194,7 @@ python-apt==2.4.0
 python-dateutil==2.9.0.post0
 python-slugify==8.0.4
 pytz==2024.1
-PyYAML==6.0.1
+PyYAML==6.0.2
 pyzmq==24.0.1
 referencing==0.35.1
 regex==2024.7.24
@@ -202,7 +202,7 @@ requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
 rich==13.7.1
-rpds-py==0.19.1
+rpds-py==0.20.0
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.4
@@ -267,7 +267,7 @@ transformers==4.42.4
 trax==1.4.1
 typer==0.12.3
 types-pytz==2024.1.0.20240417
-types-setuptools==71.1.0.20240726
+types-setuptools==71.1.0.20240806
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
