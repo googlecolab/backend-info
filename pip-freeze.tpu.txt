@@ -75,7 +75,7 @@ google-cloud-storage==2.8.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.5.0
 google-pasta==0.2.0
-google-resumable-media==2.7.1
+google-resumable-media==2.7.2
 googleapis-common-protos==1.63.2
 grpcio==1.65.4
 gspread==6.0.2
