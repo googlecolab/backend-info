@@ -6,7 +6,7 @@
 absl-py==1.4.0
 accelerate==0.32.1
 aiohappyeyeballs==2.3.5
-aiohttp==3.10.2
+aiohttp==3.10.3
 aiosignal==1.3.1
 alabaster==0.7.16
 albucore==0.0.13
@@ -20,7 +20,7 @@ array_record==0.5.1
 arviz==0.18.0
 asn1crypto==1.5.1
 astropy==6.1.2
-astropy-iers-data==0.2024.8.5.0.32.23
+astropy-iers-data==0.2024.8.12.0.32.58
 astunparse==1.6.3
 async-timeout==4.0.3
 atpublic==4.1.0
@@ -31,7 +31,7 @@ babel==2.16.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
-bigframes==1.13.0
+bigframes==1.14.0
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
@@ -76,7 +76,7 @@ cymem==2.0.8
 Cython==3.0.11
 dask==2024.7.1
 datascience==0.17.6
-db-dtypes==1.2.0
+db-dtypes==1.3.0
 dbus-python==1.2.18
 debugpy==1.6.6
 decorator==4.4.2
@@ -89,7 +89,7 @@ docstring_parser==0.16
 docutils==0.18.1
 dopamine_rl==4.0.9
 duckdb==0.10.3
-earthengine-api==0.1.415
+earthengine-api==0.1.416
 easydict==1.13
 ecos==2.0.14
 editdistance==0.8.1
@@ -143,7 +143,7 @@ google-cloud-aiplatform==1.59.0
 google-cloud-bigquery==3.25.0
 google-cloud-bigquery-connection==1.15.5
 google-cloud-bigquery-storage==2.25.0
-google-cloud-bigtable==2.25.0
+google-cloud-bigtable==2.26.0
 google-cloud-core==2.4.1
 google-cloud-datastore==2.19.0
 google-cloud-firestore==2.16.1
@@ -276,7 +276,7 @@ nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.3
 nibabel==5.0.1
-nltk==3.8.1
+nltk==3.8.2
 notebook==6.5.5
 notebook_shim==0.2.4
 numba==0.60.0
@@ -322,7 +322,7 @@ pooch==1.8.2
 portpicker==1.5.2
 prefetch_generator==1.0.3
 preshed==3.0.9
-prettytable==3.10.2
+prettytable==3.11.0
 proglog==0.1.10
 progressbar2==4.2.0
 prometheus_client==0.20.0
@@ -412,7 +412,7 @@ snowballstemmer==2.2.0
 snowflake-connector-python==3.12.0
 sortedcontainers==2.4.0
 soundfile==0.12.1
-soupsieve==2.5
+soupsieve==2.6
 soxr==0.4.0
 spacy==3.7.5
 spacy-legacy==3.0.12
@@ -431,7 +431,7 @@ srsly==2.4.8
 stanio==0.5.1
 statsmodels==0.14.2
 StrEnum==0.4.15
-sympy==1.13.1
+sympy==1.13.2
 tables==3.8.0
 tabulate==0.9.0
 tbb==2021.13.1
@@ -454,12 +454,12 @@ tf-slim==1.1.0
 tf_keras==2.17.0
 thinc==8.2.5
 threadpoolctl==3.5.0
-tifffile==2024.7.24
+tifffile==2024.8.10
 tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.1
-tomlkit==0.13.0
+tomlkit==0.13.1
 toolz==0.12.1
 torch @ https://download.pytorch.org/whl/cu121/torch-2.3.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=f0deb5d2f932a68ed54625ba140eddbf2af22be978ee19b9b63c986add6425b2
 torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.3.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=0b423f4ae3356f11f6723e8c77208ac3f9361a4f941e4cc08d86c32c137594bc
@@ -476,7 +476,7 @@ tweepy==4.14.0
 typeguard==4.3.0
 typer==0.12.3
 types-pytz==2024.1.0.20240417
-types-setuptools==71.1.0.20240806
+types-setuptools==71.1.0.20240813
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
@@ -488,7 +488,7 @@ wadllib==1.3.6
 wasabi==1.1.3
 wcwidth==0.2.13
 weasel==0.4.1
-webcolors==24.6.0
+webcolors==24.8.0
 webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.3
@@ -505,4 +505,4 @@ yarl==1.9.4
 yellowbrick==1.5
 yfinance==0.2.41
 zict==3.0.0
-zipp==3.19.2
+zipp==3.20.0
