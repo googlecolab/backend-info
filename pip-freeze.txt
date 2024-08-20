@@ -476,7 +476,7 @@ tweepy==4.14.0
 typeguard==4.3.0
 typer==0.12.3
 types-pytz==2024.1.0.20240417
-types-setuptools==71.1.0.20240813
+types-setuptools==71.1.0.20240818
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
