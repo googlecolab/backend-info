@@ -5,12 +5,12 @@
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
 accelerate==0.32.1
-aiohappyeyeballs==2.3.5
-aiohttp==3.10.3
+aiohappyeyeballs==2.4.0
+aiohttp==3.10.5
 aiosignal==1.3.1
 alabaster==0.7.16
 albucore==0.0.13
-albumentations==1.4.13
+albumentations==1.4.14
 altair==4.2.2
 annotated-types==0.7.0
 anyio==3.7.1
@@ -20,7 +20,7 @@ array_record==0.5.1
 arviz==0.18.0
 asn1crypto==1.5.1
 astropy==6.1.2
-astropy-iers-data==0.2024.8.12.0.32.58
+astropy-iers-data==0.2024.8.19.0.32.16
 astunparse==1.6.3
 async-timeout==4.0.3
 atpublic==4.1.0
@@ -31,7 +31,7 @@ babel==2.16.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 bidict==0.23.1
-bigframes==1.14.0
+bigframes==1.15.0
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
@@ -41,7 +41,7 @@ bqplot==0.12.43
 branca==0.7.2
 build==1.2.1
 CacheControl==0.14.0
-cachetools==5.4.0
+cachetools==5.5.0
 catalogue==2.0.10
 certifi==2024.7.4
 cffi==1.17.0
@@ -64,13 +64,13 @@ confection==0.1.5
 cons==0.4.6
 contextlib2==21.6.0
 contourpy==1.2.1
-cryptography==42.0.8
+cryptography==43.0.0
 cuda-python==12.2.1
 cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.4.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=57366e7ef09dc63e0b389aff20df6c37d91e2790065861ee31a4720149f5b694
 cufflinks==0.17.3
 cupy-cuda12x==12.2.0
 cvxopt==1.3.2
-cvxpy==1.5.2
+cvxpy==1.5.3
 cycler==0.12.1
 cymem==2.0.8
 Cython==3.0.11
@@ -89,7 +89,7 @@ docstring_parser==0.16
 docutils==0.18.1
 dopamine_rl==4.0.9
 duckdb==0.10.3
-earthengine-api==0.1.416
+earthengine-api==0.1.417
 easydict==1.13
 ecos==2.0.14
 editdistance==0.8.1
@@ -124,7 +124,7 @@ gast==0.6.0
 gcsfs==2024.6.1
 GDAL==3.6.4
 gdown==5.1.0
-geemap==0.33.1
+geemap==0.34.0
 gensim==4.3.3
 geocoder==1.38.1
 geographiclib==2.0
@@ -172,7 +172,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.3.0
 h5py==3.11.0
-holidays==0.54
+holidays==0.55
 holoviews==1.18.3
 html5lib==1.1
 httpimport==1.3.1
@@ -188,8 +188,8 @@ imagesize==1.4.1
 imbalanced-learn==0.12.3
 imgaug==0.4.0
 immutabledict==4.2.0
-importlib_metadata==8.2.0
-importlib_resources==6.4.2
+importlib_metadata==8.4.0
+importlib_resources==6.4.3
 imutils==0.5.4
 inflect==7.3.1
 iniconfig==2.0.0
@@ -243,7 +243,7 @@ logical-unification==0.4.6
 lxml==4.9.4
 malloy==2024.1089
 marisa-trie==1.2.0
-Markdown==3.6
+Markdown==3.7
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.7.1
@@ -292,7 +292,7 @@ openpyxl==3.1.5
 opt-einsum==3.3.0
 optax==0.2.2
 optree==0.12.1
-orbax-checkpoint==0.5.23
+orbax-checkpoint==0.6.0
 osqp==0.6.7.post0
 packaging==24.1
 pandas==2.1.4
@@ -401,7 +401,7 @@ SecretStorage==3.3.1
 Send2Trash==1.8.3
 sentencepiece==0.1.99
 setuptools==71.0.4
-shapely==2.0.5
+shapely==2.0.6
 shellingham==1.5.4
 simple_parsing==0.1.5
 six==1.16.0
@@ -409,12 +409,12 @@ sklearn-pandas==2.2.0
 smart-open==7.0.4
 sniffio==1.3.1
 snowballstemmer==2.2.0
-snowflake-connector-python==3.12.0
+snowflake-connector-python==3.12.1
 sortedcontainers==2.4.0
 soundfile==0.12.1
 soupsieve==2.6
 soxr==0.4.0
-spacy==3.7.5
+spacy==3.7.6
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 Sphinx==5.0.2
@@ -474,7 +474,7 @@ transformers==4.42.4
 triton==2.3.1
 tweepy==4.14.0
 typeguard==4.3.0
-typer==0.12.3
+typer==0.12.4
 types-pytz==2024.1.0.20240417
 types-setuptools==71.1.0.20240818
 typing_extensions==4.12.2
