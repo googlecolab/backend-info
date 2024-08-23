@@ -89,7 +89,7 @@ idna==3.7
 imageio==2.35.1
 immutabledict==4.2.0
 importlib-metadata==4.6.4
-importlib_resources==6.4.3
+importlib_resources==6.4.4
 iniconfig==2.0.0
 ipykernel==5.5.6
 ipyparallel==8.8.0
@@ -108,7 +108,7 @@ jupyter-console==6.1.0
 jupyter-server==1.24.0
 jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
-jupyterlab_widgets==3.0.11
+jupyterlab_widgets==3.0.13
 kaggle==1.6.17
 kagglehub==0.2.9
 keras==2.15.0
@@ -254,11 +254,10 @@ tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cpu/torch-2.3.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=e3c220702d82c7596924150e0499fbbffcf62a88a59adc860fa357cd8dc1c302
-torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.3.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=07af21e4ae08da39cc880057e42af170e74c3bd616d98797c792c498fe0c2641
-torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.3.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=fec488d1e034a78b58de46552fd684868ee8e49853c3b901628be9dbbc40095b
-torchtext==0.18.0
-torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.18.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=6f285024f8a93598a67fbd2c86b534cd01236e8f6bda8704cd3459cc63d665a3
+torch @ https://download.pytorch.org/whl/cpu/torch-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=0e59377b27823dda6d26528febb7ca06fc5b77816eaa58b4420cc8785e33d4ce
+torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.4.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=d973d6c0bd0cda884a9a68778b2d3a2d3cc4f2876dd21e5c95f93091904aab19
+torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=b72ce53071b0bcd4c52b81c8ef4fbc01649cc8dacc646982cf9ef59ac298ff91
+torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.19.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=7b2b46d3c757fa1fe7d08d48bdae6c9d97d82ace707474a79219c10991fee6ff
 tornado==6.3.3
 tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@6439522892666f9a50ce3bfad7f9a12d4c7e136b#subdirectory=tpu_info
 tqdm==4.66.5
@@ -267,7 +266,7 @@ transformers==4.42.4
 trax==1.4.1
 typer==0.12.4
 types-pytz==2024.1.0.20240417
-types-setuptools==72.2.0.20240821
+types-setuptools==73.0.0.20240822
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
@@ -280,7 +279,7 @@ wcwidth==0.2.13
 weasel==0.4.1
 webencodings==0.5.1
 websocket-client==1.8.0
-Werkzeug==3.0.3
+Werkzeug==3.0.4
 wheel==0.44.0
 widgetsnbextension==3.6.8
 wrapt==1.14.1

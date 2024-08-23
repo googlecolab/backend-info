@@ -189,7 +189,7 @@ imbalanced-learn==0.12.3
 imgaug==0.4.0
 immutabledict==4.2.0
 importlib_metadata==8.4.0
-importlib_resources==6.4.3
+importlib_resources==6.4.4
 imutils==0.5.4
 inflect==7.3.1
 iniconfig==2.0.0
@@ -221,7 +221,7 @@ jupyter-console==6.1.0
 jupyter-server==1.24.0
 jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
-jupyterlab_widgets==3.0.11
+jupyterlab_widgets==3.0.13
 kaggle==1.6.17
 kagglehub==0.2.9
 keras==3.4.1
@@ -282,6 +282,7 @@ notebook_shim==0.2.4
 numba==0.60.0
 numexpr==2.10.1
 numpy==1.26.4
+nvidia-nccl-cu12==2.22.3
 nvtx==0.2.10
 oauth2client==4.1.3
 oauthlib==3.2.2
@@ -461,22 +462,20 @@ toml==0.10.2
 tomli==2.0.1
 tomlkit==0.13.2
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cu121/torch-2.3.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=f0deb5d2f932a68ed54625ba140eddbf2af22be978ee19b9b63c986add6425b2
-torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.3.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=0b423f4ae3356f11f6723e8c77208ac3f9361a4f941e4cc08d86c32c137594bc
+torch @ https://download.pytorch.org/whl/cu121_full/torch-2.4.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=6f3aabcec8b7728943d22bec2d8017b1bd2d69cd903eefb7dd3a373e4f779c40
+torchaudio @ https://download.pytorch.org/whl/cu121_full/torchaudio-2.4.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=8bc4c22a701f4567a15cc98ff48c392147583b9ec4157d147025f297bf305acc
 torchsummary==1.5.1
-torchtext==0.18.0
-torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.18.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=e95ba5a2c616939281e01babf11664d6d1725e81bba57ef81f81c3e57e4d4151
+torchvision @ https://download.pytorch.org/whl/cu121_full/torchvision-0.19.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=53c7ee4a98c8464ec964a6ab3804f5925b19bac698ef728f148bffebe27a9081
 tornado==6.3.3
 tqdm==4.66.5
 traitlets==5.7.1
 traittypes==0.2.1
 transformers==4.42.4
-triton==2.3.1
 tweepy==4.14.0
 typeguard==4.3.0
 typer==0.12.4
 types-pytz==2024.1.0.20240417
-types-setuptools==72.2.0.20240821
+types-setuptools==73.0.0.20240822
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
@@ -491,7 +490,7 @@ weasel==0.4.1
 webcolors==24.8.0
 webencodings==0.5.1
 websocket-client==1.8.0
-Werkzeug==3.0.3
+Werkzeug==3.0.4
 wheel==0.44.0
 widgetsnbextension==3.6.8
 wordcloud==1.9.3
@@ -503,6 +502,6 @@ xlrd==2.0.1
 xyzservices==2024.6.0
 yarl==1.9.4
 yellowbrick==1.5
-yfinance==0.2.41
+yfinance==0.2.42
 zict==3.0.0
 zipp==3.20.0
