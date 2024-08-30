@@ -4,7 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-accelerate==0.32.1
+accelerate==0.33.0
 altair==4.2.2
 annotated-types==0.7.0
 anyio==3.7.1
@@ -22,7 +22,7 @@ blis==0.7.11
 build==1.2.1
 cachetools==5.5.0
 catalogue==2.0.10
-certifi==2024.7.4
+certifi==2024.8.30
 cffi==1.17.0
 charset-normalizer==3.3.2
 chex==0.1.86
@@ -84,7 +84,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5py==3.11.0
 httplib2==0.22.0
-huggingface-hub==0.23.5
+huggingface-hub==0.24.6
 idna==3.8
 imageio==2.35.1
 immutabledict==4.2.0
@@ -259,14 +259,14 @@ torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/tor
 torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=b72ce53071b0bcd4c52b81c8ef4fbc01649cc8dacc646982cf9ef59ac298ff91
 torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.19.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=7b2b46d3c757fa1fe7d08d48bdae6c9d97d82ace707474a79219c10991fee6ff
 tornado==6.3.3
-tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@abf9f4b97d5a60efdfde1156639b4e7b6dcc313c#subdirectory=tpu_info
+tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@e898c785f1b1aa7daab5484aefa05a7fad9d32e9#subdirectory=tpu_info
 tqdm==4.66.5
 traitlets==5.7.1
-transformers==4.42.4
+transformers==4.44.2
 trax==1.4.1
 typer==0.12.5
 types-pytz==2024.1.0.20240417
-types-setuptools==73.0.0.20240822
+types-setuptools==74.0.0.20240830
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
