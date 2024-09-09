@@ -20,7 +20,7 @@ array_record==0.5.1
 arviz==0.18.0
 asn1crypto==1.5.1
 astropy==6.1.3
-astropy-iers-data==0.2024.8.27.10.28.29
+astropy-iers-data==0.2024.9.2.0.33.23
 astunparse==1.6.3
 async-timeout==4.0.3
 atpublic==4.1.0
@@ -40,12 +40,12 @@ blosc2==2.0.0
 bokeh==3.4.3
 bqplot==0.12.43
 branca==0.7.2
-build==1.2.1
+build==1.2.2
 CacheControl==0.14.0
 cachetools==5.5.0
 catalogue==2.0.10
 certifi==2024.8.30
-cffi==1.17.0
+cffi==1.17.1
 chardet==5.2.0
 charset-normalizer==3.3.2
 chex==0.1.86
@@ -55,7 +55,7 @@ click-plugins==1.1.1
 cligj==0.7.2
 cloudpathlib==0.19.0
 cloudpickle==2.2.1
-cmake==3.30.2
+cmake==3.30.3
 cmdstanpy==1.2.4
 colorcet==3.1.0
 colorlover==0.3.0
@@ -65,7 +65,7 @@ confection==0.1.5
 cons==0.4.6
 contextlib2==21.6.0
 contourpy==1.3.0
-cryptography==43.0.0
+cryptography==43.0.1
 cuda-python==12.2.1
 cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.4.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=57366e7ef09dc63e0b389aff20df6c37d91e2790065861ee31a4720149f5b694
 cufflinks==0.17.3
@@ -90,7 +90,7 @@ docstring_parser==0.16
 docutils==0.18.1
 dopamine_rl==4.0.9
 duckdb==0.10.3
-earthengine-api==0.1.418
+earthengine-api==0.1.419
 easydict==1.13
 ecos==2.0.14
 editdistance==0.8.1
@@ -99,18 +99,18 @@ einops==0.8.0
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 et-xmlfile==1.1.0
-etils==1.7.0
+etils==1.9.4
 etuples==0.3.9
 eval_type_backport==0.2.0
 exceptiongroup==1.2.2
 fastai==2.7.17
-fastcore==1.7.1
+fastcore==1.7.5
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
 fastrlock==0.8.2
-filelock==3.15.4
-fiona==1.9.6
+filelock==3.16.0
+fiona==1.10.0
 firebase-admin==6.5.0
 Flask==2.2.5
 flatbuffers==24.3.25
@@ -125,7 +125,7 @@ gast==0.6.0
 gcsfs==2024.6.1
 GDAL==3.6.4
 gdown==5.1.0
-geemap==0.34.0
+geemap==0.34.1
 gensim==4.3.3
 geocoder==1.38.1
 geographiclib==2.0
@@ -140,10 +140,10 @@ google-api-python-client==2.137.0
 google-auth==2.27.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.1
-google-cloud-aiplatform==1.64.0
+google-cloud-aiplatform==1.65.0
 google-cloud-bigquery==3.25.0
 google-cloud-bigquery-connection==1.15.5
-google-cloud-bigquery-storage==2.25.0
+google-cloud-bigquery-storage==2.26.0
 google-cloud-bigtable==2.26.0
 google-cloud-core==2.4.1
 google-cloud-datastore==2.19.0
@@ -156,7 +156,7 @@ google-cloud-resource-manager==1.12.5
 google-cloud-storage==2.8.0
 google-cloud-translate==3.15.5
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
-google-crc32c==1.5.0
+google-crc32c==1.6.0
 google-generativeai==0.7.2
 google-pasta==0.2.0
 google-resumable-media==2.7.2
@@ -173,7 +173,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.3.0
 h5py==3.11.0
-holidays==0.55
+holidays==0.56
 holoviews==1.18.3
 html5lib==1.1
 httpimport==1.3.1
@@ -190,7 +190,7 @@ imbalanced-learn==0.12.3
 imgaug==0.4.0
 immutabledict==4.2.0
 importlib_metadata==8.4.0
-importlib_resources==6.4.4
+importlib_resources==6.4.5
 imutils==0.5.4
 inflect==7.3.1
 iniconfig==2.0.0
@@ -214,7 +214,7 @@ jellyfish==1.1.0
 jieba==0.42.1
 Jinja2==3.1.4
 joblib==1.4.2
-jsonpickle==3.2.2
+jsonpickle==3.3.0
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 jupyter-client==6.1.12
@@ -227,7 +227,7 @@ kaggle==1.6.17
 kagglehub==0.2.9
 keras==3.4.1
 keyring==23.5.0
-kiwisolver==1.4.5
+kiwisolver==1.4.7
 langcodes==3.4.0
 language_data==1.2.0
 launchpadlib==1.10.16
@@ -315,7 +315,7 @@ pickleshare==0.7.5
 Pillow==9.4.0
 pip==24.1.2
 pip-tools==7.4.1
-platformdirs==4.2.2
+platformdirs==4.3.2
 plotly==5.15.0
 plotnine==0.12.4
 pluggy==1.5.0
@@ -344,8 +344,8 @@ pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pycocotools==2.0.8
 pycparser==2.22
-pydantic==2.8.2
-pydantic_core==2.20.1
+pydantic==2.9.1
+pydantic_core==2.23.3
 pydata-google-auth==1.8.2
 pydot==1.4.2
 pydot-ng==2.0.0
@@ -392,7 +392,7 @@ rmm-cu12==24.4.0
 rpds-py==0.20.0
 rpy2==3.4.2
 rsa==4.9
-safetensors==0.4.4
+safetensors==0.4.5
 scikit-image==0.23.2
 scikit-learn==1.3.2
 scipy==1.13.1
@@ -405,7 +405,7 @@ sentencepiece==0.1.99
 setuptools==71.0.4
 shapely==2.0.6
 shellingham==1.5.4
-simple_parsing==0.1.5
+simple-parsing==0.1.6
 six==1.16.0
 sklearn-pandas==2.2.0
 smart-open==7.0.4
@@ -415,7 +415,7 @@ snowflake-connector-python==3.12.1
 sortedcontainers==2.4.0
 soundfile==0.12.1
 soupsieve==2.6
-soxr==0.5.0
+soxr==0.5.0.post1
 spacy==3.7.6
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
@@ -426,7 +426,7 @@ sphinxcontrib-htmlhelp==2.1.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
-SQLAlchemy==2.0.32
+SQLAlchemy==2.0.34
 sqlglot==20.11.0
 sqlparse==0.5.1
 srsly==2.4.8
@@ -447,7 +447,7 @@ tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.15.0
 tensorflow-probability==0.24.0
-tensorstore==0.1.64
+tensorstore==0.1.65
 termcolor==2.4.0
 terminado==0.18.1
 text-unidecode==1.3
@@ -456,7 +456,7 @@ tf-slim==1.1.0
 tf_keras==2.17.0
 thinc==8.2.5
 threadpoolctl==3.5.0
-tifffile==2024.8.28
+tifffile==2024.8.30
 tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
@@ -476,7 +476,7 @@ tweepy==4.14.0
 typeguard==4.3.0
 typer==0.12.5
 types-pytz==2024.1.0.20240417
-types-setuptools==74.0.0.20240831
+types-setuptools==74.1.0.20240907
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
@@ -493,15 +493,15 @@ webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.4
 wheel==0.44.0
-widgetsnbextension==3.6.8
+widgetsnbextension==3.6.9
 wordcloud==1.9.3
 wrapt==1.16.0
 xarray==2024.6.0
 xarray-einstats==0.7.0
 xgboost==2.1.1
 xlrd==2.0.1
-xyzservices==2024.6.0
-yarl==1.9.4
+xyzservices==2024.9.0
+yarl==1.11.0
 yellowbrick==1.5
 yfinance==0.2.43
 zict==3.0.0
