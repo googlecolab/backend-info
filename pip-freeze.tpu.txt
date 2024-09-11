@@ -177,8 +177,8 @@ protobuf==3.20.3
 psutil==5.9.5
 ptyprocess==0.7.0
 pyarrow==17.0.0
-pyasn1==0.6.0
-pyasn1_modules==0.4.0
+pyasn1==0.6.1
+pyasn1_modules==0.4.1
 pycparser==2.22
 pydantic==2.9.1
 pydantic_core==2.23.3
@@ -193,11 +193,11 @@ pytest==7.4.4
 python-apt==2.4.0
 python-dateutil==2.9.0.post0
 python-slugify==8.0.4
-pytz==2024.1
+pytz==2024.2
 PyYAML==6.0.2
 pyzmq==24.0.1
 referencing==0.35.1
-regex==2024.7.24
+regex==2024.9.11
 requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
