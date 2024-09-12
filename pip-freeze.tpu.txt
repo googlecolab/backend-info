@@ -84,7 +84,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5py==3.11.0
 httplib2==0.22.0
-huggingface-hub==0.24.6
+huggingface-hub==0.24.7
 idna==3.8
 imageio==2.35.1
 immutabledict==4.2.0
