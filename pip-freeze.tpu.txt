@@ -49,7 +49,7 @@ entrypoints==0.4
 etils==1.9.4
 exceptiongroup==1.2.2
 fastai==2.7.17
-fastcore==1.7.5
+fastcore==1.7.8
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
@@ -85,7 +85,7 @@ gym-notices==0.0.8
 h5py==3.11.0
 httplib2==0.22.0
 huggingface-hub==0.24.7
-idna==3.8
+idna==3.10
 imageio==2.35.1
 immutabledict==4.2.0
 importlib-metadata==4.6.4
@@ -164,7 +164,7 @@ pickleshare==0.7.5
 pillow==10.4.0
 pip==24.1.2
 pip-tools==7.4.1
-platformdirs==4.3.2
+platformdirs==4.3.3
 plotly==5.15.0
 pluggy==1.5.0
 pooch==1.8.2
