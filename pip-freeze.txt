@@ -18,7 +18,6 @@ argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 array_record==0.5.1
 arviz==0.19.0
-asn1crypto==1.5.1
 astropy==6.1.3
 astropy-iers-data==0.2024.9.16.0.32.21
 astunparse==1.6.3
@@ -87,7 +86,7 @@ dm-tree==0.1.8
 docstring_parser==0.16
 docutils==0.18.1
 dopamine_rl==4.0.9
-duckdb==0.10.3
+duckdb==1.1.0
 earthengine-api==1.0.0
 easydict==1.13
 ecos==2.0.14
@@ -240,7 +239,6 @@ llvmlite==0.43.0
 locket==1.0.0
 logical-unification==0.4.6
 lxml==4.9.4
-malloy==2024.1091
 marisa-trie==1.2.0
 Markdown==3.7
 markdown-it-py==3.0.0
@@ -410,7 +408,6 @@ sklearn-pandas==2.2.0
 smart-open==7.0.4
 sniffio==1.3.1
 snowballstemmer==2.2.0
-snowflake-connector-python==3.12.2
 sortedcontainers==2.4.0
 soundfile==0.12.1
 soupsieve==2.6
@@ -425,7 +422,7 @@ sphinxcontrib-htmlhelp==2.1.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
-SQLAlchemy==2.0.34
+SQLAlchemy==2.0.35
 sqlglot==20.11.0
 sqlparse==0.5.1
 srsly==2.4.8
@@ -460,7 +457,6 @@ tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.1
-tomlkit==0.13.2
 toolz==0.12.1
 torch @ https://download.pytorch.org/whl/cu121_full/torch-2.4.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=6f3aabcec8b7728943d22bec2d8017b1bd2d69cd903eefb7dd3a373e4f779c40
 torchaudio @ https://download.pytorch.org/whl/cu121_full/torchaudio-2.4.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=8bc4c22a701f4567a15cc98ff48c392147583b9ec4157d147025f297bf305acc
@@ -475,7 +471,7 @@ tweepy==4.14.0
 typeguard==4.3.0
 typer==0.12.5
 types-pytz==2024.2.0.20240913
-types-setuptools==74.1.0.20240907
+types-setuptools==75.1.0.20240917
 typing_extensions==4.12.2
 tzdata==2024.1
 tzlocal==5.2
