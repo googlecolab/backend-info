@@ -29,8 +29,7 @@ autograd==1.7.0
 babel==2.16.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
-bidict==0.23.1
-bigframes==1.17.0
+bigframes==1.18.0
 bigquery-magics==0.2.0
 bleach==6.1.0
 blinker==1.4
@@ -136,7 +135,7 @@ google-api-python-client==2.137.0
 google-auth==2.27.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.1
-google-cloud-aiplatform==1.67.0
+google-cloud-aiplatform==1.67.1
 google-cloud-bigquery==3.25.0
 google-cloud-bigquery-connection==1.15.5
 google-cloud-bigquery-storage==2.26.0
@@ -177,7 +176,7 @@ httplib2==0.22.0
 huggingface-hub==0.24.7
 humanize==4.10.0
 hyperopt==0.2.7
-ibis-framework==8.0.0
+ibis-framework==9.2.0
 idna==3.10
 imageio==2.35.1
 imageio-ffmpeg==0.5.1
@@ -423,13 +422,13 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
 SQLAlchemy==2.0.35
-sqlglot==20.11.0
+sqlglot==25.1.0
 sqlparse==0.5.1
 srsly==2.4.8
 stanio==0.5.1
 statsmodels==0.14.3
 StrEnum==0.4.15
-sympy==1.13.2
+sympy==1.13.3
 tables==3.8.0
 tabulate==0.9.0
 tbb==2021.13.1

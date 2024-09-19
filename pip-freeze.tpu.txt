@@ -228,7 +228,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
 StrEnum==0.4.15
-sympy==1.13.2
+sympy==1.13.3
 tenacity==9.0.0
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
