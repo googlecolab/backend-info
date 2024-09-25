@@ -49,14 +49,14 @@ entrypoints==0.4
 etils==1.9.4
 exceptiongroup==1.2.2
 fastai==2.7.17
-fastcore==1.7.8
+fastcore==1.7.9
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
 filelock==3.16.1
 flatbuffers==24.3.25
 flax==0.8.5
-fonttools==4.53.1
+fonttools==4.54.1
 fsspec==2024.9.0
 funcsigs==1.0.2
 gast==0.6.0
@@ -268,7 +268,7 @@ typer==0.12.5
 types-pytz==2024.2.0.20240913
 types-setuptools==75.1.0.20240917
 typing_extensions==4.12.2
-tzdata==2024.1
+tzdata==2024.2
 tzlocal==5.2
 uritemplate==3.0.1
 urllib3==2.2.3
