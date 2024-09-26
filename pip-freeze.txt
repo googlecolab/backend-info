@@ -36,6 +36,7 @@ blinker==1.4
 blis==0.7.11
 blosc2==2.0.0
 bokeh==3.4.3
+Bottleneck==1.4.0
 bqplot==0.12.43
 branca==0.7.2
 build==1.2.2
@@ -63,7 +64,7 @@ contextlib2==21.6.0
 contourpy==1.3.0
 cryptography==43.0.1
 cuda-python==12.2.1
-cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.4.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=57366e7ef09dc63e0b389aff20df6c37d91e2790065861ee31a4720149f5b694
+cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.6.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=6fdd6fd412117503ad23dca75aabb5b536348d3af459b59920152be1a0af6f15
 cufflinks==0.17.3
 cupy-cuda12x==12.2.0
 cvxopt==1.3.2
@@ -226,7 +227,7 @@ kagglehub==0.3.0
 keras==3.4.1
 keyring==23.5.0
 kiwisolver==1.4.7
-langcodes==3.4.0
+langcodes==3.4.1
 language_data==1.2.0
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -303,10 +304,10 @@ optree==0.12.1
 orbax-checkpoint==0.6.4
 osqp==0.6.7.post0
 packaging==24.1
-pandas==2.1.4
+pandas==2.2.2
 pandas-datareader==0.10.0
 pandas-gbq==0.23.2
-pandas-stubs==2.1.4.231227
+pandas-stubs==2.2.2.240909
 pandocfilters==1.5.1
 panel==1.4.5
 param==2.1.1
@@ -335,7 +336,7 @@ proglog==0.1.10
 progressbar2==4.5.0
 prometheus_client==0.21.0
 promise==2.3
-prompt_toolkit==3.0.47
+prompt_toolkit==3.0.48
 prophet==1.1.5
 proto-plus==1.24.0
 protobuf==3.20.3
@@ -344,7 +345,7 @@ psycopg2==2.9.9
 ptyprocess==0.7.0
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
-pyarrow==14.0.2
+pyarrow==16.1.0
 pyarrow-hotfix==0.6
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
@@ -353,7 +354,7 @@ pycparser==2.22
 pydantic==2.9.2
 pydantic_core==2.23.4
 pydata-google-auth==1.8.2
-pydot==3.0.1
+pydot==3.0.2
 pydot-ng==2.0.0
 pydotplus==2.0.2
 PyDrive==1.3.1
@@ -395,7 +396,7 @@ requests==2.32.3
 requests-oauthlib==1.3.1
 requirements-parser==0.9.0
 rich==13.8.1
-rmm-cu12==24.4.0
+rmm-cu12==24.6.0
 rpds-py==0.20.0
 rpy2==3.4.2
 rsa==4.9

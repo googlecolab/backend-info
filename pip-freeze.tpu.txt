@@ -82,7 +82,7 @@ gspread==6.0.2
 gspread-dataframe==3.3.1
 gym==0.25.2
 gym-notices==0.0.8
-h5py==3.11.0
+h5py==3.12.0
 httplib2==0.22.0
 huggingface-hub==0.24.7
 idna==3.10
@@ -114,7 +114,7 @@ kagglehub==0.3.0
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.7
-langcodes==3.4.0
+langcodes==3.4.1
 language_data==1.2.0
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -155,8 +155,8 @@ opt-einsum==3.3.0
 optax==0.1.9
 orbax-checkpoint==0.4.4
 packaging==24.1
-pandas==2.1.4
-pandas-stubs==2.1.4.231227
+pandas==2.2.2
+pandas-stubs==2.2.2.240909
 pandocfilters==1.5.1
 parso==0.8.4
 pexpect==4.9.0
@@ -172,7 +172,7 @@ portpicker==1.5.2
 preshed==3.0.9
 prometheus_client==0.21.0
 promise==2.3
-prompt_toolkit==3.0.47
+prompt_toolkit==3.0.48
 protobuf==3.20.3
 psutil==5.9.5
 ptyprocess==0.7.0
