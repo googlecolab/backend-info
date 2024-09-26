@@ -38,7 +38,7 @@ blosc2==2.0.0
 bokeh==3.4.3
 Bottleneck==1.4.0
 bqplot==0.12.43
-branca==0.7.2
+branca==0.8.0
 build==1.2.2
 CacheControl==0.14.0
 cachetools==5.5.0
@@ -136,7 +136,7 @@ google-api-python-client==2.137.0
 google-auth==2.27.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.1
-google-cloud-aiplatform==1.67.1
+google-cloud-aiplatform==1.68.0
 google-cloud-bigquery==3.25.0
 google-cloud-bigquery-connection==1.15.5
 google-cloud-bigquery-storage==2.26.0
@@ -298,7 +298,7 @@ opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
 openpyxl==3.1.5
-opt-einsum==3.3.0
+opt_einsum==3.4.0
 optax==0.2.3
 optree==0.12.1
 orbax-checkpoint==0.6.4
@@ -454,7 +454,7 @@ tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.15.0
 tensorflow-probability==0.24.0
-tensorstore==0.1.65
+tensorstore==0.1.66
 termcolor==2.4.0
 terminado==0.18.1
 text-unidecode==1.3
