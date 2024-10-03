@@ -110,7 +110,7 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.13
 kaggle==1.6.17
-kagglehub==0.3.0
+kagglehub==0.3.1
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.7
@@ -201,7 +201,7 @@ regex==2024.9.11
 requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
-rich==13.8.1
+rich==13.9.1
 rpds-py==0.20.0
 rpy2==3.4.2
 rsa==4.9
@@ -237,7 +237,7 @@ tensorflow-datasets==4.9.6
 tensorflow-estimator==2.15.0
 tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
-tensorflow-metadata==1.15.0
+tensorflow-metadata==1.16.0
 tensorflow-probability==0.24.0
 tensorflow-text==2.15.0
 tensorstore==0.1.45
@@ -252,7 +252,7 @@ tifffile==2024.9.20
 tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
-tomli==2.0.1
+tomli==2.0.2
 toolz==0.12.1
 torch @ https://download.pytorch.org/whl/cpu/torch-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=0e59377b27823dda6d26528febb7ca06fc5b77816eaa58b4420cc8785e33d4ce
 torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.4.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=d973d6c0bd0cda884a9a68778b2d3a2d3cc4f2876dd21e5c95f93091904aab19
