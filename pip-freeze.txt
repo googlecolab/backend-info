@@ -6,7 +6,7 @@
 absl-py==1.4.0
 accelerate==0.34.2
 aiohappyeyeballs==2.4.3
-aiohttp==3.10.8
+aiohttp==3.10.9
 aiosignal==1.3.1
 alabaster==0.7.16
 albucore==0.0.16
@@ -19,7 +19,7 @@ argon2-cffi-bindings==21.2.0
 array_record==0.5.1
 arviz==0.19.0
 astropy==6.1.4
-astropy-iers-data==0.2024.9.30.0.32.59
+astropy-iers-data==0.2024.10.7.0.32.46
 astunparse==1.6.3
 async-timeout==4.0.3
 atpublic==4.1.0
@@ -39,7 +39,7 @@ bokeh==3.4.3
 Bottleneck==1.4.0
 bqplot==0.12.43
 branca==0.8.0
-build==1.2.2
+build==1.2.2.post1
 CacheControl==0.14.0
 cachetools==5.5.0
 catalogue==2.0.10
@@ -102,7 +102,7 @@ etuples==0.3.9
 eval_type_backport==0.2.0
 exceptiongroup==1.2.2
 fastai==2.7.17
-fastcore==1.7.10
+fastcore==1.7.11
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
@@ -114,7 +114,7 @@ flatbuffers==24.3.25
 flax==0.8.5
 folium==0.17.0
 fonttools==4.54.1
-frozendict==2.4.4
+frozendict==2.4.5
 frozenlist==1.4.1
 fsspec==2024.6.1
 future==1.0.0
@@ -168,7 +168,7 @@ gspread==6.0.2
 gspread-dataframe==3.3.1
 gym==0.25.2
 gym-notices==0.0.8
-h5netcdf==1.3.0
+h5netcdf==1.4.0
 h5py==3.11.0
 holidays==0.57
 holoviews==1.19.1
@@ -183,7 +183,7 @@ idna==3.10
 imageio==2.35.1
 imageio-ffmpeg==0.5.1
 imagesize==1.4.1
-imbalanced-learn==0.12.3
+imbalanced-learn==0.12.4
 imgaug==0.4.0
 immutabledict==4.2.0
 importlib_metadata==8.4.0
@@ -399,7 +399,7 @@ regex==2024.9.11
 requests==2.32.3
 requests-oauthlib==1.3.1
 requirements-parser==0.9.0
-rich==13.9.1
+rich==13.9.2
 rmm-cu12==24.6.0
 rpds-py==0.20.0
 rpy2==3.4.2
@@ -410,7 +410,7 @@ scikit-learn==1.5.2
 scipy==1.13.1
 scooby==0.10.0
 scs==3.2.7
-seaborn==0.13.1
+seaborn==0.13.2
 SecretStorage==3.3.1
 Send2Trash==1.8.3
 sentencepiece==0.2.0
@@ -420,7 +420,7 @@ shellingham==1.5.4
 simple-parsing==0.1.6
 six==1.16.0
 sklearn-pandas==2.2.0
-smart-open==7.0.4
+smart-open==7.0.5
 sniffio==1.3.1
 snowballstemmer==2.2.0
 sortedcontainers==2.4.0
@@ -459,7 +459,7 @@ tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.16.0
 tensorflow-probability==0.24.0
 tensorstore==0.1.66
-termcolor==2.4.0
+termcolor==2.5.0
 terminado==0.18.1
 text-unidecode==1.3
 textblob==0.17.1

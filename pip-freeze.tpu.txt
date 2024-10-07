@@ -19,7 +19,7 @@ beautifulsoup4==4.12.3
 bleach==6.1.0
 blinker==1.4
 blis==0.7.11
-build==1.2.2
+build==1.2.2.post1
 cachetools==5.5.0
 catalogue==2.0.10
 certifi==2024.8.30
@@ -49,7 +49,7 @@ entrypoints==0.4
 etils==1.9.4
 exceptiongroup==1.2.2
 fastai==2.7.17
-fastcore==1.7.10
+fastcore==1.7.11
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
@@ -201,7 +201,7 @@ regex==2024.9.11
 requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
-rich==13.9.1
+rich==13.9.2
 rpds-py==0.20.0
 rpy2==3.4.2
 rsa==4.9
@@ -209,7 +209,7 @@ safetensors==0.4.5
 scikit-image==0.24.0
 scikit-learn==1.5.2
 scipy==1.13.1
-seaborn==0.13.1
+seaborn==0.13.2
 SecretStorage==3.3.1
 Send2Trash==1.8.3
 sentencepiece==0.2.0
@@ -218,7 +218,7 @@ shellingham==1.5.4
 simple-parsing==0.1.6
 six==1.16.0
 sklearn-pandas==2.2.0
-smart-open==7.0.4
+smart-open==7.0.5
 sniffio==1.3.1
 soundfile==0.12.1
 soupsieve==2.6
@@ -241,7 +241,7 @@ tensorflow-metadata==1.16.0
 tensorflow-probability==0.24.0
 tensorflow-text==2.15.0
 tensorstore==0.1.45
-termcolor==2.4.0
+termcolor==2.5.0
 terminado==0.18.1
 text-unidecode==1.3
 tf-slim==1.1.0
@@ -253,7 +253,7 @@ tinycss2==1.3.0
 tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.2
-toolz==0.12.1
+toolz==1.0.0
 torch @ https://download.pytorch.org/whl/cpu/torch-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=0e59377b27823dda6d26528febb7ca06fc5b77816eaa58b4420cc8785e33d4ce
 torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.4.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=d973d6c0bd0cda884a9a68778b2d3a2d3cc4f2876dd21e5c95f93091904aab19
 torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=b72ce53071b0bcd4c52b81c8ef4fbc01649cc8dacc646982cf9ef59ac298ff91
