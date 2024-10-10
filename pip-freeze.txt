@@ -29,7 +29,7 @@ autograd==1.7.0
 babel==2.16.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
-bigframes==1.21.0
+bigframes==1.22.0
 bigquery-magics==0.4.0
 bleach==6.1.0
 blinker==1.4
@@ -46,7 +46,7 @@ catalogue==2.0.10
 certifi==2024.8.30
 cffi==1.17.1
 chardet==5.2.0
-charset-normalizer==3.3.2
+charset-normalizer==3.4.0
 chex==0.1.87
 clarabel==0.9.0
 click==8.1.7
@@ -102,7 +102,7 @@ etuples==0.3.9
 eval_type_backport==0.2.0
 exceptiongroup==1.2.2
 fastai==2.7.17
-fastcore==1.7.11
+fastcore==1.7.12
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
@@ -148,7 +148,7 @@ google-cloud-firestore==2.16.1
 google-cloud-functions==1.16.5
 google-cloud-iam==2.15.2
 google-cloud-language==2.13.4
-google-cloud-pubsub==2.25.2
+google-cloud-pubsub==2.26.0
 google-cloud-resource-manager==1.12.5
 google-cloud-storage==2.8.0
 google-cloud-translate==3.15.5
@@ -170,7 +170,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5netcdf==1.4.0
 h5py==3.11.0
-holidays==0.57
+holidays==0.58
 holoviews==1.19.1
 html5lib==1.1
 httpimport==1.4.0
@@ -215,7 +215,7 @@ Jinja2==3.1.4
 joblib==1.4.2
 jsonpickle==3.3.0
 jsonschema==4.23.0
-jsonschema-specifications==2023.12.1
+jsonschema-specifications==2024.10.1
 jupyter-client==6.1.12
 jupyter-console==6.1.0
 jupyter-leaflet==0.19.2
@@ -245,7 +245,7 @@ lxml==4.9.4
 marisa-trie==1.2.0
 Markdown==3.7
 markdown-it-py==3.0.0
-MarkupSafe==2.1.5
+MarkupSafe==3.0.1
 matplotlib==3.7.1
 matplotlib-inline==0.1.7
 matplotlib-venn==1.1.1
@@ -286,7 +286,7 @@ nvidia-cublas-cu12==12.6.3.3
 nvidia-cuda-cupti-cu12==12.6.80
 nvidia-cuda-nvcc-cu12==12.6.77
 nvidia-cuda-runtime-cu12==12.6.77
-nvidia-cudnn-cu12==9.4.0.58
+nvidia-cudnn-cu12==9.5.0.50
 nvidia-cufft-cu12==11.3.0.4
 nvidia-cusolver-cu12==11.7.1.2
 nvidia-cusparse-cu12==12.5.4.2
@@ -341,6 +341,7 @@ progressbar2==4.5.0
 prometheus_client==0.21.0
 promise==2.3
 prompt_toolkit==3.0.48
+propcache==0.2.0
 prophet==1.1.6
 proto-plus==1.24.0
 protobuf==3.20.3
@@ -456,7 +457,7 @@ tensorflow==2.17.0
 tensorflow-datasets==4.9.6
 tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
-tensorflow-metadata==1.16.0
+tensorflow-metadata==1.16.1
 tensorflow-probability==0.24.0
 tensorstore==0.1.66
 termcolor==2.5.0
@@ -511,7 +512,7 @@ xarray-einstats==0.8.0
 xgboost==2.1.1
 xlrd==2.0.1
 xyzservices==2024.9.0
-yarl==1.13.1
+yarl==1.14.0
 yellowbrick==1.5
 yfinance==0.2.44
 zict==3.0.0
