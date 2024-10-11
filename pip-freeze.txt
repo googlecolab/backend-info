@@ -6,7 +6,7 @@
 absl-py==1.4.0
 accelerate==0.34.2
 aiohappyeyeballs==2.4.3
-aiohttp==3.10.9
+aiohttp==3.10.10
 aiosignal==1.3.1
 alabaster==0.7.16
 albucore==0.0.16
@@ -64,7 +64,7 @@ contextlib2==21.6.0
 contourpy==1.3.0
 cryptography==43.0.1
 cuda-python==12.2.1
-cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.6.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=6fdd6fd412117503ad23dca75aabb5b536348d3af459b59920152be1a0af6f15
+cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.6.1-cp310-cp310-manylinux_2_28_x86_64.whl
 cufflinks==0.17.3
 cupy-cuda12x==12.2.0
 cvxopt==1.3.2
@@ -148,7 +148,7 @@ google-cloud-firestore==2.16.1
 google-cloud-functions==1.16.5
 google-cloud-iam==2.15.2
 google-cloud-language==2.13.4
-google-cloud-pubsub==2.26.0
+google-cloud-pubsub==2.25.0
 google-cloud-resource-manager==1.12.5
 google-cloud-storage==2.8.0
 google-cloud-translate==3.15.5
@@ -186,7 +186,7 @@ imagesize==1.4.1
 imbalanced-learn==0.12.4
 imgaug==0.4.0
 immutabledict==4.2.0
-importlib_metadata==8.4.0
+importlib_metadata==8.5.0
 importlib_resources==6.4.5
 imutils==0.5.4
 inflect==7.4.0
@@ -299,13 +299,14 @@ opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
 openpyxl==3.1.5
-opentelemetry-api==1.27.0
-opentelemetry-sdk==1.27.0
-opentelemetry-semantic-conventions==0.48b0
+opentelemetry-api==1.16.0
+opentelemetry-sdk==1.16.0
+opentelemetry-semantic-conventions==0.37b0
 opt_einsum==3.4.0
 optax==0.2.3
 optree==0.13.0
 orbax-checkpoint==0.6.4
+ordered-set==4.1.0
 osqp==0.6.7.post0
 packaging==24.1
 pandas==2.2.2
@@ -474,10 +475,10 @@ tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.2
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cu121_full/torch-2.4.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=f3ed9a2b7f8671b2b32a2f036d1b81055eb3ad9b18ba43b705aa34bae4289e1a
-torchaudio @ https://download.pytorch.org/whl/cu121_full/torchaudio-2.4.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=da8c87c80a1c1376a48dc33eef30b03bbdf1df25a05bd2b1c620b8811c7b19be
+torch @ https://download.pytorch.org/whl/cu121_full/torch-2.4.1%2Bcu121-cp310-cp310-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu121_full/torchaudio-2.4.1%2Bcu121-cp310-cp310-linux_x86_64.whl
 torchsummary==1.5.1
-torchvision @ https://download.pytorch.org/whl/cu121_full/torchvision-0.19.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=b8cc4bf381b75522995b601e07a1b433b5fd925dc3e34a7fa6cd22f449d65379
+torchvision @ https://download.pytorch.org/whl/cu121_full/torchvision-0.19.1%2Bcu121-cp310-cp310-linux_x86_64.whl
 tornado==6.3.3
 tqdm==4.66.5
 traitlets==5.7.1

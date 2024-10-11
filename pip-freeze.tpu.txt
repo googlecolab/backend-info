@@ -154,6 +154,7 @@ opencv-python==4.10.0.84
 opt_einsum==3.4.0
 optax==0.1.9
 orbax-checkpoint==0.4.4
+ordered-set==4.1.0
 packaging==24.1
 pandas==2.2.2
 pandas-stubs==2.2.2.240909
@@ -232,7 +233,7 @@ sympy==1.13.3
 tenacity==9.0.0
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
-tensorflow @ https://storage.googleapis.com/cloud-tpu-tpuvm-artifacts/tensorflow/tf-2.15.0/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=23069418d5bea74d96f14f0ee47e8f429f0da4267df91769040a80f477e6ee05
+tensorflow @ https://storage.googleapis.com/cloud-tpu-tpuvm-artifacts/tensorflow/tf-2.15.0/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 tensorflow-datasets==4.9.6
 tensorflow-estimator==2.15.0
 tensorflow-hub==0.16.1
@@ -254,10 +255,10 @@ tokenizers==0.19.1
 toml==0.10.2
 tomli==2.0.2
 toolz==1.0.0
-torch @ https://download.pytorch.org/whl/cpu/torch-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=0e59377b27823dda6d26528febb7ca06fc5b77816eaa58b4420cc8785e33d4ce
-torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.4.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=d973d6c0bd0cda884a9a68778b2d3a2d3cc4f2876dd21e5c95f93091904aab19
-torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=b72ce53071b0bcd4c52b81c8ef4fbc01649cc8dacc646982cf9ef59ac298ff91
-torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.19.0%2Bcpu-cp310-cp310-linux_x86_64.whl#sha256=7b2b46d3c757fa1fe7d08d48bdae6c9d97d82ace707474a79219c10991fee6ff
+torch @ https://download.pytorch.org/whl/cpu/torch-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl
+torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.4.0+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.4.0%2Bcpu-cp310-cp310-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.19.0%2Bcpu-cp310-cp310-linux_x86_64.whl
 tornado==6.3.3
 tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@7d2b2921fc9393a3dec7be5440e25132c217549b#subdirectory=tpu_info
 tqdm==4.66.5
