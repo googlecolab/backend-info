@@ -39,7 +39,6 @@ bokeh==3.4.3
 Bottleneck==1.4.0
 bqplot==0.12.43
 branca==0.8.0
-build==1.2.2.post1
 CacheControl==0.14.0
 cachetools==5.5.0
 catalogue==2.0.10
@@ -306,7 +305,6 @@ opt_einsum==3.4.0
 optax==0.2.3
 optree==0.13.0
 orbax-checkpoint==0.6.4
-ordered-set==4.1.0
 osqp==0.6.7.post0
 packaging==24.1
 pandas==2.2.2
@@ -326,7 +324,6 @@ pexpect==4.9.0
 pickleshare==0.7.5
 pillow==10.4.0
 pip==24.1.2
-pip-tools==7.4.1
 platformdirs==4.3.6
 plotly==5.24.1
 plotnine==0.13.6
@@ -379,7 +376,6 @@ pyOpenSSL==24.2.1
 pyparsing==3.1.4
 pyperclip==1.9.0
 pyproj==3.7.0
-pyproject_hooks==1.2.0
 pyshp==2.3.1
 PySocks==1.7.1
 pytensor==2.25.5
@@ -416,7 +412,7 @@ seaborn==0.13.2
 SecretStorage==3.3.1
 Send2Trash==1.8.3
 sentencepiece==0.2.0
-setuptools==71.0.4
+setuptools==75.1.0
 shapely==2.0.6
 shellingham==1.5.4
 simple-parsing==0.1.6
