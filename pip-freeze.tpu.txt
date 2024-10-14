@@ -48,7 +48,7 @@ entrypoints==0.4
 etils==1.9.4
 exceptiongroup==1.2.2
 fastai==2.7.17
-fastcore==1.7.13
+fastcore==1.7.16
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
@@ -85,7 +85,7 @@ h5py==3.12.1
 httplib2==0.22.0
 huggingface-hub==0.24.7
 idna==3.10
-imageio==2.35.1
+imageio==2.36.0
 immutabledict==4.2.0
 importlib-metadata==4.6.4
 importlib_resources==6.4.5
@@ -123,7 +123,7 @@ libclang==18.1.1
 librosa==0.10.2.post1
 libtpu-nightly==0.1.dev20240916+nightly
 llvmlite==0.43.0
-marisa-trie==1.2.0
+marisa-trie==1.2.1
 Markdown==3.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.1
@@ -141,7 +141,7 @@ nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
 nest-asyncio==1.6.0
-networkx==3.4
+networkx==3.4.1
 nltk==3.8.1
 notebook==6.5.5
 notebook_shim==0.2.4
@@ -184,7 +184,7 @@ pygame==2.6.1
 Pygments==2.18.0
 PyGObject==3.42.1
 PyJWT==2.3.0
-pyparsing==3.1.4
+pyparsing==3.2.0
 PySocks==1.7.1
 pytest==7.4.4
 python-apt==0.0.0
@@ -263,7 +263,7 @@ transformers==4.44.2
 trax==1.4.1
 typer==0.12.5
 types-pytz==2024.2.0.20241003
-types-setuptools==75.1.0.20240917
+types-setuptools==75.1.0.20241014
 typing_extensions==4.12.2
 tzdata==2024.2
 tzlocal==5.2
