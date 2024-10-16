@@ -132,7 +132,7 @@ gitdb==4.0.11
 GitPython==3.1.43
 glob2==0.7
 google==2.0.3
-google-ai-generativelanguage==0.6.6
+google-ai-generativelanguage==0.6.10
 google-api-core==2.19.2
 google-api-python-client==2.137.0
 google-auth==2.27.0
@@ -155,7 +155,7 @@ google-cloud-storage==2.8.0
 google-cloud-translate==3.15.5
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.6.0
-google-generativeai==0.7.2
+google-generativeai==0.8.3
 google-pasta==0.2.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.65.0
@@ -447,7 +447,7 @@ sphinxcontrib-htmlhelp==2.1.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
-SQLAlchemy==2.0.35
+SQLAlchemy==2.0.36
 sqlglot==25.1.0
 sqlparse==0.5.1
 srsly==2.4.8
