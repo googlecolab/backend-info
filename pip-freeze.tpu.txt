@@ -45,10 +45,10 @@ docstring_parser==0.16
 dopamine_rl==4.0.9
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
-etils==1.9.4
+etils==1.10.0
 exceptiongroup==1.2.2
 fastai==2.7.17
-fastcore==1.7.16
+fastcore==1.7.19
 fastdownload==0.0.7
 fastjsonschema==2.20.0
 fastprogress==1.0.3
@@ -76,7 +76,7 @@ google-crc32c==1.6.0
 google-pasta==0.2.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.65.0
-grpcio==1.66.2
+grpcio==1.67.0
 gspread==6.0.2
 gspread-dataframe==3.3.1
 gym==0.25.2
@@ -109,7 +109,7 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.13
 kaggle==1.6.17
-kagglehub==0.3.2
+kagglehub==0.3.3
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.7
@@ -126,7 +126,7 @@ llvmlite==0.43.0
 marisa-trie==1.2.1
 Markdown==3.7
 markdown-it-py==3.0.0
-MarkupSafe==3.0.1
+MarkupSafe==3.0.2
 matplotlib==3.7.1
 matplotlib-inline==0.1.7
 mdurl==0.1.2
@@ -263,7 +263,7 @@ transformers==4.44.2
 trax==1.4.1
 typer==0.12.5
 types-pytz==2024.2.0.20241003
-types-setuptools==75.1.0.20241014
+types-setuptools==75.2.0.20241018
 typing_extensions==4.12.2
 tzdata==2024.2
 tzlocal==5.2
