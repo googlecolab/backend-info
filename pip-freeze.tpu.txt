@@ -195,7 +195,7 @@ regex==2024.9.11
 requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
-rich==13.9.2
+rich==13.9.3
 rpds-py==0.20.0
 rpy2==3.4.2
 rsa==4.9
@@ -274,6 +274,6 @@ webencodings==0.5.1
 websocket-client==1.8.0
 Werkzeug==3.0.4
 wheel==0.44.0
-widgetsnbextension==3.6.9
+widgetsnbextension==3.6.10
 wrapt==1.14.1
 zipp==3.20.2
