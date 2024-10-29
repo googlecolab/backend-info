@@ -63,7 +63,7 @@ gdown==5.2.0
 gensim==4.3.3
 gin-config==0.5.0
 google==2.0.3
-google-api-core==2.21.0
+google-api-core==2.22.0
 google-auth==2.27.0
 google-auth-oauthlib==1.2.1
 google-cloud-core==2.4.1
@@ -73,7 +73,7 @@ google-crc32c==1.6.0
 google-pasta==0.2.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.65.0
-grpcio==1.67.0
+grpcio==1.67.1
 gspread==6.0.2
 gspread-dataframe==3.3.1
 gym==0.25.2
@@ -124,7 +124,7 @@ marisa-trie==1.2.1
 Markdown==3.7
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
-matplotlib==3.7.1
+matplotlib==3.8.0
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.0.2
@@ -171,7 +171,7 @@ proto-plus==1.25.0
 protobuf==4.25.5
 psutil==5.9.5
 ptyprocess==0.7.0
-pyarrow==17.0.0
+pyarrow==18.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycparser==2.22
@@ -254,7 +254,7 @@ torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.5.0%2Bcpu-cp310-c
 torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.20.0%2Bcpu-cp310-cp310-linux_x86_64.whl
 tornado==6.3.3
 tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@7d2b2921fc9393a3dec7be5440e25132c217549b#subdirectory=tpu_info
-tqdm==4.66.5
+tqdm==4.66.6
 traitlets==5.7.1
 transformers==4.44.2
 trax==1.4.1
