@@ -16,7 +16,7 @@ attrs==24.2.0
 audioread==3.0.1
 backcall==0.2.0
 beautifulsoup4==4.12.3
-bleach==6.1.0
+bleach==6.2.0
 blinker==1.4
 blis==0.7.11
 cachetools==5.5.0

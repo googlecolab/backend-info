@@ -29,9 +29,9 @@ autograd==1.7.0
 babel==2.16.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
-bigframes==1.24.0
+bigframes==1.25.0
 bigquery-magics==0.4.0
-bleach==6.1.0
+bleach==6.2.0
 blinker==1.4
 blis==0.7.11
 blosc2==2.0.0
@@ -469,7 +469,7 @@ srsly==2.4.8
 stanio==0.5.1
 statsmodels==0.14.4
 StrEnum==0.4.15
-stringzilla==3.10.5
+stringzilla==3.10.6
 sympy==1.13.1
 tables==3.8.0
 tabulate==0.9.0
