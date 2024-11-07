@@ -34,7 +34,7 @@ cryptography==3.4.8
 cycler==0.12.1
 cymem==2.0.8
 dbus-python==1.2.18
-debugpy==1.6.6
+debugpy==1.8.0
 decorator==5.1.1
 defusedxml==0.7.1
 distrax==0.1.5
@@ -195,8 +195,8 @@ regex==2024.9.11
 requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
-rich==13.9.3
-rpds-py==0.20.0
+rich==13.9.4
+rpds-py==0.20.1
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.5
@@ -227,7 +227,7 @@ tenacity==9.0.0
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
 tensorflow @ https://storage.googleapis.com/cloud-tpu-tpuvm-artifacts/tensorflow/tf-2.15.0/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-tensorflow-datasets==4.9.6
+tensorflow-datasets==4.9.7
 tensorflow-estimator==2.15.0
 tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
@@ -260,7 +260,7 @@ transformers==4.44.2
 trax==1.4.1
 typer==0.12.5
 types-pytz==2024.2.0.20241003
-types-setuptools==75.2.0.20241025
+types-setuptools==75.3.0.20241105
 typing_extensions==4.12.2
 tzdata==2024.2
 tzlocal==5.2
@@ -272,7 +272,7 @@ wcwidth==0.2.13
 weasel==0.4.1
 webencodings==0.5.1
 websocket-client==1.8.0
-Werkzeug==3.0.6
+Werkzeug==3.1.2
 wheel==0.44.0
 widgetsnbextension==3.6.10
 wrapt==1.14.1
