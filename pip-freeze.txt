@@ -4,11 +4,11 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-accelerate==0.34.2
+accelerate==1.1.1
 aiohappyeyeballs==2.4.3
 aiohttp==3.10.10
 aiosignal==1.3.1
-alabaster==0.7.16
+alabaster==1.0.0
 albucore==0.0.19
 albumentations==1.4.20
 altair==4.2.2
@@ -18,7 +18,7 @@ argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 array_record==0.5.1
 arviz==0.20.0
-astropy==6.1.4
+astropy==6.1.5
 astropy-iers-data==0.2024.11.4.0.33.34
 astunparse==1.6.3
 async-timeout==4.0.3
@@ -32,10 +32,10 @@ beautifulsoup4==4.12.3
 bigframes==1.25.0
 bigquery-magics==0.4.0
 bleach==6.2.0
-blinker==1.4
+blinker==1.8.2
 blis==0.7.11
-blosc2==2.0.0
-bokeh==3.4.3
+blosc2==2.7.1
+bokeh==3.6.1
 Bottleneck==1.4.2
 bqplot==0.12.43
 branca==0.8.0
@@ -78,13 +78,13 @@ debugpy==1.8.0
 decorator==4.4.2
 defusedxml==0.7.1
 Deprecated==1.2.14
-diffusers==0.30.3
+diffusers==0.31.0
 distro==1.9.0
 dlib==19.24.2
 dm-tree==0.1.8
 docker-pycreds==0.4.0
 docstring_parser==0.16
-docutils==0.18.1
+docutils==0.21.2
 dopamine_rl==4.0.9
 duckdb==1.1.3
 earthengine-api==1.2.0
@@ -108,7 +108,7 @@ fastprogress==1.0.3
 fastrlock==0.8.2
 filelock==3.16.1
 firebase-admin==6.5.0
-Flask==2.2.5
+Flask==3.0.3
 flatbuffers==24.3.25
 flax==0.8.5
 folium==0.18.0
@@ -134,25 +134,25 @@ glob2==0.7
 google==2.0.3
 google-ai-generativelanguage==0.6.10
 google-api-core==2.19.2
-google-api-python-client==2.137.0
+google-api-python-client==2.151.0
 google-auth==2.27.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.1
-google-cloud-aiplatform==1.70.0
+google-cloud-aiplatform==1.71.1
 google-cloud-bigquery==3.25.0
-google-cloud-bigquery-connection==1.15.5
+google-cloud-bigquery-connection==1.16.1
 google-cloud-bigquery-storage==2.27.0
 google-cloud-bigtable==2.26.0
 google-cloud-core==2.4.1
-google-cloud-datastore==2.19.0
-google-cloud-firestore==2.16.1
-google-cloud-functions==1.16.5
+google-cloud-datastore==2.20.1
+google-cloud-firestore==2.19.0
+google-cloud-functions==1.18.0
 google-cloud-iam==2.16.0
-google-cloud-language==2.13.4
+google-cloud-language==2.15.0
 google-cloud-pubsub==2.26.1
 google-cloud-resource-manager==1.13.0
 google-cloud-storage==2.8.0
-google-cloud-translate==3.15.5
+google-cloud-translate==3.17.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.6.0
 google-generativeai==0.8.3
@@ -173,13 +173,13 @@ h11==0.14.0
 h5netcdf==1.4.0
 h5py==3.12.1
 holidays==0.60
-holoviews==1.19.1
+holoviews==1.20.0
 html5lib==1.1
 httpcore==1.0.6
 httpimport==1.4.0
 httplib2==0.22.0
 httpx==0.27.2
-huggingface-hub==0.24.7
+huggingface-hub==0.26.2
 humanize==4.11.0
 hyperopt==0.2.7
 ibis-framework==9.2.0
@@ -219,7 +219,7 @@ Jinja2==3.1.4
 jiter==0.7.0
 joblib==1.4.2
 jsonpatch==1.33
-jsonpickle==3.4.1
+jsonpickle==3.4.2
 jsonpointer==3.0.0
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
@@ -239,7 +239,7 @@ langchain==0.3.7
 langchain-core==0.3.15
 langchain-text-splitters==0.3.2
 langcodes==3.4.1
-langsmith==0.1.139
+langsmith==0.1.140
 language_data==1.2.0
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -267,7 +267,7 @@ miniKanren==1.0.3
 missingno==0.5.2
 mistune==3.0.2
 mizani==0.13.0
-mkl==2024.2.2
+mkl==2025.0.0
 ml-dtypes==0.4.1
 mlxtend==0.23.2
 more-itertools==10.5.0
@@ -278,17 +278,18 @@ multidict==6.1.0
 multipledispatch==1.0.0
 multitasking==0.0.11
 murmurhash==1.0.10
-music21==9.1.0
+music21==9.3.0
 namex==0.0.8
 natsort==8.4.0
 nbclassic==1.1.0
 nbclient==0.10.0
 nbconvert==7.16.4
 nbformat==5.10.4
+ndindex==1.9.2
 nest-asyncio==1.6.0
 networkx==3.4.2
 nibabel==5.3.2
-nltk==3.8.1
+nltk==3.9.1
 notebook==6.5.5
 notebook_shim==0.2.4
 numba==0.60.0
@@ -309,7 +310,7 @@ nvtx==0.2.10
 nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-24.10.0-py3-none-any.whl
 oauth2client==4.1.3
 oauthlib==3.2.2
-openai==1.52.2
+openai==1.54.3
 opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
@@ -329,7 +330,7 @@ pandas-datareader==0.10.0
 pandas-gbq==0.24.0
 pandas-stubs==2.2.2.240909
 pandocfilters==1.5.1
-panel==1.4.5
+panel==1.5.3
 param==2.1.1
 parso==0.8.4
 parsy==2.1
@@ -340,7 +341,7 @@ peewee==3.17.7
 peft==0.13.2
 pexpect==4.9.0
 pickleshare==0.7.5
-pillow==10.4.0
+pillow==11.0.0
 pip==24.1.2
 platformdirs==4.3.6
 plotly==5.24.1
@@ -377,7 +378,7 @@ pydata-google-auth==1.8.2
 pydot==3.0.2
 pydotplus==2.0.2
 PyDrive==1.3.1
-PyDrive2==1.20.0
+PyDrive2==1.21.1
 pyerfa==2.0.1.4
 pygame==2.6.1
 pygit2==1.16.0
@@ -387,7 +388,7 @@ PyJWT==2.9.0
 pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-24.10.1-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 pylibcugraph-cu12==24.10.0
 pylibraft-cu12==24.10.0
-pymc==5.17.0
+pymc==5.18.0
 pymystem3==0.2.0
 pynvjitlink-cu12==0.4.0
 pyogrio==0.10.0
@@ -400,7 +401,7 @@ pyshp==2.3.1
 PySocks==1.7.1
 pyspark==3.5.3
 pytensor==2.25.5
-pytest==7.4.4
+pytest==8.3.3
 python-apt==0.0.0
 python-box==7.2.0
 python-dateutil==2.8.2
@@ -421,7 +422,7 @@ requests-toolbelt==1.0.0
 requirements-parser==0.9.0
 rich==13.9.4
 rmm-cu12==24.10.0
-rpds-py==0.20.1
+rpds-py==0.21.0
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.5
@@ -455,7 +456,7 @@ soxr==0.5.0.post1
 spacy==3.7.5
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
-Sphinx==5.0.2
+Sphinx==8.1.3
 sphinxcontrib-applehelp==2.0.0
 sphinxcontrib-devhelp==2.0.0
 sphinxcontrib-htmlhelp==2.1.0
@@ -469,11 +470,11 @@ srsly==2.4.8
 stanio==0.5.1
 statsmodels==0.14.4
 StrEnum==0.4.15
-stringzilla==3.10.7
+stringzilla==3.10.8
 sympy==1.13.1
-tables==3.8.0
+tables==3.10.1
 tabulate==0.9.0
-tbb==2021.13.1
+tbb==2022.0.0
 tcmlib==1.2.0
 tenacity==9.0.0
 tensorboard==2.17.0
@@ -496,7 +497,7 @@ threadpoolctl==3.5.0
 tifffile==2024.9.20
 timm==1.0.11
 tinycss2==1.4.0
-tokenizers==0.19.1
+tokenizers==0.20.3
 toml==0.10.2
 tomli==2.0.2
 toolz==0.12.1
@@ -508,12 +509,12 @@ tornado==6.3.3
 tqdm==4.66.6
 traitlets==5.7.1
 traittypes==0.2.1
-transformers==4.44.2
+transformers==4.46.2
 tweepy==4.14.0
 typeguard==4.4.1
-typer==0.12.5
+typer==0.13.0
 types-pytz==2024.2.0.20241003
-types-setuptools==75.3.0.20241105
+types-setuptools==75.3.0.20241107
 typing_extensions==4.12.2
 tzdata==2024.2
 tzlocal==5.2
@@ -523,7 +524,7 @@ uritemplate==4.1.1
 urllib3==2.2.3
 vega-datasets==0.9.0
 wadllib==1.3.6
-wandb==0.18.5
+wandb==0.18.6
 wasabi==1.1.3
 wcwidth==0.2.13
 weasel==0.4.1

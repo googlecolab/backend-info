@@ -4,7 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-accelerate==0.34.2
+accelerate==1.1.1
 altair==4.2.2
 annotated-types==0.7.0
 anyio==3.7.1
@@ -80,7 +80,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5py==3.12.1
 httplib2==0.20.2
-huggingface-hub==0.24.7
+huggingface-hub==0.26.2
 idna==3.10
 imageio==2.36.0
 immutabledict==4.2.0
@@ -139,7 +139,7 @@ nbconvert==7.16.4
 nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.4.2
-nltk==3.8.1
+nltk==3.9.1
 notebook==6.5.5
 notebook_shim==0.2.4
 numba==0.60.0
@@ -183,7 +183,7 @@ PyGObject==3.42.1
 PyJWT==2.3.0
 pyparsing==3.2.0
 PySocks==1.7.1
-pytest==7.4.4
+pytest==8.3.3
 python-apt==0.0.0
 python-dateutil==2.9.0.post0
 python-slugify==8.0.4
@@ -191,12 +191,12 @@ pytz==2024.2
 PyYAML==6.0.2
 pyzmq==24.0.1
 referencing==0.35.1
-regex==2024.9.11
+regex==2024.11.6
 requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
 rich==13.9.4
-rpds-py==0.20.1
+rpds-py==0.21.0
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.5
@@ -244,7 +244,7 @@ thinc==8.2.5
 threadpoolctl==3.5.0
 tifffile==2024.9.20
 tinycss2==1.4.0
-tokenizers==0.19.1
+tokenizers==0.20.3
 toml==0.10.2
 tomli==2.0.2
 toolz==1.0.0
@@ -256,11 +256,11 @@ tornado==6.3.3
 tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@7d2b2921fc9393a3dec7be5440e25132c217549b#subdirectory=tpu_info
 tqdm==4.66.6
 traitlets==5.7.1
-transformers==4.44.2
+transformers==4.46.2
 trax==1.4.1
-typer==0.12.5
+typer==0.13.0
 types-pytz==2024.2.0.20241003
-types-setuptools==75.3.0.20241105
+types-setuptools==75.3.0.20241107
 typing_extensions==4.12.2
 tzdata==2024.2
 tzlocal==5.2
