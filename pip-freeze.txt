@@ -35,7 +35,7 @@ bleach==6.2.0
 blinker==1.9.0
 blis==0.7.11
 blosc2==2.7.1
-bokeh==3.6.1
+bokeh==3.6.2
 Bottleneck==1.4.2
 bqplot==0.12.43
 branca==0.8.0
@@ -112,7 +112,7 @@ Flask==3.0.3
 flatbuffers==24.3.25
 flax==0.8.5
 folium==0.18.0
-fonttools==4.55.0
+fonttools==4.55.1
 frozendict==2.4.6
 frozenlist==1.5.0
 fsspec==2024.10.0
@@ -138,7 +138,7 @@ google-api-python-client==2.151.0
 google-auth==2.27.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.1
-google-cloud-aiplatform==1.71.1
+google-cloud-aiplatform==1.73.0
 google-cloud-bigquery==3.25.0
 google-cloud-bigquery-connection==1.16.1
 google-cloud-bigquery-storage==2.27.0
@@ -213,7 +213,7 @@ jax-cuda12-pjrt==0.4.33
 jax-cuda12-plugin==0.4.33
 jaxlib==0.4.33
 jeepney==0.7.1
-jellyfish==1.1.0
+jellyfish==1.1.2
 jieba==0.42.1
 Jinja2==3.1.4
 jiter==0.8.0
@@ -299,7 +299,7 @@ nvidia-cublas-cu12==12.6.4.1
 nvidia-cuda-cupti-cu12==12.6.80
 nvidia-cuda-nvcc-cu12==12.6.85
 nvidia-cuda-runtime-cu12==12.6.77
-nvidia-cudnn-cu12==9.5.1.17
+nvidia-cudnn-cu12==9.6.0.74
 nvidia-cufft-cu12==11.3.0.4
 nvidia-curand-cu12==10.3.7.77
 nvidia-cusolver-cu12==11.7.1.2
@@ -355,7 +355,7 @@ preshed==3.0.9
 prettytable==3.12.0
 proglog==0.1.10
 progressbar2==4.5.0
-prometheus_client==0.21.0
+prometheus_client==0.21.1
 promise==2.3
 prompt_toolkit==3.0.48
 propcache==0.2.1
@@ -373,7 +373,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycocotools==2.0.8
 pycparser==2.22
-pydantic==2.10.2
+pydantic==2.10.3
 pydantic_core==2.27.1
 pydata-google-auth==1.9.0
 pydot==3.0.3
@@ -402,7 +402,7 @@ pyproj==3.7.0
 pyshp==2.3.1
 PySocks==1.7.1
 pyspark==3.5.3
-pytensor==2.26.3
+pytensor==2.26.4
 pytest==8.3.4
 python-apt==0.0.0
 python-box==7.2.0
@@ -424,7 +424,7 @@ requests-toolbelt==1.0.0
 requirements-parser==0.9.0
 rich==13.9.4
 rmm-cu12==24.10.0
-rpds-py==0.22.0
+rpds-py==0.22.1
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.5
@@ -497,7 +497,7 @@ tf_keras==2.17.0
 thinc==8.2.5
 threadpoolctl==3.5.0
 tifffile==2024.9.20
-timm==1.0.11
+timm==1.0.12
 tinycss2==1.4.0
 tokenizers==0.20.3
 toml==0.10.2
@@ -514,7 +514,7 @@ traittypes==0.2.1
 transformers==4.46.3
 tweepy==4.14.0
 typeguard==4.4.1
-typer==0.14.0
+typer==0.15.0
 types-pytz==2024.2.0.20241003
 types-setuptools==75.6.0.20241126
 typing_extensions==4.12.2

@@ -54,7 +54,7 @@ fastprogress==1.0.3
 filelock==3.16.1
 flatbuffers==24.3.25
 flax==0.8.5
-fonttools==4.55.0
+fonttools==4.55.1
 fsspec==2024.10.0
 funcsigs==1.0.2
 gast==0.6.0
@@ -164,7 +164,7 @@ pluggy==1.5.0
 pooch==1.8.2
 portpicker==1.5.2
 preshed==3.0.9
-prometheus_client==0.21.0
+prometheus_client==0.21.1
 promise==2.3
 prompt_toolkit==3.0.48
 proto-plus==1.25.0
@@ -175,7 +175,7 @@ pyarrow==18.1.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycparser==2.22
-pydantic==2.10.2
+pydantic==2.10.3
 pydantic_core==2.27.1
 pygame==2.6.1
 Pygments==2.18.0
@@ -196,7 +196,7 @@ requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
 rich==13.9.4
-rpds-py==0.22.0
+rpds-py==0.22.1
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.5
@@ -258,7 +258,7 @@ tqdm==4.66.6
 traitlets==5.7.1
 transformers==4.46.3
 trax==1.4.1
-typer==0.14.0
+typer==0.15.0
 types-pytz==2024.2.0.20241003
 types-setuptools==75.6.0.20241126
 typing_extensions==4.12.2
