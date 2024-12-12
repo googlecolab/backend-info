@@ -24,7 +24,7 @@ catalogue==2.0.10
 certifi==2024.8.30
 cffi==1.17.1
 charset-normalizer==3.4.0
-chex==0.1.87
+chex==0.1.88
 click==8.1.7
 cloudpathlib==0.20.0
 cloudpickle==3.1.0
@@ -70,7 +70,7 @@ google-cloud-core==2.4.1
 google-cloud-storage==2.8.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.6.0
-google-genai==0.1.0
+google-genai==0.2.1
 google-pasta==0.2.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.66.0
@@ -107,7 +107,7 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.13
 kaggle==1.6.17
-kagglehub==0.3.4
+kagglehub==0.3.5
 keras==2.15.0
 keyring==23.5.0
 kiwisolver==1.4.7
