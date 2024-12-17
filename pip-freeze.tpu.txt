@@ -4,7 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-accelerate==1.1.1
+accelerate==1.2.1
 altair==5.5.0
 annotated-types==0.7.0
 anyio==3.7.1
@@ -12,7 +12,7 @@ argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 array_record==0.5.1
 astunparse==1.6.3
-attrs==24.2.0
+attrs==24.3.0
 audioread==3.0.1
 backcall==0.2.0
 beautifulsoup4==4.12.3
@@ -21,7 +21,7 @@ blinker==1.4
 blis==0.7.11
 cachetools==5.5.0
 catalogue==2.0.10
-certifi==2024.8.30
+certifi==2024.12.14
 cffi==1.17.1
 charset-normalizer==3.4.0
 chex==0.1.88
@@ -41,13 +41,13 @@ distrax==0.1.5
 distro==1.7.0
 dm-tree==0.1.8
 docstring_parser==0.16
-dopamine_rl==4.0.9
+dopamine_rl==4.1.0
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 etils==1.11.0
 exceptiongroup==1.2.2
 fastai==2.7.18
-fastcore==1.7.26
+fastcore==1.7.27
 fastdownload==0.0.7
 fastjsonschema==2.21.1
 fastprogress==1.0.3
@@ -67,7 +67,7 @@ google-api-core==2.24.0
 google-auth==2.27.0
 google-auth-oauthlib==1.2.1
 google-cloud-core==2.4.1
-google-cloud-storage==2.8.0
+google-cloud-storage==2.19.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.6.0
 google-genai==0.2.2
@@ -81,7 +81,7 @@ gym==0.25.2
 gym-notices==0.0.8
 h5py==3.12.1
 httplib2==0.20.2
-huggingface-hub==0.26.5
+huggingface-hub==0.27.0
 idna==3.10
 imageio==2.36.1
 immutabledict==4.2.1
@@ -134,7 +134,7 @@ more-itertools==8.10.0
 mpmath==1.3.0
 msgpack==1.1.0
 murmurhash==1.0.11
-narwhals==1.18.2
+narwhals==1.18.4
 nbclassic==1.1.0
 nbclient==0.10.1
 nbconvert==7.16.4
@@ -202,8 +202,8 @@ rpds-py==0.22.3
 rpy2==3.4.2
 rsa==4.9
 safetensors==0.4.5
-scikit-image==0.24.0
-scikit-learn==1.5.2
+scikit-image==0.25.0
+scikit-learn==1.6.0
 scipy==1.13.1
 seaborn==0.13.2
 SecretStorage==3.3.1
@@ -246,7 +246,7 @@ thinc==8.2.5
 threadpoolctl==3.5.0
 tifffile==2024.12.12
 tinycss2==1.4.0
-tokenizers==0.20.3
+tokenizers==0.21.0
 toml==0.10.2
 tomli==2.2.1
 toolz==1.0.0
@@ -256,9 +256,9 @@ torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.5.1%2Bcpu-cp310-c
 torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.20.1%2Bcpu-cp310-cp310-linux_x86_64.whl
 tornado==6.3.3
 tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@7d2b2921fc9393a3dec7be5440e25132c217549b#subdirectory=tpu_info
-tqdm==4.66.6
+tqdm==4.67.1
 traitlets==5.7.1
-transformers==4.46.3
+transformers==4.47.0
 trax==1.4.1
 typer==0.15.1
 types-pytz==2024.2.0.20241003
