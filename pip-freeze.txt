@@ -21,7 +21,6 @@ arviz==0.20.0
 astropy==6.1.7
 astropy-iers-data==0.2025.1.6.0.33.42
 astunparse==1.6.3
-async-timeout==4.0.3
 atpublic==4.1.0
 attrs==24.3.0
 audioread==3.0.1
@@ -34,7 +33,7 @@ bigquery-magics==0.5.0
 bleach==6.2.0
 blinker==1.9.0
 blis==0.7.11
-blosc2==2.7.1
+blosc2==3.0.0
 bokeh==3.6.2
 Bottleneck==1.4.2
 bqplot==0.12.44
@@ -62,7 +61,7 @@ cons==0.4.6
 contourpy==1.3.1
 cryptography==43.0.3
 cuda-python==12.2.1
-cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.10.1-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
+cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.10.1-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 cufflinks==0.17.3
 cupy-cuda12x==12.2.0
 cvxopt==1.3.2
@@ -98,7 +97,6 @@ et_xmlfile==2.0.0
 etils==1.11.0
 etuples==0.3.9
 eval_type_backport==0.2.2
-exceptiongroup==1.2.2
 fastai==2.7.18
 fastcore==1.7.28
 fastdownload==0.0.7
@@ -141,7 +139,7 @@ google-cloud-aiplatform==1.74.0
 google-cloud-bigquery==3.25.0
 google-cloud-bigquery-connection==1.17.0
 google-cloud-bigquery-storage==2.27.0
-google-cloud-bigtable==2.27.0
+google-cloud-bigtable==2.28.0
 google-cloud-core==2.4.1
 google-cloud-datastore==2.20.2
 google-cloud-firestore==2.19.0
@@ -296,22 +294,24 @@ notebook_shim==0.2.4
 numba==0.60.0
 numexpr==2.10.2
 numpy==1.26.4
-nvidia-cublas-cu12==12.6.4.1
-nvidia-cuda-cupti-cu12==12.6.80
+nvidia-cublas-cu12==12.1.3.1
+nvidia-cuda-cupti-cu12==12.1.105
 nvidia-cuda-nvcc-cu12==12.6.85
-nvidia-cuda-runtime-cu12==12.6.77
-nvidia-cudnn-cu12==9.6.0.74
-nvidia-cufft-cu12==11.3.0.4
-nvidia-curand-cu12==10.3.7.77
-nvidia-cusolver-cu12==11.7.1.2
-nvidia-cusparse-cu12==12.5.4.2
-nvidia-nccl-cu12==2.24.3
+nvidia-cuda-nvrtc-cu12==12.1.105
+nvidia-cuda-runtime-cu12==12.1.105
+nvidia-cudnn-cu12==9.1.0.70
+nvidia-cufft-cu12==11.0.2.54
+nvidia-curand-cu12==10.3.2.106
+nvidia-cusolver-cu12==11.4.5.107
+nvidia-cusparse-cu12==12.1.0.106
+nvidia-nccl-cu12==2.21.5
 nvidia-nvjitlink-cu12==12.6.85
+nvidia-nvtx-cu12==12.1.105
 nvtx==0.2.10
 nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-24.10.0-py3-none-any.whl
 oauth2client==4.1.3
 oauthlib==3.2.2
-openai==1.59.4
+openai==1.59.6
 opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
@@ -323,7 +323,7 @@ opt_einsum==3.4.0
 optax==0.2.4
 optree==0.13.1
 orbax-checkpoint==0.6.4
-orjson==3.10.13
+orjson==3.10.14
 osqp==0.6.7.post3
 packaging==24.2
 pandas==2.2.2
@@ -373,7 +373,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycocotools==2.0.8
 pycparser==2.22
-pydantic==2.10.4
+pydantic==2.10.5
 pydantic_core==2.27.2
 pydata-google-auth==1.9.0
 pydot==3.0.4
@@ -386,7 +386,7 @@ pygit2==1.16.0
 Pygments==2.18.0
 PyGObject==3.42.1
 PyJWT==2.10.1
-pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-24.10.1-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
+pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-24.10.1-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 pylibcugraph-cu12==24.10.0
 pylibraft-cu12==24.10.0
 pymc==5.19.1
@@ -427,7 +427,7 @@ rmm-cu12==24.10.0
 rpds-py==0.22.3
 rpy2==3.4.2
 rsa==4.9
-safetensors==0.5.1
+safetensors==0.5.2
 scikit-image==0.25.0
 scikit-learn==1.6.0
 scipy==1.13.1
@@ -466,7 +466,7 @@ sphinxcontrib-htmlhelp==2.1.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
-SQLAlchemy==2.0.36
+SQLAlchemy==2.0.37
 sqlglot==25.1.0
 sqlparse==0.5.3
 srsly==2.5.0
@@ -474,7 +474,7 @@ stanio==0.5.1
 statsmodels==0.14.4
 stringzilla==3.11.3
 sympy==1.13.1
-tables==3.10.1
+tables==3.10.2
 tabulate==0.9.0
 tbb==2022.0.0
 tcmlib==1.2.0
@@ -485,7 +485,7 @@ tensorflow==2.17.1
 tensorflow-datasets==4.9.7
 tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
-tensorflow-metadata==1.13.1
+tensorflow-metadata==1.16.1
 tensorflow-probability==0.24.0
 tensorstore==0.1.71
 termcolor==2.5.0
@@ -497,21 +497,21 @@ tf_keras==2.17.0
 thinc==8.2.5
 threadpoolctl==3.5.0
 tifffile==2024.12.12
-timm==1.0.12
+timm==1.0.13
 tinycss2==1.4.0
 tokenizers==0.21.0
 toml==0.10.2
-tomli==2.2.1
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cu121_full/torch-2.5.1%2Bcu121-cp310-cp310-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.5.1%2Bcu121-cp310-cp310-linux_x86_64.whl
+torch @ https://download.pytorch.org/whl/cu121/torch-2.5.1%2Bcu121-cp311-cp311-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.5.1%2Bcu121-cp311-cp311-linux_x86_64.whl
 torchsummary==1.5.1
-torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.20.1%2Bcu121-cp310-cp310-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.20.1%2Bcu121-cp311-cp311-linux_x86_64.whl
 tornado==6.3.3
 tqdm==4.67.1
 traitlets==5.7.1
 traittypes==0.2.1
 transformers==4.47.1
+triton==3.1.0
 tweepy==4.14.0
 typeguard==4.4.1
 typer==0.15.1
@@ -526,7 +526,7 @@ uritemplate==4.1.1
 urllib3==2.3.0
 vega-datasets==0.9.0
 wadllib==1.3.6
-wandb==0.19.1
+wandb==0.19.2
 wasabi==1.1.3
 wcwidth==0.2.13
 weasel==0.4.1
@@ -539,7 +539,7 @@ wheel==0.45.1
 widgetsnbextension==3.6.10
 wordcloud==1.9.4
 wrapt==1.17.0
-xarray==2025.1.0
+xarray==2025.1.1
 xarray-einstats==0.8.0
 xgboost==2.1.3
 xlrd==2.0.1

@@ -45,7 +45,6 @@ dopamine_rl==4.1.0
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 etils==1.11.0
-exceptiongroup==1.2.2
 fastai==2.7.18
 fastcore==1.7.28
 fastdownload==0.0.7
@@ -82,6 +81,7 @@ gym-notices==0.0.8
 h5py==3.12.1
 httplib2==0.20.2
 huggingface-hub==0.27.1
+humanize==4.11.0
 idna==3.10
 imageio==2.36.1
 immutabledict==4.2.1
@@ -108,7 +108,7 @@ jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.13
 kaggle==1.6.17
 kagglehub==0.3.6
-keras==2.15.0
+keras==3.5.0
 keyring==23.5.0
 kiwisolver==1.4.8
 langcodes==3.5.0
@@ -119,6 +119,7 @@ lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
 librosa==0.10.2.post1
+libtpu==2.17.0
 libtpu-nightly==0.1.dev20240916+nightly
 llvmlite==0.43.0
 marisa-trie==1.2.1
@@ -129,11 +130,12 @@ matplotlib==3.10.0
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.1.0
-ml-dtypes==0.2.0
+ml-dtypes==0.4.1
 more-itertools==8.10.0
 mpmath==1.3.0
 msgpack==1.1.0
 murmurhash==1.0.11
+namex==0.0.8
 narwhals==1.21.1
 nbclassic==1.1.0
 nbclient==0.10.2
@@ -150,7 +152,8 @@ oauthlib==3.2.2
 opencv-python==4.10.0.84
 opt_einsum==3.4.0
 optax==0.1.9
-orbax-checkpoint==0.4.4
+optree==0.13.1
+orbax-checkpoint==0.6.4
 packaging==24.2
 pandas==2.2.2
 pandas-stubs==2.2.2.240909
@@ -177,7 +180,7 @@ pyarrow==18.1.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycparser==2.22
-pydantic==2.10.4
+pydantic==2.10.5
 pydantic_core==2.27.2
 pygame==2.6.1
 Pygments==2.19.1
@@ -201,7 +204,7 @@ rich==13.9.4
 rpds-py==0.22.3
 rpy2==3.4.2
 rsa==4.9
-safetensors==0.5.1
+safetensors==0.5.2
 scikit-image==0.25.0
 scikit-learn==1.6.0
 scipy==1.13.1
@@ -225,34 +228,33 @@ spacy-loggers==1.0.5
 srsly==2.5.0
 sympy==1.13.1
 tenacity==9.0.0
-tensorboard==2.15.2
+tensorboard==2.17.1
 tensorboard-data-server==0.7.2
-tensorflow @ https://storage.googleapis.com/cloud-tpu-tpuvm-artifacts/tensorflow/tf-2.15.0/tensorflow-2.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+tensorflow==2.17.1
 tensorflow-datasets==4.9.7
-tensorflow-estimator==2.15.0
 tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
-tensorflow-metadata==1.13.1
+tensorflow-metadata==1.16.1
 tensorflow-probability==0.24.0
-tensorflow-text==2.15.0
-tensorstore==0.1.45
+tensorflow-text==2.17.0
+tensorflow-tpu==2.17.0
+tensorstore==0.1.71
 termcolor==2.5.0
 terminado==0.18.1
 text-unidecode==1.3
 tf-slim==1.1.0
-tf_keras==2.15.1
+tf_keras==2.17.0
 thinc==8.2.5
 threadpoolctl==3.5.0
 tifffile==2024.12.12
 tinycss2==1.4.0
 tokenizers==0.21.0
 toml==0.10.2
-tomli==2.2.1
 toolz==1.0.0
-torch @ https://download.pytorch.org/whl/cpu/torch-2.5.1%2Bcpu-cp310-cp310-linux_x86_64.whl
-torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.5.1+libtpu-cp310-cp310-manylinux_2_28_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.5.1%2Bcpu-cp310-cp310-linux_x86_64.whl
-torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.20.1%2Bcpu-cp310-cp310-linux_x86_64.whl
+torch @ https://download.pytorch.org/whl/cpu/torch-2.5.1%2Bcpu-cp311-cp311-linux_x86_64.whl
+torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.5.1-cp311-cp311-manylinux_2_28_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.5.1%2Bcpu-cp311-cp311-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.20.1%2Bcpu-cp311-cp311-linux_x86_64.whl
 tornado==6.3.3
 tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@7d2b2921fc9393a3dec7be5440e25132c217549b#subdirectory=tpu_info
 tqdm==4.67.1
@@ -277,5 +279,5 @@ websockets==14.1
 Werkzeug==3.1.3
 wheel==0.45.1
 widgetsnbextension==3.6.10
-wrapt==1.14.1
+wrapt==1.17.0
 zipp==3.21.0
