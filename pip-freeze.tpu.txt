@@ -73,7 +73,7 @@ google-genai==0.3.0
 google-pasta==0.2.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.66.0
-grpcio==1.69.0
+grpcio==1.70.0
 gspread==6.1.4
 gspread-dataframe==4.0.0
 gym==0.25.2
