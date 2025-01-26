@@ -53,7 +53,7 @@ fastprogress==1.0.3
 filelock==3.17.0
 flatbuffers==25.1.21
 flax==0.10.2
-fonttools==4.55.5
+fonttools==4.55.6
 fsspec==2024.12.0
 funcsigs==1.0.2
 gast==0.6.0
@@ -173,14 +173,14 @@ prometheus_client==0.21.1
 promise==2.3
 prompt_toolkit==3.0.50
 proto-plus==1.25.0
-protobuf==4.25.5
+protobuf==4.25.6
 psutil==5.9.5
 ptyprocess==0.7.0
 pyarrow==19.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycparser==2.22
-pydantic==2.10.5
+pydantic==2.10.6
 pydantic_core==2.27.2
 pygame==2.6.1
 Pygments==2.19.1
