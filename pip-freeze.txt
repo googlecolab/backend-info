@@ -239,6 +239,8 @@ jupyterlab_widgets==3.0.13
 kaggle==1.6.17
 kagglehub==0.3.6
 keras==3.8.0
+keras-hub==0.18.1
+keras-nlp==0.18.1
 keyring==23.5.0
 kiwisolver==1.4.8
 langchain==0.3.16
@@ -500,6 +502,7 @@ tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
 tensorflow-metadata==1.16.1
 tensorflow-probability==0.24.0
+tensorflow-text==2.18.1
 tensorstore==0.1.71
 termcolor==2.5.0
 terminado==0.18.1
@@ -539,7 +542,7 @@ uritemplate==4.1.1
 urllib3==2.3.0
 vega-datasets==0.9.0
 wadllib==1.3.6
-wandb==0.19.4
+wandb==0.19.5
 wasabi==1.1.3
 wcwidth==0.2.13
 weasel==0.4.1
