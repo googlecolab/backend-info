@@ -16,7 +16,7 @@ astunparse==1.6.3
 attrs==25.1.0
 audioread==3.0.1
 backcall==0.2.0
-beautifulsoup4==4.13.1
+beautifulsoup4==4.13.3
 bleach==6.2.0
 blinker==1.4
 blis==0.7.11
@@ -140,7 +140,7 @@ mpmath==1.3.0
 msgpack==1.1.0
 murmurhash==1.0.12
 namex==0.0.8
-narwhals==1.25.0
+narwhals==1.25.1
 nbclassic==1.2.0
 nbclient==0.10.2
 nbconvert==7.16.6
@@ -267,7 +267,7 @@ traitlets==5.7.1
 transformers==4.48.2
 trax==1.4.1
 typer==0.15.1
-types-pytz==2024.2.0.20241221
+types-pytz==2025.1.0.20250204
 types-setuptools==75.8.0.20250110
 typing_extensions==4.12.2
 tzdata==2025.1
