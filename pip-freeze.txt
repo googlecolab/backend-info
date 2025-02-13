@@ -147,11 +147,11 @@ google-cloud-bigquery-connection==1.17.0
 google-cloud-bigquery-storage==2.28.0
 google-cloud-bigtable==2.28.1
 google-cloud-core==2.4.1
-google-cloud-dataproc==5.16.0
+google-cloud-dataproc==5.17.0
 google-cloud-datastore==2.20.2
 google-cloud-firestore==2.20.0
 google-cloud-functions==1.19.0
-google-cloud-iam==2.17.0
+google-cloud-iam==2.18.0
 google-cloud-language==2.16.0
 google-cloud-pubsub==2.25.0
 google-cloud-resource-manager==1.14.0
@@ -165,7 +165,7 @@ google-generativeai==0.8.4
 google-pasta==0.2.0
 google-resumable-media==2.7.2
 google-spark-connect==0.5.2
-googleapis-common-protos==1.66.0
+googleapis-common-protos==1.67.0
 googledrivedownloader==1.1.0
 graphviz==0.20.3
 greenlet==3.1.1
@@ -215,7 +215,7 @@ intel-cmplr-lib-ur==2025.0.4
 intel-openmp==2025.0.4
 ipyevents==2.0.2
 ipyfilechooser==0.6.0
-ipykernel==5.5.6
+ipykernel==6.17.1
 ipyleaflet==0.19.2
 ipyparallel==8.8.0
 ipython==7.34.0
