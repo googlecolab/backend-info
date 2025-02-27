@@ -56,7 +56,7 @@ fastjsonschema==2.21.1
 fastprogress==1.0.3
 filelock==3.17.0
 flatbuffers==25.2.10
-flax==0.10.3
+flax==0.10.4
 fonttools==4.56.0
 fsspec==2025.2.0
 funcsigs==1.0.2
@@ -67,7 +67,7 @@ gensim==4.3.3
 gin-config==0.5.0
 google==2.0.3
 google-api-core==2.24.1
-google-auth==2.27.0
+google-auth==2.38.0
 google-auth-oauthlib==1.2.1
 google-cloud-core==2.4.2
 google-cloud-storage==2.19.0
@@ -213,7 +213,7 @@ requests-oauthlib==2.0.0
 requirements-parser==0.9.0
 rich==13.9.4
 rpds-py==0.23.1
-rpy2==3.5.17
+rpy2==3.4.2
 rsa==4.9
 safetensors==0.5.3
 scikit-image==0.25.2
