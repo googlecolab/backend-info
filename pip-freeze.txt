@@ -47,7 +47,7 @@ certifi==2025.1.31
 cffi==1.17.1
 chardet==5.2.0
 charset-normalizer==3.4.1
-chex==0.1.88
+chex==0.1.89
 clarabel==0.10.0
 click==8.1.8
 cloudpathlib==0.20.0
@@ -71,7 +71,7 @@ cuml-cu12==24.12.0
 cupy-cuda12x==13.3.0
 cuvs-cu12==24.12.0
 cvxopt==1.3.2
-cvxpy==1.6.1
+cvxpy==1.6.2
 cycler==0.12.1
 cyipopt==1.5.0
 cymem==2.0.11
@@ -98,7 +98,7 @@ docstring_parser==0.16
 docutils==0.21.2
 dopamine_rl==4.1.2
 duckdb==1.1.3
-earthengine-api==1.5.3
+earthengine-api==1.5.4
 easydict==1.13
 editdistance==0.8.1
 eerepr==0.1.1
@@ -130,7 +130,7 @@ gast==0.6.0
 gcsfs==2024.10.0
 GDAL==3.6.4
 gdown==5.2.0
-geemap==0.35.1
+geemap==0.35.2
 gensim==4.3.3
 geocoder==1.38.1
 geographiclib==2.0
@@ -155,7 +155,7 @@ google-cloud-bigtable==2.28.1
 google-cloud-core==2.4.2
 google-cloud-dataproc==5.18.0
 google-cloud-datastore==2.20.2
-google-cloud-firestore==2.20.0
+google-cloud-firestore==2.20.1
 google-cloud-functions==1.19.0
 google-cloud-iam==2.18.1
 google-cloud-language==2.16.0
@@ -184,7 +184,7 @@ gspread==6.1.4
 gspread-dataframe==4.0.0
 gym==0.25.2
 gym-notices==0.0.8
-gymnasium==1.0.0
+gymnasium==1.1.0
 h11==0.14.0
 h2==4.2.0
 h5netcdf==1.5.0
@@ -252,17 +252,17 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.13
 kaggle==1.6.17
-kagglehub==0.3.9
+kagglehub==0.3.10
 keras==3.8.0
 keras-hub==0.18.1
 keras-nlp==0.18.1
 keyring==23.5.0
 kiwisolver==1.4.8
 langchain==0.3.19
-langchain-core==0.3.39
+langchain-core==0.3.40
 langchain-text-splitters==0.3.6
 langcodes==3.5.0
-langsmith==0.3.10
+langsmith==0.3.11
 language_data==1.3.0
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -286,7 +286,7 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
-matplotlib-venn==1.1.1
+matplotlib-venn==1.1.2
 mdit-py-plugins==0.4.2
 mdurl==0.1.2
 miniKanren==1.0.3
@@ -460,9 +460,9 @@ requirements-parser==0.9.0
 rich==13.9.4
 rmm-cu12==24.12.1
 rpds-py==0.23.1
-rpy2==3.4.2
+rpy2==3.5.17
 rsa==4.9
-safetensors==0.5.2
+safetensors==0.5.3
 scikit-image==0.25.2
 scikit-learn==1.6.1
 scipy==1.13.1
@@ -510,7 +510,7 @@ sqlparse==0.5.3
 srsly==2.5.1
 stanio==0.5.1
 statsmodels==0.14.4
-stringzilla==3.12.0
+stringzilla==3.12.1
 sympy==1.13.1
 tables==3.10.2
 tabulate==0.9.0
@@ -558,7 +558,7 @@ tweepy==4.15.0
 typeguard==4.4.2
 typer==0.15.1
 types-pytz==2025.1.0.20250204
-types-setuptools==75.8.0.20250210
+types-setuptools==75.8.0.20250225
 typing_extensions==4.12.2
 tzdata==2025.1
 tzlocal==5.3
