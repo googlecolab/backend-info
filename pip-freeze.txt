@@ -35,7 +35,7 @@ bigquery-magics==0.6.0
 bleach==6.2.0
 blinker==1.9.0
 blis==0.7.11
-blosc2==3.1.1
+blosc2==3.2.0
 bokeh==3.6.3
 Bottleneck==1.4.2
 bqplot==0.12.44
@@ -166,7 +166,7 @@ google-cloud-storage==2.19.0
 google-cloud-translate==3.19.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.6.0
-google-genai==0.8.0
+google-genai==1.2.0
 google-generativeai==0.8.4
 google-pasta==0.2.0
 google-resumable-media==2.7.2
@@ -383,7 +383,7 @@ polars==1.14.0
 pooch==1.8.2
 portpicker==1.5.2
 preshed==3.0.9
-prettytable==3.14.0
+prettytable==3.15.0
 proglog==0.1.10
 progressbar2==4.5.0
 prometheus_client==0.21.1
@@ -433,7 +433,7 @@ pyperclip==1.9.0
 pyproj==3.7.1
 pyshp==2.3.1
 PySocks==1.7.1
-pyspark==3.5.4
+pyspark==3.5.5
 pytensor==2.27.1
 pytest==8.3.4
 python-apt==0.0.0
@@ -460,7 +460,7 @@ requirements-parser==0.9.0
 rich==13.9.4
 rmm-cu12==24.12.1
 rpds-py==0.23.1
-rpy2==3.4.2
+rpy2==3.5.17
 rsa==4.9
 safetensors==0.5.3
 scikit-image==0.25.2
