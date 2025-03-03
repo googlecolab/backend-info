@@ -5,3 +5,5 @@
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 Ubuntu 22.04.5 LTS
 Python 3.11.11
+R version 4.4.3 (2025-02-28) -- "Trophy Case"
+julia version 1.10.8
