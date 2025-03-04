@@ -76,7 +76,7 @@ google-crc32c==1.6.0
 google-genai==1.2.0
 google-pasta==0.2.0
 google-resumable-media==2.7.2
-googleapis-common-protos==1.68.0
+googleapis-common-protos==1.69.0
 grpcio==1.70.0
 grpclib==0.4.7
 gspread==6.1.4
@@ -146,7 +146,7 @@ msgpack==1.1.0
 multidict==6.1.0
 murmurhash==1.0.12
 namex==0.0.8
-narwhals==1.28.0
+narwhals==1.29.0
 nbclassic==1.2.0
 nbclient==0.10.2
 nbconvert==7.16.6
@@ -162,7 +162,7 @@ oauthlib==3.2.2
 opencv-python==4.11.0.86
 opt_einsum==3.4.0
 optax==0.1.9
-optree==0.14.0
+optree==0.14.1
 orbax-checkpoint==0.6.4
 packaging==24.2
 pandas==2.2.2
@@ -198,7 +198,7 @@ PyGObject==3.42.1
 PyJWT==2.3.0
 pyparsing==3.2.1
 PySocks==1.7.1
-pytest==8.3.4
+pytest==8.3.5
 python-apt==0.0.0
 python-dateutil==2.9.0.post0
 python-slugify==8.0.4
@@ -267,13 +267,13 @@ torch-xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/tor
 torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.5.1%2Bcpu-cp311-cp311-linux_x86_64.whl
 torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.20.1%2Bcpu-cp311-cp311-linux_x86_64.whl
 tornado==6.4.2
-tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@7d2b2921fc9393a3dec7be5440e25132c217549b#subdirectory=tpu_info
+tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@cd5aa0bb745e2a0de9469e2ce8e5ba9c6c4ac0e2#subdirectory=tpu_info
 tqdm==4.67.1
 traitlets==5.7.1
 transformers==4.48.3
 trax==1.4.1
 treescope==0.1.9
-typer==0.15.1
+typer==0.15.2
 types-pytz==2025.1.0.20250204
 types-setuptools==75.8.2.20250301
 typing_extensions==4.12.2
