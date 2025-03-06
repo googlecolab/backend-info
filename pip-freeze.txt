@@ -5,7 +5,7 @@
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
 accelerate==1.3.0
-aiohappyeyeballs==2.4.6
+aiohappyeyeballs==2.5.0
 aiohttp==3.11.13
 aiosignal==1.3.2
 alabaster==1.0.0
@@ -50,7 +50,7 @@ charset-normalizer==3.4.1
 chex==0.1.89
 clarabel==0.10.0
 click==8.1.8
-cloudpathlib==0.20.0
+cloudpathlib==0.21.0
 cloudpickle==3.1.1
 cmake==3.31.6
 cmdstanpy==1.2.5
@@ -81,7 +81,7 @@ dask-cuda==25.2.0
 dask-cudf-cu12==25.2.2
 dask-expr==1.1.21
 datascience==0.17.6
-db-dtypes==1.4.1
+db-dtypes==1.4.2
 dbus-python==1.2.18
 debugpy==1.8.0
 decorator==4.4.2
@@ -98,7 +98,7 @@ docstring_parser==0.16
 docutils==0.21.2
 dopamine_rl==4.1.2
 duckdb==1.1.3
-earthengine-api==1.5.4
+earthengine-api==1.5.5
 easydict==1.13
 editdistance==0.8.1
 eerepr==0.1.1
@@ -130,7 +130,7 @@ gast==0.6.0
 gcsfs==2024.10.0
 GDAL==3.6.4
 gdown==5.2.0
-geemap==0.35.2
+geemap==0.35.3
 gensim==4.3.3
 geocoder==1.38.1
 geographiclib==2.0
@@ -166,7 +166,7 @@ google-cloud-storage==2.19.0
 google-cloud-translate==3.19.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.6.0
-google-genai==1.2.0
+google-genai==1.4.0
 google-generativeai==0.8.4
 google-pasta==0.2.0
 google-resumable-media==2.7.2
@@ -196,7 +196,7 @@ holoviews==1.20.1
 hpack==4.1.0
 html5lib==1.1
 httpcore==1.0.7
-httpimport==1.4.0
+httpimport==1.4.1
 httplib2==0.22.0
 httpx==0.28.1
 huggingface-hub==0.28.1
@@ -216,8 +216,8 @@ importlib_resources==6.5.2
 imutils==0.5.4
 inflect==7.5.0
 iniconfig==2.0.0
-intel-cmplr-lib-ur==2025.0.4
-intel-openmp==2025.0.4
+intel-cmplr-lib-ur==2025.0.5
+intel-openmp==2025.0.5
 ipyevents==2.0.2
 ipyfilechooser==0.6.0
 ipykernel==6.17.1
@@ -236,7 +236,7 @@ jaxlib==0.4.33
 jeepney==0.7.1
 jellyfish==1.1.0
 jieba==0.42.1
-Jinja2==3.1.5
+Jinja2==3.1.6
 jiter==0.8.2
 joblib==1.4.2
 jsonpatch==1.33
@@ -258,8 +258,8 @@ keras-hub==0.18.1
 keras-nlp==0.18.1
 keyring==23.5.0
 kiwisolver==1.4.8
-langchain==0.3.19
-langchain-core==0.3.40
+langchain==0.3.20
+langchain-core==0.3.41
 langchain-text-splitters==0.3.6
 langcodes==3.5.0
 langsmith==0.3.11
@@ -310,7 +310,7 @@ multitasking==0.0.11
 murmurhash==1.0.12
 music21==9.3.0
 namex==0.0.8
-narwhals==1.29.0
+narwhals==1.29.1
 natsort==8.4.0
 nbclassic==1.2.0
 nbclient==0.10.2
@@ -566,7 +566,7 @@ types-pytz==2025.1.0.20250204
 types-setuptools==75.8.2.20250305
 typing_extensions==4.12.2
 tzdata==2025.1
-tzlocal==5.3
+tzlocal==5.3.1
 uc-micro-py==1.0.3
 ucx-py-cu12==0.42.0
 ucxx-cu12==0.42.0
@@ -576,7 +576,7 @@ uritemplate==4.1.1
 urllib3==2.3.0
 vega-datasets==0.9.0
 wadllib==1.3.6
-wandb==0.19.7
+wandb==0.19.8
 wasabi==1.1.3
 wcwidth==0.2.13
 weasel==0.4.1
