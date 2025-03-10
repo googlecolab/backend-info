@@ -44,7 +44,7 @@ docstring_parser==0.16
 einops==0.8.1
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
-etils==1.12.1
+etils==1.12.2
 fastjsonschema==2.21.1
 filelock==3.17.0
 flax==0.10.4
@@ -54,7 +54,7 @@ gast==0.6.0
 GDAL==3.6.4
 gdown==5.2.0
 google==2.0.3
-google-api-core==2.24.1
+google-api-core==2.24.2
 google-auth==2.38.0
 google-auth-oauthlib==1.2.1
 google-cloud-core==2.4.2
@@ -131,7 +131,7 @@ msgpack==1.1.0
 multidict==6.1.0
 murmurhash==1.0.12
 namex==0.0.8
-narwhals==1.29.1
+narwhals==1.30.0
 nbclassic==1.2.0
 nbclient==0.10.2
 nbconvert==7.16.6
@@ -166,7 +166,7 @@ preshed==3.0.9
 prometheus_client==0.21.1
 promise==2.3
 prompt_toolkit==3.0.50
-proto-plus==1.26.0
+proto-plus==1.26.1
 protobuf==5.29.3
 psutil==5.9.5
 ptyprocess==0.7.0

@@ -20,7 +20,7 @@ argon2-cffi-bindings==21.2.0
 array_record==0.6.0
 arviz==0.20.0
 astropy==7.0.1
-astropy-iers-data==0.2025.3.3.0.34.45
+astropy-iers-data==0.2025.3.10.0.29.26
 astunparse==1.6.3
 atpublic==4.1.0
 attrs==25.1.0
@@ -71,7 +71,7 @@ cuml-cu12==25.2.1
 cupy-cuda12x==13.3.0
 cuvs-cu12==25.2.1
 cvxopt==1.3.2
-cvxpy==1.6.2
+cvxpy==1.6.3
 cycler==0.12.1
 cyipopt==1.5.0
 cymem==2.0.11
@@ -106,7 +106,7 @@ einops==0.8.1
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 et_xmlfile==2.0.0
-etils==1.12.1
+etils==1.12.2
 etuples==0.3.9
 Farama-Notifications==0.0.4
 fastai==2.7.18
@@ -141,7 +141,7 @@ GitPython==3.1.44
 glob2==0.7
 google==2.0.3
 google-ai-generativelanguage==0.6.15
-google-api-core==2.24.1
+google-api-core==2.24.2
 google-api-python-client==2.160.0
 google-auth==2.38.0
 google-auth-httplib2==0.2.0
@@ -309,7 +309,7 @@ multitasking==0.0.11
 murmurhash==1.0.12
 music21==9.3.0
 namex==0.0.8
-narwhals==1.29.1
+narwhals==1.30.0
 natsort==8.4.0
 nbclassic==1.2.0
 nbclient==0.10.2
@@ -395,7 +395,7 @@ promise==2.3
 prompt_toolkit==3.0.50
 propcache==0.3.0
 prophet==1.1.6
-proto-plus==1.26.0
+proto-plus==1.26.1
 protobuf==4.25.6
 psutil==5.9.5
 psycopg2==2.9.10
@@ -501,7 +501,7 @@ soxr==0.5.0.post1
 spacy==3.7.5
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
-spanner-graph-notebook==1.1.2
+spanner-graph-notebook==1.1.3
 Sphinx==8.1.3
 sphinxcontrib-applehelp==2.0.0
 sphinxcontrib-devhelp==2.0.0
@@ -515,7 +515,7 @@ sqlparse==0.5.3
 srsly==2.5.1
 stanio==0.5.1
 statsmodels==0.14.4
-stringzilla==3.12.2
+stringzilla==3.12.3
 sympy==1.13.1
 tables==3.10.2
 tabulate==0.9.0
