@@ -10,8 +10,8 @@ annotated-types==0.7.0
 anyio==3.7.1
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
-array_record==0.6.0
-attrs==25.1.0
+array_record==0.7.1
+attrs==25.2.0
 audioread==3.0.1
 backcall==0.2.0
 beautifulsoup4==4.13.3
@@ -45,7 +45,11 @@ einops==0.8.1
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 entrypoints==0.4
 etils==1.12.2
+fastai==2.7.19
+fastcore==1.7.29
+fastdownload==0.0.7
 fastjsonschema==2.21.1
+fastprogress==1.0.3
 filelock==3.17.0
 flax==0.10.4
 fonttools==4.56.0
@@ -222,7 +226,7 @@ spacy-loggers==1.0.5
 srsly==2.5.1
 sympy==1.13.1
 tenacity==9.0.0
-tensorflow-datasets==4.9.7
+tensorflow-datasets==4.9.8
 tensorflow-metadata==1.16.1
 tensorflow-probability==0.25.0
 tensorstore==0.1.72
