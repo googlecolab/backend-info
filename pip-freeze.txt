@@ -31,7 +31,7 @@ backcall==0.2.0
 beautifulsoup4==4.13.3
 betterproto==2.0.0b6
 bigframes==1.38.0
-bigquery-magics==0.6.0
+bigquery-magics==0.8.0
 bleach==6.2.0
 blinker==1.9.0
 blis==1.2.0
@@ -149,7 +149,7 @@ google-auth-oauthlib==1.2.1
 google-cloud-aiplatform==1.79.0
 google-cloud-bigquery==3.29.0
 google-cloud-bigquery-connection==1.18.1
-google-cloud-bigquery-storage==2.29.0
+google-cloud-bigquery-storage==2.29.1
 google-cloud-bigtable==2.29.0
 google-cloud-core==2.4.3
 google-cloud-dataproc==5.18.0
