@@ -30,7 +30,7 @@ babel==2.17.0
 backcall==0.2.0
 beautifulsoup4==4.13.3
 betterproto==2.0.0b6
-bigframes==1.38.0
+bigframes==1.40.0
 bigquery-magics==0.8.0
 bleach==6.2.0
 blinker==1.9.0
@@ -257,7 +257,7 @@ keras-nlp==0.18.1
 keyring==23.5.0
 kiwisolver==1.4.8
 langchain==0.3.20
-langchain-core==0.3.44
+langchain-core==0.3.45
 langchain-text-splitters==0.3.6
 langcodes==3.5.0
 langsmith==0.3.13
@@ -541,7 +541,7 @@ tf-slim==1.1.0
 tf_keras==2.18.0
 thinc==8.3.4
 threadpoolctl==3.6.0
-tifffile==2025.2.18
+tifffile==2025.3.13
 timm==1.0.15
 tinycss2==1.4.0
 tokenizers==0.21.1
