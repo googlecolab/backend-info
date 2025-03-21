@@ -153,7 +153,7 @@ oauthlib==3.2.2
 opt_einsum==3.4.0
 optax==0.2.4
 optree==0.14.1
-orbax-checkpoint==0.11.9
+orbax-checkpoint==0.11.10
 packaging==24.2
 pandas==2.2.2
 pandas-stubs==2.2.2.240909
@@ -250,7 +250,7 @@ tornado==6.4.2
 tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@cd5aa0bb745e2a0de9469e2ce8e5ba9c6c4ac0e2#subdirectory=tpu_info
 tqdm==4.67.1
 traitlets==5.7.1
-transformers==4.49.0
+transformers==4.50.0
 treescope==0.1.9
 typer==0.15.2
 types-pytz==2025.1.0.20250318
