@@ -147,7 +147,7 @@ google-auth==2.38.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.1
 google-cloud-aiplatform==1.85.0
-google-cloud-bigquery==3.29.0
+google-cloud-bigquery==3.31.0
 google-cloud-bigquery-connection==1.18.2
 google-cloud-bigquery-storage==2.29.1
 google-cloud-bigtable==2.30.0
@@ -359,7 +359,7 @@ optax==0.2.4
 optree==0.14.1
 orbax-checkpoint==0.11.10
 orjson==3.10.16
-osqp==1.0.0
+osqp==1.0.1
 packaging==24.2
 pandas==2.2.2
 pandas-datareader==0.10.0
@@ -434,7 +434,7 @@ pyogrio==0.10.0
 Pyomo==6.8.2
 PyOpenGL==3.1.9
 pyOpenSSL==24.2.1
-pyparsing==3.2.2
+pyparsing==3.2.3
 pyperclip==1.9.0
 pyproj==3.7.1
 pyshp==2.3.1
@@ -449,7 +449,7 @@ python-louvain==0.16
 python-slugify==8.0.4
 python-snappy==0.7.3
 python-utils==3.9.1
-pytz==2025.1
+pytz==2025.2
 pyviz_comms==3.0.4
 PyYAML==6.0.2
 pyzmq==24.0.1
@@ -557,7 +557,7 @@ tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.7.1
 traittypes==0.2.1
-transformers==4.50.0
+transformers==4.50.1
 treelite==4.4.1
 treescope==0.1.9
 triton==3.2.0
