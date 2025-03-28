@@ -64,8 +64,8 @@ google-auth-oauthlib==1.2.1
 google-cloud-core==2.4.3
 google-cloud-storage==2.19.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
-google-crc32c==1.7.0
-google-genai==1.7.0
+google-crc32c==1.7.1
+google-genai==1.8.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.69.2
 grpcio==1.71.0
@@ -200,7 +200,7 @@ requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
 rich==13.9.4
-rpds-py==0.23.1
+rpds-py==0.24.0
 rpy2==3.5.17
 rsa==4.9
 safetensors==0.5.3
@@ -250,12 +250,12 @@ tornado==6.4.2
 tpu-info @ git+https://github.com/google/cloud-accelerator-diagnostics/@cd5aa0bb745e2a0de9469e2ce8e5ba9c6c4ac0e2#subdirectory=tpu_info
 tqdm==4.67.1
 traitlets==5.7.1
-transformers==4.50.1
+transformers==4.50.2
 treescope==0.1.9
 typer==0.15.2
-types-pytz==2025.1.0.20250318
+types-pytz==2025.2.0.20250326
 types-setuptools==76.0.0.20250313
-typing_extensions==4.12.2
+typing_extensions==4.13.0
 tzdata==2025.2
 tzlocal==5.3.1
 urllib3==2.3.0
