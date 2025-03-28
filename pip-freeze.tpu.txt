@@ -178,10 +178,10 @@ psutil==5.9.5
 ptyprocess==0.7.0
 pyarrow==19.0.1
 pyasn1==0.6.1
-pyasn1_modules==0.4.1
+pyasn1_modules==0.4.2
 pycparser==2.22
-pydantic==2.10.6
-pydantic_core==2.27.2
+pydantic==2.11.0
+pydantic_core==2.33.0
 Pygments==2.19.1
 PyGObject==3.42.1
 PyJWT==2.3.0
@@ -211,7 +211,7 @@ seaborn==0.13.2
 SecretStorage==3.3.1
 Send2Trash==1.8.3
 sentencepiece==0.2.0
-setuptools==75.1.0
+setuptools==75.2.0
 shellingham==1.5.4
 simple-parsing==0.1.7
 simplejson==3.20.1
@@ -255,6 +255,7 @@ treescope==0.1.9
 typer==0.15.2
 types-pytz==2025.2.0.20250326
 types-setuptools==76.0.0.20250313
+typing-inspection==0.4.0
 typing_extensions==4.13.0
 tzdata==2025.2
 tzlocal==5.3.1
