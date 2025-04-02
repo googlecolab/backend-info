@@ -250,7 +250,7 @@ jupyter_core==5.7.2
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.13
 kaggle==1.7.4.2
-kagglehub==0.3.10
+kagglehub==0.3.11
 keras==3.8.0
 keras-hub==0.18.1
 keras-nlp==0.18.1
@@ -303,7 +303,7 @@ more-itertools==10.6.0
 moviepy==1.0.3
 mpmath==1.3.0
 msgpack==1.1.0
-multidict==6.3.0
+multidict==6.3.1
 multipledispatch==1.0.0
 multitasking==0.0.11
 murmurhash==1.0.12
@@ -359,7 +359,7 @@ optax==0.2.4
 optree==0.14.1
 orbax-checkpoint==0.11.10
 orjson==3.10.16
-osqp==1.0.1
+osqp==1.0.3
 packaging==24.2
 pandas==2.2.2
 pandas-datareader==0.10.0
@@ -479,7 +479,7 @@ SecretStorage==3.3.1
 Send2Trash==1.8.3
 sentence-transformers==3.4.1
 sentencepiece==0.2.0
-sentry-sdk==2.25.0
+sentry-sdk==2.25.1
 setproctitle==1.3.5
 setuptools==75.2.0
 shap==0.47.1
@@ -500,7 +500,7 @@ sortedcontainers==2.4.0
 soundfile==0.13.1
 soupsieve==2.6
 soxr==0.5.0.post1
-spacy==3.8.4
+spacy==3.8.5
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 spanner-graph-notebook==1.1.6
@@ -524,7 +524,7 @@ tabulate==0.9.0
 tbb==2022.1.0
 tblib==3.1.0
 tcmlib==1.3.0
-tenacity==9.0.0
+tenacity==9.1.2
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
@@ -535,7 +535,7 @@ tensorflow-metadata==1.16.1
 tensorflow-probability==0.25.0
 tensorflow-text==2.18.1
 tensorstore==0.1.73
-termcolor==3.0.0
+termcolor==3.0.1
 terminado==0.18.1
 text-unidecode==1.3
 textblob==0.19.0
@@ -579,7 +579,7 @@ uritemplate==4.1.1
 urllib3==2.3.0
 vega-datasets==0.9.0
 wadllib==1.3.6
-wandb==0.19.8
+wandb==0.19.9
 wasabi==1.1.3
 wcwidth==0.2.13
 weasel==0.4.1
