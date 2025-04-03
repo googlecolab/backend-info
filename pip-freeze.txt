@@ -121,7 +121,7 @@ Flask==3.1.0
 flatbuffers==25.2.10
 flax==0.10.5
 folium==0.19.5
-fonttools==4.56.0
+fonttools==4.57.0
 frozendict==2.4.6
 frozenlist==1.5.0
 fsspec==2025.3.2
@@ -257,10 +257,10 @@ keras-nlp==0.18.1
 keyring==23.5.0
 kiwisolver==1.4.8
 langchain==0.3.22
-langchain-core==0.3.49
+langchain-core==0.3.50
 langchain-text-splitters==0.3.7
 langcodes==3.5.0
-langsmith==0.3.22
+langsmith==0.3.23
 language_data==1.3.0
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -295,7 +295,7 @@ mdurl==0.1.2
 miniKanren==1.0.3
 missingno==0.5.2
 mistune==3.1.3
-mizani==0.13.1
+mizani==0.13.2
 mkl==2025.0.1
 ml-dtypes==0.4.1
 mlxtend==0.23.4
@@ -303,7 +303,7 @@ more-itertools==10.6.0
 moviepy==1.0.3
 mpmath==1.3.0
 msgpack==1.1.0
-multidict==6.3.1
+multidict==6.2.0
 multipledispatch==1.0.0
 multitasking==0.0.11
 murmurhash==1.0.12
@@ -409,8 +409,8 @@ pyasn1_modules==0.4.2
 pycairo==1.27.0
 pycocotools==2.0.8
 pycparser==2.22
-pydantic==2.11.1
-pydantic_core==2.33.0
+pydantic==2.11.2
+pydantic_core==2.33.1
 pydata-google-auth==1.9.1
 pydot==3.0.4
 pydotplus==2.0.2
@@ -425,7 +425,7 @@ PyJWT==2.10.1
 pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.2.1-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 pylibcugraph-cu12==25.2.0
 pylibraft-cu12==25.2.0
-pymc==5.21.1
+pymc==5.21.2
 pymystem3==0.2.0
 pynndescent==0.5.13
 pynvjitlink-cu12==0.5.2
@@ -440,7 +440,7 @@ pyproj==3.7.1
 pyshp==2.3.1
 PySocks==1.7.1
 pyspark==3.5.5
-pytensor==2.28.3
+pytensor==2.30.2
 pytest==8.3.5
 python-apt==0.0.0
 python-box==7.3.2
@@ -483,7 +483,7 @@ sentry-sdk==2.25.1
 setproctitle==1.3.5
 setuptools==75.2.0
 shap==0.47.1
-shapely==2.0.7
+shapely==2.1.0
 shellingham==1.5.4
 simple-parsing==0.1.7
 simplejson==3.20.1
@@ -531,7 +531,7 @@ tensorflow==2.18.0
 tensorflow-datasets==4.9.8
 tensorflow-hub==0.16.1
 tensorflow-io-gcs-filesystem==0.37.1
-tensorflow-metadata==1.16.1
+tensorflow-metadata==1.17.0
 tensorflow-probability==0.25.0
 tensorflow-text==2.18.1
 tensorstore==0.1.73
@@ -567,7 +567,7 @@ typer==0.15.2
 types-pytz==2025.2.0.20250326
 types-setuptools==78.1.0.20250329
 typing-inspection==0.4.0
-typing_extensions==4.13.0
+typing_extensions==4.13.1
 tzdata==2025.2
 tzlocal==5.3.1
 uc-micro-py==1.0.3
