@@ -41,6 +41,7 @@ bokeh==3.7.2
 Bottleneck==1.4.2
 bqplot==0.12.44
 branca==0.8.1
+build==1.2.2.post1
 CacheControl==0.14.2
 cachetools==5.5.2
 catalogue==2.0.10
@@ -280,7 +281,7 @@ libraft-cu12==25.2.0
 librosa==0.11.0
 libucx-cu12==1.18.0.post1
 libucxx-cu12==0.42.0
-lightgbm==4.5.0
+lightgbm @ file:///tmp/lightgbm/LightGBM/dist/lightgbm-4.5.0-py3-none-linux_x86_64.whl
 linkify-it-py==2.0.3
 llvmlite==0.43.0
 locket==1.0.0
@@ -441,6 +442,7 @@ pyOpenSSL==24.2.1
 pyparsing==3.2.3
 pyperclip==1.9.0
 pyproj==3.7.1
+pyproject_hooks==1.2.0
 pyshp==2.3.1
 PySocks==1.7.1
 pyspark==3.5.5
