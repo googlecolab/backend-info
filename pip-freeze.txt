@@ -32,7 +32,7 @@ backcall==0.2.0
 backports.tarfile==1.2.0
 beautifulsoup4==4.13.4
 betterproto==2.0.0b6
-bigframes==2.1.0
+bigframes==2.3.0
 bigquery-magics==0.9.0
 bleach==6.2.0
 blinker==1.9.0
@@ -85,7 +85,7 @@ dask==2024.12.1
 dask-cuda==25.2.0
 dask-cudf-cu12==25.2.2
 dask-expr==1.1.21
-dataproc-spark-connect==0.7.2
+dataproc-spark-connect==0.7.3
 datascience==0.17.6
 datasets==2.14.4
 db-dtypes==1.4.2
@@ -261,7 +261,7 @@ jupyter_core==5.7.2
 jupyter_kernel_gateway @ git+https://github.com/googlecolab/kernel_gateway@b134e9945df25c2dcb98ade9129399be10788671
 jupyterlab_pygments==0.3.0
 jupyterlab_widgets==3.0.15
-kaggle==1.7.4.2
+kaggle==1.7.4.5
 kagglehub==0.3.12
 keras==3.8.0
 keras-hub==0.18.1
@@ -324,7 +324,7 @@ multitasking==0.0.11
 murmurhash==1.0.12
 music21==9.3.0
 namex==0.0.9
-narwhals==1.38.0
+narwhals==1.38.2
 natsort==8.4.0
 nbclassic==1.3.1
 nbclient==0.10.2
@@ -362,7 +362,7 @@ nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.2.0
 oauth2client==4.1.3
 oauthlib==3.2.2
 omegaconf==2.3.0
-openai==1.77.0
+openai==1.78.0
 opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
 opencv-python-headless==4.11.0.86
@@ -375,7 +375,7 @@ optax==0.2.4
 optree==0.15.0
 orbax-checkpoint==0.11.13
 orjson==3.10.18
-osqp==1.0.3
+osqp==1.0.4
 packaging==24.2
 pandas==2.2.2
 pandas-datareader==0.10.0
@@ -447,7 +447,7 @@ pymystem3==0.2.0
 pynndescent==0.5.13
 pynvjitlink-cu12==0.6.0
 pynvml==12.0.0
-pyogrio==0.10.0
+pyogrio==0.11.0
 pyomo==6.9.2
 PyOpenGL==3.1.9
 pyOpenSSL==24.2.1
@@ -490,7 +490,7 @@ rsa==4.9.1
 safetensors==0.5.3
 scikit-image==0.25.2
 scikit-learn==1.6.1
-scipy==1.15.2
+scipy==1.15.3
 scooby==0.10.1
 scs==3.2.7.post2
 seaborn==0.13.2
@@ -514,7 +514,7 @@ slicer==0.0.8
 smart-open==7.1.0
 smmap==5.0.2
 sniffio==1.3.1
-snowballstemmer==2.2.0
+snowballstemmer==3.0.0.1
 sortedcontainers==2.4.0
 soundfile==0.13.1
 soupsieve==2.7
