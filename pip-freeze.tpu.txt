@@ -28,7 +28,7 @@ certifi==2025.4.26
 cffi==1.17.1
 charset-normalizer==3.4.2
 chex==0.1.89
-click==8.1.8
+click==8.2.0
 cloudpathlib==0.21.0
 cloudpickle==3.1.1
 confection==0.1.5
@@ -55,7 +55,7 @@ fastjsonschema==2.21.1
 fastprogress==1.0.3
 filelock==3.18.0
 flax==0.10.6
-fonttools==4.57.0
+fonttools==4.58.0
 frozenlist==1.6.0
 fsspec==2025.3.2
 gast==0.6.0
@@ -79,7 +79,7 @@ gspread-dataframe==4.0.0
 h11==0.16.0
 h2==4.2.0
 h5py==3.13.0
-hf-xet==1.1.0
+hf-xet==1.1.1
 hpack==4.1.0
 httpcore==1.0.9
 httplib2==0.20.2
@@ -143,7 +143,7 @@ msgpack==1.1.0
 multidict==6.4.3
 murmurhash==1.0.12
 namex==0.0.9
-narwhals==1.38.2
+narwhals==1.39.0
 nbclassic==1.3.1
 nbclient==0.10.2
 nbconvert==7.16.6
@@ -244,7 +244,7 @@ terminado==0.18.1
 text-unidecode==1.3
 thinc==8.3.6
 threadpoolctl==3.6.0
-tifffile==2025.3.30
+tifffile==2025.5.10
 tinycss2==1.4.0
 tokenizers==0.21.1
 toml==0.10.2
@@ -261,7 +261,7 @@ transformers==4.51.3
 treescope==0.1.9
 typer==0.15.3
 types-pytz==2025.2.0.20250326
-types-setuptools==80.3.0.20250505
+types-setuptools==80.4.0.20250511
 typing-inspection==0.4.0
 typing_extensions==4.13.2
 tzdata==2025.2
