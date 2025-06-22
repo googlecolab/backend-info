@@ -33,7 +33,7 @@ backcall==0.2.0
 backports.tarfile==1.2.0
 beautifulsoup4==4.13.4
 betterproto==2.0.0b6
-bigframes==2.6.0
+bigframes==2.7.0
 bigquery-magics==0.9.0
 bleach==6.2.0
 blinker==1.9.0
@@ -105,7 +105,7 @@ docstring_parser==0.16
 docutils==0.21.2
 dopamine_rl==4.1.2
 duckdb==1.2.2
-earthengine-api==1.5.19
+earthengine-api==1.5.20
 easydict==1.13
 editdistance==0.8.1
 eerepr==0.1.2
@@ -198,10 +198,10 @@ h2==4.2.0
 h5netcdf==1.6.1
 h5py==3.14.0
 hdbscan==0.8.40
-hf-xet==1.1.3
+hf-xet==1.1.4
 hf_transfer==0.1.9
 highspy==1.11.0
-holidays==0.74
+holidays==0.75
 holoviews==1.20.2
 hpack==4.1.0
 html5lib==1.1
@@ -365,7 +365,7 @@ nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.2.0
 oauth2client==4.1.3
 oauthlib==3.2.2
 omegaconf==2.3.0
-openai==1.86.0
+openai==1.87.0
 opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
 opencv-python-headless==4.11.0.86
