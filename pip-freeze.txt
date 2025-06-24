@@ -4,7 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-accelerate==1.7.0
+accelerate==1.8.1
 aiofiles==24.1.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.11.15
@@ -22,7 +22,7 @@ argon2-cffi-bindings==21.2.0
 array_record==0.7.2
 arviz==0.21.0
 astropy==7.1.0
-astropy-iers-data==0.2025.6.16.0.38.47
+astropy-iers-data==0.2025.6.23.0.39.50
 astunparse==1.6.3
 atpublic==5.1
 attrs==25.3.0
@@ -74,7 +74,7 @@ cudf-polars-cu12==25.2.2
 cufflinks==0.17.3
 cuml-cu12==25.2.1
 cupy-cuda12x==13.3.0
-curl_cffi==0.11.3
+curl_cffi==0.11.4
 cuvs-cu12==25.2.1
 cvxopt==1.3.2
 cvxpy==1.6.6
@@ -105,7 +105,7 @@ docstring_parser==0.16
 docutils==0.21.2
 dopamine_rl==4.1.2
 duckdb==1.2.2
-earthengine-api==1.5.20
+earthengine-api==1.5.21
 easydict==1.13
 editdistance==0.8.1
 eerepr==0.1.2
@@ -117,7 +117,7 @@ etils==1.12.2
 etuples==0.3.9
 Farama-Notifications==0.0.4
 fastai==2.7.19
-fastapi==0.115.12
+fastapi==0.115.13
 fastcore==1.7.29
 fastdownload==0.0.7
 fastjsonschema==2.21.1
@@ -151,11 +151,11 @@ glob2==0.7
 google==2.0.3
 google-ai-generativelanguage==0.6.15
 google-api-core==2.25.1
-google-api-python-client==2.172.0
+google-api-python-client==2.173.0
 google-auth==2.38.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.2
-google-cloud-aiplatform==1.97.0
+google-cloud-aiplatform==1.98.0
 google-cloud-bigquery==3.34.0
 google-cloud-bigquery-connection==1.18.3
 google-cloud-bigquery-storage==2.32.0
@@ -172,7 +172,7 @@ google-cloud-storage==2.19.0
 google-cloud-translate==3.20.3
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
-google-genai==1.20.0
+google-genai==1.21.1
 google-generativeai==0.8.5
 google-pasta==0.2.0
 google-resumable-media==2.7.2
@@ -198,7 +198,7 @@ h2==4.2.0
 h5netcdf==1.6.1
 h5py==3.14.0
 hdbscan==0.8.40
-hf-xet==1.1.4
+hf-xet==1.1.5
 hf_transfer==0.1.9
 highspy==1.11.0
 holidays==0.75
@@ -240,7 +240,7 @@ ipywidgets==7.7.1
 itsdangerous==2.2.0
 jaraco.classes==3.4.0
 jaraco.context==6.0.1
-jaraco.functools==4.1.0
+jaraco.functools==4.2.1
 jax==0.5.2
 jax-cuda12-pjrt==0.5.1
 jax-cuda12-plugin==0.5.1
@@ -272,11 +272,11 @@ keras-nlp==0.18.1
 keyring==25.6.0
 keyrings.google-artifactregistry-auth==1.1.2
 kiwisolver==1.4.8
-langchain==0.3.25
-langchain-core==0.3.65
+langchain==0.3.26
+langchain-core==0.3.66
 langchain-text-splitters==0.3.8
 langcodes==3.5.0
-langsmith==0.3.45
+langsmith==0.4.1
 language_data==1.3.0
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -301,7 +301,7 @@ logical-unification==0.4.6
 lxml==5.4.0
 Mako==1.1.3
 marisa-trie==1.2.1
-Markdown==3.8
+Markdown==3.8.2
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.10.0
@@ -320,14 +320,14 @@ more-itertools==10.7.0
 moviepy==1.0.3
 mpmath==1.3.0
 msgpack==1.1.1
-multidict==6.4.4
+multidict==6.5.0
 multipledispatch==1.0.0
 multiprocess==0.70.15
 multitasking==0.0.11
 murmurhash==1.0.13
 music21==9.3.0
 namex==0.1.0
-narwhals==1.43.0
+narwhals==1.44.0
 natsort==8.4.0
 nbclassic==1.3.1
 nbclient==0.10.2
@@ -363,9 +363,9 @@ nvidia-nvtx-cu12==12.4.127
 nvtx==0.2.12
 nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.2.0-py3-none-any.whl
 oauth2client==4.1.3
-oauthlib==3.2.2
+oauthlib==3.3.1
 omegaconf==2.3.0
-openai==1.87.0
+openai==1.91.0
 opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
 opencv-python-headless==4.11.0.86
@@ -373,7 +373,7 @@ openpyxl==3.1.5
 opt_einsum==3.4.0
 optax==0.2.5
 optree==0.16.0
-orbax-checkpoint==0.11.15
+orbax-checkpoint==0.11.16
 orjson==3.10.18
 osqp==1.0.4
 packaging==24.2
@@ -437,7 +437,7 @@ pydub==0.25.1
 pyerfa==2.0.1.5
 pygame==2.6.1
 pygit2==1.18.0
-Pygments==2.19.1
+Pygments==2.19.2
 PyGObject==3.42.0
 PyJWT==2.10.1
 pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.2.1-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
@@ -470,7 +470,7 @@ python-slugify==8.0.4
 python-snappy==0.7.3
 python-utils==3.9.1
 pytz==2025.2
-pyviz_comms==3.0.5
+pyviz_comms==3.0.6
 PyWavelets==1.8.0
 PyYAML==6.0.2
 pyzmq==24.0.1
@@ -489,7 +489,7 @@ roman-numerals-py==3.1.0
 rpds-py==0.25.1
 rpy2==3.5.17
 rsa==4.9.1
-ruff==0.11.13
+ruff==0.12.0
 safehttpx==0.1.6
 safetensors==0.5.3
 scikit-image==0.25.2
@@ -550,7 +550,7 @@ tabulate==0.9.0
 tbb==2022.1.0
 tblib==3.1.0
 tcmlib==1.3.0
-tenacity==9.1.2
+tenacity==8.5.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
@@ -595,7 +595,7 @@ treescope==0.1.9
 triton==3.2.0
 tsfresh==0.21.0
 tweepy==4.15.0
-typeguard==4.4.3
+typeguard==4.4.4
 typer==0.16.0
 types-pytz==2025.2.0.20250516
 types-setuptools==80.9.0.20250529
@@ -628,7 +628,7 @@ wordcloud==1.9.4
 wrapt==1.17.2
 wurlitzer==3.1.1
 xarray==2025.3.1
-xarray-einstats==0.9.0
+xarray-einstats==0.9.1
 xgboost==2.1.4
 xlrd==2.0.2
 xxhash==3.5.0
