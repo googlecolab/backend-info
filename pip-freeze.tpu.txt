@@ -71,7 +71,7 @@ google-cloud-core==2.4.3
 google-cloud-storage==2.19.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
-google-genai==1.24.0
+google-genai==1.25.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.70.0
 grpcio==1.73.1
