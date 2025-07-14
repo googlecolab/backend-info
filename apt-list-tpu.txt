@@ -432,7 +432,7 @@ libglx-mesa0/jammy-updates,now 23.2.1-1ubuntu3.1~22.04.3 amd64 [installed,automa
 libglx0/jammy,now 1.4.0-1 amd64 [installed,automatic]
 libgme0/jammy,now 0.6.3-2 amd64 [installed,automatic]
 libgmp10/jammy,now 2:6.2.1+dfsg-3ubuntu1 amd64 [installed]
-libgnutls30/jammy-updates,now 3.7.3-4ubuntu1.6 amd64 [installed,upgradable to: 3.7.3-4ubuntu1.7]
+libgnutls30/now 3.7.3-4ubuntu1.6 amd64 [installed,upgradable to: 3.7.3-4ubuntu1.7]
 libgomp1/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 amd64 [installed,automatic]
 libgoogle-perftools4/jammy,now 2.9.1-0ubuntu3 amd64 [installed,automatic]
 libgpg-error0/jammy,now 1.43-3 amd64 [installed]
