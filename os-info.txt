@@ -6,4 +6,4 @@
 Ubuntu 22.04.4 LTS
 Python 3.11.13
 R version 4.5.1 (2025-06-13) -- "Great Square Root"
-julia version 1.10.9
+julia version 1.11.5
