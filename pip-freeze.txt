@@ -69,23 +69,22 @@ contourpy==1.3.2
 cramjam==2.10.0
 cryptography==43.0.3
 cuda-python==12.6.2.post1
-cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-25.2.1-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
-cudf-polars-cu12==25.2.2
+cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-25.6.0-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
+cudf-polars-cu12==25.6.0
 cufflinks==0.17.3
-cuml-cu12==25.2.1
+cuml-cu12==25.6.0
 cupy-cuda12x==13.3.0
 curl_cffi==0.12.0
-cuvs-cu12==25.2.1
+cuvs-cu12==25.6.1
 cvxopt==1.3.2
-cvxpy==1.6.6
+cvxpy==1.6.7
 cycler==0.12.1
 cyipopt==1.5.0
 cymem==2.0.11
 Cython==3.0.12
-dask==2024.12.1
-dask-cuda==25.2.0
-dask-cudf-cu12==25.2.2
-dask-expr==1.1.21
+dask==2025.5.0
+dask-cuda==25.6.0
+dask-cudf-cu12==25.6.0
 dataproc-spark-connect==0.8.2
 datascience==0.17.6
 datasets==2.14.4
@@ -96,8 +95,8 @@ decorator==4.4.2
 defusedxml==0.7.1
 diffusers==0.34.0
 dill==0.3.7
-distributed==2024.12.1
-distributed-ucxx-cu12==0.42.0
+distributed==2025.5.0
+distributed-ucxx-cu12==0.44.0
 distro==1.9.0
 dlib==19.24.6
 dm-tree==0.1.9
@@ -113,7 +112,7 @@ einops==0.8.1
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 entrypoints==0.4
 et_xmlfile==2.0.0
-etils==1.12.2
+etils==1.13.0
 etuples==0.3.10
 Farama-Notifications==0.0.4
 fastai==2.7.19
@@ -273,26 +272,27 @@ keyring==25.6.0
 keyrings.google-artifactregistry-auth==1.1.2
 kiwisolver==1.4.8
 langchain==0.3.26
-langchain-core==0.3.68
+langchain-core==0.3.69
 langchain-text-splitters==0.3.8
 langcodes==3.5.0
-langsmith==0.4.5
+langsmith==0.4.6
 language_data==1.3.0
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
-libcudf-cu12 @ https://pypi.nvidia.com/libcudf-cu12/libcudf_cu12-25.2.1-py3-none-manylinux_2_28_x86_64.whl
-libcugraph-cu12==25.2.0
-libcuml-cu12==25.2.1
-libcuvs-cu12==25.2.1
-libkvikio-cu12==25.2.1
+libcudf-cu12 @ https://pypi.nvidia.com/libcudf-cu12/libcudf_cu12-25.6.0-py3-none-manylinux_2_28_x86_64.whl
+libcugraph-cu12==25.6.0
+libcuml-cu12==25.6.0
+libcuvs-cu12==25.6.1
+libkvikio-cu12==25.6.0
 libpysal==4.13.0
-libraft-cu12==25.2.0
+libraft-cu12==25.6.0
+librmm-cu12==25.6.0
 librosa==0.11.0
 libucx-cu12==1.18.1
-libucxx-cu12==0.42.0
+libucxx-cu12==0.44.0
 lightgbm @ file:///tmp/lightgbm/LightGBM/dist/lightgbm-4.5.0-py3-none-linux_x86_64.whl
 linkify-it-py==2.0.3
 llvmlite==0.43.0
@@ -341,7 +341,7 @@ nltk==3.9.1
 notebook==6.5.7
 notebook_shim==0.2.4
 numba==0.60.0
-numba-cuda==0.2.0
+numba-cuda==0.11.0
 numexpr==2.11.0
 numpy==2.0.2
 nvidia-cublas-cu12==12.5.3.2
@@ -357,15 +357,14 @@ nvidia-cusparse-cu12==12.5.1.3
 nvidia-cusparselt-cu12==0.6.2
 nvidia-ml-py==12.575.51
 nvidia-nccl-cu12==2.21.5
-nvidia-nvcomp-cu12==4.2.0.11
 nvidia-nvjitlink-cu12==12.5.82
 nvidia-nvtx-cu12==12.4.127
 nvtx==0.2.12
-nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.2.0-py3-none-any.whl
+nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.6.0-py3-none-any.whl
 oauth2client==4.1.3
 oauthlib==3.3.1
 omegaconf==2.3.0
-openai==1.95.1
+openai==1.96.1
 opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
 opencv-python-headless==4.12.0.88
@@ -374,9 +373,9 @@ opt_einsum==3.4.0
 optax==0.2.5
 optree==0.16.0
 orbax-checkpoint==0.11.16
-orjson==3.10.18
+orjson==3.11.0
 osqp==1.0.4
-packaging==24.2
+packaging==25.0
 pandas==2.2.2
 pandas-datareader==0.10.0
 pandas-gbq==0.29.2
@@ -400,7 +399,7 @@ plotly==5.24.1
 plotnine==0.14.6
 pluggy==1.6.0
 ply==3.11
-polars==1.21.0
+polars==1.25.0
 pooch==1.8.2
 portpicker==1.5.2
 preshed==3.0.10
@@ -440,9 +439,9 @@ pygit2==1.18.0
 Pygments==2.19.2
 PyGObject==3.42.0
 PyJWT==2.10.1
-pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.2.1-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
-pylibcugraph-cu12==25.2.0
-pylibraft-cu12==25.2.0
+pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.6.0-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
+pylibcugraph-cu12==25.6.0
+pylibraft-cu12==25.6.0
 pymc==5.23.0
 pymystem3==0.2.0
 pynndescent==0.5.13
@@ -474,8 +473,9 @@ pyviz_comms==3.0.6
 PyWavelets==1.8.0
 PyYAML==6.0.2
 pyzmq==24.0.1
-raft-dask-cu12==25.2.0
-rapids-dask-dependency==25.2.0
+raft-dask-cu12==25.6.0
+rapids-dask-dependency==25.6.0
+rapids-logger==0.1.1
 ratelim==0.1.6
 referencing==0.36.2
 regex==2024.11.6
@@ -484,7 +484,7 @@ requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
 requirements-parser==0.9.0
 rich==13.9.4
-rmm-cu12==25.2.0
+rmm-cu12==25.6.0
 roman-numerals-py==3.1.0
 rpds-py==0.26.0
 rpy2==3.5.17
@@ -503,7 +503,7 @@ semantic-version==2.10.0
 Send2Trash==1.8.3
 sentence-transformers==4.1.0
 sentencepiece==0.2.0
-sentry-sdk==2.32.0
+sentry-sdk==2.33.0
 setuptools==75.2.0
 shap==0.48.0
 shapely==2.1.1
@@ -603,8 +603,8 @@ typing_extensions==4.14.1
 tzdata==2025.2
 tzlocal==5.3.1
 uc-micro-py==1.0.3
-ucx-py-cu12==0.42.0
-ucxx-cu12==0.42.0
+ucx-py-cu12==0.44.0
+ucxx-cu12==0.44.0
 umap-learn==0.5.9.post2
 umf==0.11.0
 uritemplate==4.2.0
@@ -633,7 +633,7 @@ xlrd==2.0.2
 xxhash==3.5.0
 xyzservices==2025.4.0
 yarl==1.20.1
-ydf==0.12.0
+ydf==0.13.0
 yellowbrick==1.5
 yfinance==0.2.65
 zict==3.0.0
