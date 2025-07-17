@@ -4,7 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-accelerate==1.8.1
+accelerate==1.9.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.11.15
 aiosignal==1.4.0
@@ -57,7 +57,7 @@ fastjsonschema==2.21.1
 fastprogress==1.0.3
 filelock==3.18.0
 flax==0.10.6
-fonttools==4.58.5
+fonttools==4.59.0
 frozenlist==1.7.0
 fsspec==2025.7.0
 gast==0.6.0
