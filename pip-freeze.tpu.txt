@@ -262,7 +262,7 @@ tornado==6.4.2
 tpu-info==0.2.2
 tqdm==4.67.1
 traitlets==5.7.1
-transformers==4.53.2
+transformers==4.53.3
 treescope==0.1.9
 typer==0.16.0
 types-pytz==2025.2.0.20250516

@@ -87,14 +87,14 @@ dask==2025.5.0
 dask-cuda==25.6.0
 dask-cudf-cu12==25.6.0
 dataproc-spark-connect==0.8.3
-datasets==2.14.4
+datasets==4.0.0
 db-dtypes==1.4.3
 dbus-python==1.2.18
 debugpy==1.8.15
 decorator==4.4.2
 defusedxml==0.7.1
 diffusers==0.34.0
-dill==0.3.7
+dill==0.3.8
 distributed==2025.5.0
 distributed-ucxx-cu12==0.44.0
 distro==1.9.0
@@ -122,7 +122,7 @@ fastdownload==0.0.7
 fastjsonschema==2.21.1
 fastprogress==1.0.3
 fastrlock==0.8.3
-ffmpy==0.6.0
+ffmpy==0.6.1
 filelock==3.18.0
 firebase-admin==6.9.0
 Flask==3.1.1
@@ -132,10 +132,10 @@ folium==0.20.0
 fonttools==4.59.0
 frozendict==2.4.6
 frozenlist==1.7.0
-fsspec==2025.7.0
+fsspec==2025.3.0
 future==1.0.0
 gast==0.6.0
-gcsfs==2025.7.0
+gcsfs==2025.3.0
 GDAL==3.8.4
 gdown==5.2.0
 geemap==0.35.3
@@ -150,11 +150,11 @@ glob2==0.7
 google==2.0.3
 google-ai-generativelanguage==0.6.15
 google-api-core==2.25.1
-google-api-python-client==2.176.0
+google-api-python-client==2.177.0
 google-auth==2.38.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.2
-google-cloud-aiplatform==1.104.0
+google-cloud-aiplatform==1.105.0
 google-cloud-bigquery==3.35.0
 google-cloud-bigquery-connection==1.18.3
 google-cloud-bigquery-storage==2.32.0
@@ -272,7 +272,7 @@ keyring==25.6.0
 keyrings.google-artifactregistry-auth==1.1.2
 kiwisolver==1.4.8
 langchain==0.3.26
-langchain-core==0.3.70
+langchain-core==0.3.71
 langchain-text-splitters==0.3.8
 langcodes==3.5.0
 langsmith==0.4.8
@@ -322,7 +322,7 @@ mpmath==1.3.0
 msgpack==1.1.1
 multidict==6.6.3
 multipledispatch==1.0.0
-multiprocess==0.70.15
+multiprocess==0.70.16
 multitasking==0.0.12
 murmurhash==1.0.13
 music21==9.3.0
@@ -364,7 +364,7 @@ nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.6.0
 oauth2client==4.1.3
 oauthlib==3.3.1
 omegaconf==2.3.0
-openai==1.97.0
+openai==1.97.1
 opencv-contrib-python==4.12.0.88
 opencv-python==4.12.0.88
 opencv-python-headless==4.12.0.88
@@ -381,7 +381,7 @@ pandas-datareader==0.10.0
 pandas-gbq==0.29.2
 pandas-stubs==2.2.2.240909
 pandocfilters==1.5.1
-panel==1.7.4
+panel==1.7.5
 param==2.2.1
 parso==0.8.4
 parsy==2.1
@@ -441,7 +441,7 @@ PyJWT==2.10.1
 pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.6.0-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 pylibcugraph-cu12==25.6.0
 pylibraft-cu12==25.6.0
-pymc==5.24.1
+pymc==5.25.0
 pynndescent==0.5.13
 pynvjitlink-cu12==0.7.0
 pynvml==12.0.0
@@ -501,7 +501,7 @@ semantic-version==2.10.0
 Send2Trash==1.8.3
 sentence-transformers==4.1.0
 sentencepiece==0.2.0
-sentry-sdk==2.33.1
+sentry-sdk==2.33.2
 setuptools==75.2.0
 shap==0.48.0
 shapely==2.1.1
@@ -586,7 +586,7 @@ tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.7.1
 traittypes==0.2.1
-transformers==4.53.2
+transformers==4.53.3
 treelite==4.4.1
 treescope==0.1.9
 triton==3.2.0
