@@ -145,7 +145,7 @@ geopandas==1.1.1
 geopy==2.4.1
 gin-config==0.5.0
 gitdb==4.0.12
-GitPython==3.1.44
+GitPython==3.1.45
 glob2==0.7
 google==2.0.3
 google-ai-generativelanguage==0.6.15
@@ -166,7 +166,7 @@ google-cloud-functions==1.20.4
 google-cloud-iam==2.19.1
 google-cloud-language==2.17.2
 google-cloud-resource-manager==1.14.2
-google-cloud-spanner==3.55.0
+google-cloud-spanner==3.56.0
 google-cloud-storage==2.19.0
 google-cloud-translate==3.21.1
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
@@ -208,7 +208,7 @@ httpcore==1.0.9
 httpimport==1.4.1
 httplib2==0.22.0
 httpx==0.28.1
-huggingface-hub==0.33.4
+huggingface-hub==0.33.5
 humanize==4.12.3
 hyperframe==6.1.0
 hyperopt==0.2.7
@@ -272,7 +272,7 @@ keyring==25.6.0
 keyrings.google-artifactregistry-auth==1.1.2
 kiwisolver==1.4.8
 langchain==0.3.26
-langchain-core==0.3.71
+langchain-core==0.3.72
 langchain-text-splitters==0.3.8
 langcodes==3.5.0
 langsmith==0.4.8
@@ -441,7 +441,7 @@ PyJWT==2.10.1
 pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.6.0-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 pylibcugraph-cu12==25.6.0
 pylibraft-cu12==25.6.0
-pymc==5.25.0
+pymc==5.25.1
 pynndescent==0.5.13
 pynvjitlink-cu12==0.7.0
 pynvml==12.0.0
@@ -470,7 +470,7 @@ pytz==2025.2
 pyviz_comms==3.0.6
 PyWavelets==1.8.0
 PyYAML==6.0.2
-pyzmq==24.0.1
+pyzmq==26.2.1
 raft-dask-cu12==25.6.0
 rapids-dask-dependency==25.6.0
 rapids-logger==0.1.1
@@ -569,7 +569,7 @@ thinc==8.3.6
 threadpoolctl==3.6.0
 tifffile==2025.6.11
 tiktoken==0.9.0
-timm==1.0.18
+timm==1.0.19
 tinycss2==1.4.0
 tokenizers==0.21.2
 toml==0.10.2
