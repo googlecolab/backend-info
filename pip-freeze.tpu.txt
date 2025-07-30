@@ -10,7 +10,7 @@ altair==5.5.0
 annotated-types==0.7.0
 anyio==4.9.0
 argon2-cffi==25.1.0
-argon2-cffi-bindings==21.2.0
+argon2-cffi-bindings==25.1.0
 array_record==0.7.2
 attrs==25.3.0
 audioread==3.0.1
@@ -198,7 +198,7 @@ pytz==2025.2
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
-regex==2025.7.29
+regex==2025.7.31
 requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
