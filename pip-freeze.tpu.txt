@@ -66,7 +66,7 @@ google-cloud-core==2.4.3
 google-cloud-storage==2.19.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
-google-genai==1.27.0
+google-genai==1.28.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.70.0
 grpcio==1.74.0
@@ -198,7 +198,7 @@ pytz==2025.2
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
-regex==2025.7.31
+regex==2025.7.34
 requests==2.32.3
 requests-oauthlib==2.0.0
 requirements-parser==0.9.0
