@@ -16,14 +16,14 @@ ale-py==0.11.2
 altair==5.5.0
 annotated-types==0.7.0
 antlr4-python3-runtime==4.9.3
-anyio==4.9.0
+anyio==4.10.0
 anywidget==0.9.18
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
 array_record==0.7.2
 arviz==0.22.0
 astropy==7.1.0
-astropy-iers-data==0.2025.7.28.0.41.50
+astropy-iers-data==0.2025.8.4.0.42.59
 astunparse==1.6.3
 atpublic==5.1
 attrs==25.3.0
@@ -35,7 +35,7 @@ backports.tarfile==1.2.0
 beautifulsoup4==4.13.4
 betterproto==2.0.0b6
 bigframes==2.13.0
-bigquery-magics==0.10.1
+bigquery-magics==0.10.2
 bleach==6.2.0
 blinker==1.9.0
 blis==1.3.0
@@ -46,11 +46,11 @@ Bottleneck==1.4.2
 bqplot==0.12.45
 branca==0.8.1
 Brotli==1.1.0
-build==1.2.2.post1
+build==1.3.0
 CacheControl==0.14.3
 cachetools==5.5.2
 catalogue==2.0.10
-certifi==2025.7.14
+certifi==2025.8.3
 cffi==1.17.1
 chardet==5.2.0
 charset-normalizer==3.4.2
@@ -200,7 +200,7 @@ hdbscan==0.8.40
 hf-xet==1.1.5
 hf_transfer==0.1.9
 highspy==1.11.0
-holidays==0.77
+holidays==0.78
 holoviews==1.21.0
 hpack==4.1.0
 html5lib==1.1
@@ -275,7 +275,7 @@ langchain==0.3.27
 langchain-core==0.3.72
 langchain-text-splitters==0.3.9
 langcodes==3.5.0
-langsmith==0.4.9
+langsmith==0.4.10
 language_data==1.3.0
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -359,7 +359,7 @@ nvidia-ml-py==12.575.51
 nvidia-nccl-cu12==2.23.4
 nvidia-nvjitlink-cu12==12.5.82
 nvidia-nvtx-cu12==12.4.127
-nvtx==0.2.12
+nvtx==0.2.13
 nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.6.0-py3-none-any.whl
 oauth2client==4.1.3
 oauthlib==3.3.1
@@ -388,7 +388,7 @@ parsy==2.1
 partd==1.4.2
 patsy==1.0.1
 peewee==3.18.2
-peft==0.16.0
+peft==0.17.0
 pexpect==4.9.0
 pickleshare==0.7.5
 pillow==11.3.0
@@ -445,7 +445,7 @@ pymc==5.25.1
 pynndescent==0.5.13
 pynvjitlink-cu12==0.7.0
 pynvml==12.0.0
-pyogrio==0.11.0
+pyogrio==0.11.1
 pyomo==6.9.2
 PyOpenGL==3.1.9
 pyOpenSSL==24.2.1
@@ -468,7 +468,7 @@ python-snappy==0.7.3
 python-utils==3.9.1
 pytz==2025.2
 pyviz_comms==3.0.6
-PyWavelets==1.8.0
+PyWavelets==1.9.0
 PyYAML==6.0.2
 pyzmq==26.2.1
 raft-dask-cu12==25.6.0
@@ -524,7 +524,7 @@ soxr==0.5.0.post1
 spacy==3.8.7
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
-spanner-graph-notebook==1.1.6
+spanner-graph-notebook==1.1.7
 Sphinx==8.2.3
 sphinxcontrib-applehelp==2.0.0
 sphinxcontrib-devhelp==2.0.0
@@ -595,7 +595,7 @@ tweepy==4.16.0
 typeguard==4.4.4
 typer==0.16.0
 types-pytz==2025.2.0.20250516
-types-setuptools==80.9.0.20250529
+types-setuptools==80.9.0.20250801
 typing-inspection==0.4.1
 typing_extensions==4.14.1
 tzdata==2025.2
