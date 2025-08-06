@@ -76,7 +76,7 @@ gspread-dataframe==4.0.0
 h11==0.16.0
 h2==4.2.0
 h5py==3.14.0
-hf-xet==1.1.5
+hf-xet==1.1.7
 hpack==4.1.0
 httpcore==1.0.9
 httplib2==0.20.2
@@ -206,7 +206,7 @@ rich==14.1.0
 rpds-py==0.26.0
 rpy2==3.5.17
 rsa==4.9.1
-safetensors==0.5.3
+safetensors==0.6.1
 scikit-image==0.25.2
 scikit-learn==1.6.1
 scipy==1.16.1
@@ -253,7 +253,7 @@ tornado==6.4.2
 tpu-info==0.2.2
 tqdm==4.67.1
 traitlets==5.7.1
-transformers==4.54.1
+transformers==4.55.0
 treescope==0.1.9
 typer==0.16.0
 types-pytz==2025.2.0.20250516
