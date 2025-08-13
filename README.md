@@ -9,16 +9,23 @@ production environment, but rather the state as of the most recent submitted
 changes. There may be a one or two day delay to see the changes in Colab
 runtimes.
 
-## Colab’s Fallback Runtime Version
+## Colab’s Past Runtime Version: 2025.07
 
-When performing a large upgrade of the runtime, Colab temporarily makes
-available a fallback runtime version representing a version of the runtime prior
-to the upgrade. The purpose of the fallback runtime version is to provide users
-a mechanism to more smoothly upgrade their notebooks to ensure they continue to
-work with Colab’s current runtime version. The fallback runtime version is
-available from the Command Palette via the "Use fallback runtime version"
-command when connected to a runtime. Of note, this setting does not persist
-across sessions – the command will need to be invoked on each new session.
+As explained in [Colab's Runtime Version FAQ](https://research.google.com/colaboratory/runtime-version-faq.html),
+Colab will make certain past runtime versions available for users to select.
+The specific runtime version "2025.07" contains the following components:
+
+- Ubuntu 22.04 LTS
+- Python 3.11
+  - numpy 2.0.2
+  - PyTorch 2.6.0
+  - Jax 0.5.2
+  - Tensorflow 2.18.0 (not included in TPU runtimes)
+- R version 4.5.1 (2025-06-13) -- "Great Square Root"
+- julia version 1.10.9
+
+For the exact details of installed OS & Python packages and versions, refer to the
+individual `*.txt` files in this repo.
 
 ## Contributing
 
