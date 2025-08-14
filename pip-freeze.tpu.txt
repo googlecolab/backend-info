@@ -66,7 +66,7 @@ google-cloud-core==2.4.3
 google-cloud-storage==2.19.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
-google-genai==1.29.0
+google-genai==1.30.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.70.0
 grpcio==1.74.0
@@ -253,7 +253,7 @@ tornado==6.4.2
 tpu-info==0.2.2
 tqdm==4.67.1
 traitlets==5.7.1
-transformers==4.55.1
+transformers==4.55.2
 treescope==0.1.10
 typer==0.16.0
 types-pytz==2025.2.0.20250809
