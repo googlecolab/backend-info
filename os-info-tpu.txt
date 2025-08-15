@@ -4,6 +4,6 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 Ubuntu 22.04.5 LTS
-Python 3.11.13
+Python 3.12.11
 R version 4.5.1 (2025-06-13) -- "Great Square Root"
 julia version 1.11.5
