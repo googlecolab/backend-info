@@ -23,7 +23,7 @@ argon2-cffi-bindings==25.1.0
 array_record==0.7.2
 arviz==0.22.0
 astropy==7.1.0
-astropy-iers-data==0.2025.8.11.0.41.9
+astropy-iers-data==0.2025.8.18.0.40.14
 astunparse==1.6.3
 atpublic==5.1
 attrs==25.3.0
@@ -40,7 +40,7 @@ bleach==6.2.0
 blinker==1.9.0
 blis==1.3.0
 blobfile==3.0.0
-blosc2==3.7.0
+blosc2==3.7.1
 bokeh==3.7.3
 Bottleneck==1.4.2
 bqplot==0.12.45
@@ -301,7 +301,7 @@ locket==1.0.0
 logical-unification==0.4.6
 lxml==5.4.0
 Mako==1.1.3
-marisa-trie==1.2.1
+marisa-trie==1.3.0
 Markdown==3.8.2
 markdown-it-py==4.0.0
 MarkupSafe==3.0.2
@@ -328,7 +328,7 @@ multitasking==0.0.12
 murmurhash==1.0.13
 music21==9.3.0
 namex==0.1.0
-narwhals==2.1.1
+narwhals==2.1.2
 natsort==8.4.0
 nbclassic==1.3.1
 nbclient==0.10.2
@@ -366,7 +366,7 @@ nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.6.0
 oauth2client==4.1.3
 oauthlib==3.3.1
 omegaconf==2.3.0
-openai==1.99.9
+openai==1.100.0
 opencv-contrib-python==4.12.0.88
 opencv-python==4.12.0.88
 opencv-python-headless==4.12.0.88
@@ -437,7 +437,7 @@ PyDrive2==1.21.3
 pydub==0.25.1
 pyerfa==2.0.1.5
 pygame==2.6.1
-pygit2==1.18.1
+pygit2==1.18.2
 Pygments==2.19.2
 PyGObject==3.42.0
 PyJWT==2.10.1
@@ -450,7 +450,7 @@ pynvjitlink-cu12==0.7.0
 pynvml==12.0.0
 pyogrio==0.11.1
 pyomo==6.9.3
-PyOpenGL==3.1.9
+PyOpenGL==3.1.10
 pyOpenSSL==24.2.1
 pyparsing==3.2.3
 pyperclip==1.9.0
@@ -480,7 +480,7 @@ rapids-logger==0.1.1
 ratelim==0.1.6
 referencing==0.36.2
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
 requirements-parser==0.9.0
@@ -511,7 +511,7 @@ shapely==2.1.1
 shellingham==1.5.4
 simple-parsing==0.1.7
 simplejson==3.20.1
-simsimd==6.5.0
+simsimd==6.5.1
 six==1.17.0
 sklearn-pandas==2.2.0
 slicer==0.0.8
@@ -637,4 +637,4 @@ yellowbrick==1.5
 yfinance==0.2.65
 zict==3.0.0
 zipp==3.23.0
-zstandard==0.23.0
+zstandard==0.24.0
