@@ -167,7 +167,7 @@ google-cloud-appengine-logging==1.6.2
 google-cloud-audit-log==0.3.2
 google-cloud-bigquery==3.36.0
 google-cloud-bigquery-connection==1.18.3
-google-cloud-bigquery-storage==2.32.0
+google-cloud-bigquery-storage==2.33.0
 google-cloud-bigtable==2.32.0
 google-cloud-core==2.4.3
 google-cloud-dataproc==5.21.0
@@ -185,7 +185,7 @@ google-cloud-trace==1.16.2
 google-cloud-translate==3.21.1
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
-google-genai==1.32.0
+google-genai==1.33.0
 google-generativeai==0.8.5
 google-pasta==0.2.0
 google-resumable-media==2.7.2
@@ -385,7 +385,7 @@ nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.6.0
 oauth2client==4.1.3
 oauthlib==3.3.1
 omegaconf==2.3.0
-openai==1.104.2
+openai==1.106.0
 opencv-contrib-python==4.12.0.88
 opencv-python==4.12.0.88
 opencv-python-headless==4.12.0.88
@@ -486,7 +486,7 @@ pyshp==2.3.1
 PySocks==1.7.1
 pyspark==3.5.1
 pytensor==2.31.7
-pytest==8.4.1
+pytest==8.4.2
 python-apt==0.0.0
 python-box==7.3.2
 python-dateutil==2.9.0.post0
@@ -535,7 +535,7 @@ semantic-version==2.10.0
 Send2Trash==1.8.3
 sentence-transformers==5.1.0
 sentencepiece==0.2.1
-sentry-sdk==2.35.2
+sentry-sdk==2.36.0
 setuptools==75.2.0
 shap==0.48.0
 shapely==2.1.1
@@ -661,7 +661,7 @@ widgetsnbextension==3.6.10
 wordcloud==1.9.4
 wrapt==1.17.3
 wurlitzer==3.1.1
-xarray==2025.8.0
+xarray==2025.9.0
 xarray-einstats==0.9.1
 xgboost==3.0.4
 xlrd==2.0.2

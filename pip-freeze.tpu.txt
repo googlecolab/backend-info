@@ -70,7 +70,7 @@ google-cloud-core==2.4.3
 google-cloud-storage==2.19.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
-google-genai==1.32.0
+google-genai==1.33.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.70.0
 grpcio==1.74.0
@@ -200,7 +200,7 @@ PyGObject==3.42.1
 PyJWT==2.3.0
 pyparsing==3.2.3
 PySocks==1.7.1
-pytest==8.4.1
+pytest==8.4.2
 python-apt==0.0.0
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
