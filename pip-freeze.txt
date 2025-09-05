@@ -38,7 +38,7 @@ backcall==0.2.0
 beartype==0.21.0
 beautifulsoup4==4.13.5
 betterproto==2.0.0b6
-bigframes==2.17.0
+bigframes==2.18.0
 bigquery-magics==0.10.3
 bleach==6.2.0
 blinker==1.9.0
@@ -293,7 +293,7 @@ langchain==0.3.27
 langchain-core==0.3.75
 langchain-text-splitters==0.3.11
 langcodes==3.5.0
-langsmith==0.4.23
+langsmith==0.4.24
 language_data==1.3.0
 lark==1.2.2
 launchpadlib==1.10.16
@@ -320,7 +320,7 @@ logical-unification==0.4.6
 lxml==5.4.0
 Mako==1.3.10
 marisa-trie==1.3.1
-Markdown==3.8.2
+Markdown==3.9
 markdown-it-py==4.0.0
 MarkupSafe==3.0.2
 matplotlib==3.10.0
@@ -349,7 +349,7 @@ music21==9.3.0
 namex==0.1.0
 narwhals==2.3.0
 natsort==8.4.0
-nbclassic==1.3.1
+nbclassic==1.3.2
 nbclient==0.10.2
 nbconvert==7.16.6
 nbformat==5.10.4
@@ -385,7 +385,7 @@ nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.6.0
 oauth2client==4.1.3
 oauthlib==3.3.1
 omegaconf==2.3.0
-openai==1.106.0
+openai==1.106.1
 opencv-contrib-python==4.12.0.88
 opencv-python==4.12.0.88
 opencv-python-headless==4.12.0.88
@@ -521,7 +521,7 @@ roman-numerals-py==3.1.0
 rpds-py==0.27.1
 rpy2==3.5.17
 rsa==4.9.1
-ruff==0.12.11
+ruff==0.12.12
 safehttpx==0.1.6
 safetensors==0.6.2
 scikit-image==0.25.2
@@ -620,7 +620,7 @@ tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.7.1
 traittypes==0.2.1
-transformers==4.56.0
+transformers==4.56.1
 treelite==4.4.1
 treescope==0.1.10
 triton==3.4.0
