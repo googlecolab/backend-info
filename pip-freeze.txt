@@ -38,13 +38,13 @@ backcall==0.2.0
 beartype==0.22.2
 beautifulsoup4==4.13.5
 betterproto==2.0.0b6
-bigframes==2.24.0
+bigframes==2.25.0
 bigquery-magics==0.10.3
 bleach==6.2.0
 blinker==1.9.0
 blis==1.3.0
 blobfile==3.1.0
-blosc2==3.10.1
+blosc2==3.10.2
 bokeh==3.7.3
 Bottleneck==1.4.2
 bqplot==0.12.45
@@ -162,7 +162,7 @@ google-api-python-client==2.184.0
 google-auth==2.38.0
 google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.2.2
-google-cloud-aiplatform==1.120.0
+google-cloud-aiplatform==1.121.0
 google-cloud-appengine-logging==1.6.2
 google-cloud-audit-log==0.3.3
 google-cloud-bigquery==3.38.0
@@ -187,7 +187,7 @@ google-cloud-trace==1.16.2
 google-cloud-translate==3.21.1
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
-google-genai==1.44.0
+google-genai==1.45.0
 google-generativeai==0.8.5
 google-pasta==0.2.0
 google-resumable-media==2.7.2
@@ -198,7 +198,7 @@ gradio_client==1.13.3
 graphviz==0.21
 greenlet==3.2.4
 groovy==0.1.2
-grpc-google-iam-v1==0.14.2
+grpc-google-iam-v1==0.14.3
 grpc-interceptor==0.15.4
 grpcio==1.75.1
 grpcio-status==1.71.2
@@ -210,8 +210,8 @@ gym-notices==0.1.0
 gymnasium==1.2.1
 h11==0.16.0
 h2==4.3.0
-h5netcdf==1.6.4
-h5py==3.15.0
+h5netcdf==1.7.1
+h5py==3.15.1
 hdbscan==0.8.40
 hf-xet==1.1.10
 hf_transfer==0.1.9
@@ -226,7 +226,7 @@ httplib2==0.31.0
 httpx==0.28.1
 httpx-sse==0.4.3
 huggingface-hub==0.35.3
-humanize==4.13.0
+humanize==4.14.0
 hyperframe==6.1.0
 hyperopt==0.2.7
 ibis-framework==9.5.0
@@ -276,7 +276,7 @@ jupyter-console==6.6.3
 jupyter-events==0.12.0
 jupyter-leaflet==0.20.0
 jupyter_client==7.4.9
-jupyter_core==5.8.1
+jupyter_core==5.9.1
 jupyter_kernel_gateway @ git+https://github.com/googlecolab/kernel_gateway@b134e9945df25c2dcb98ade9129399be10788671
 jupyter_server==2.14.0
 jupyter_server_terminals==0.5.3
@@ -295,7 +295,7 @@ langchain==0.3.27
 langchain-core==0.3.79
 langchain-text-splitters==0.3.11
 langcodes==3.5.0
-langsmith==0.4.35
+langsmith==0.4.37
 language_data==1.3.0
 lark==1.3.0
 launchpadlib==1.10.16
@@ -328,7 +328,7 @@ MarkupSafe==3.0.3
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
 matplotlib-venn==1.1.2
-mcp==1.17.0
+mcp==1.18.0
 mdit-py-plugins==0.5.0
 mdurl==0.1.2
 miniKanren==1.0.5
@@ -407,7 +407,7 @@ optax==0.2.6
 optree==0.17.0
 orbax-checkpoint==0.11.24
 orjson==3.11.3
-osqp==1.0.4
+osqp==1.0.5
 overrides==7.7.0
 packaging==25.0
 pandas==2.2.2
@@ -449,7 +449,7 @@ proto-plus==1.26.1
 protobuf==5.29.5
 psutil==5.9.5
 psycopg2==2.9.11
-psygnal==0.14.2
+psygnal==0.15.0
 ptyprocess==0.7.0
 py-cpuinfo==9.0.0
 py4j==0.10.9.7
@@ -477,7 +477,7 @@ PyJWT==2.10.1
 pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-25.6.0-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 pylibcugraph-cu12==25.6.0
 pylibraft-cu12==25.6.0
-pymc==5.25.1
+pymc==5.26.0
 pynndescent==0.5.13
 pynvjitlink-cu12==0.7.0
 pynvml==12.0.0
@@ -492,7 +492,7 @@ pyproject_hooks==1.2.0
 pyshp==3.0.2.post1
 PySocks==1.7.1
 pyspark==3.5.1
-pytensor==2.31.7
+pytensor==2.35.0
 pytest==8.4.2
 python-apt==0.0.0
 python-box==7.3.2
@@ -528,7 +528,7 @@ roman-numerals-py==3.1.0
 rpds-py==0.27.1
 rpy2==3.5.17
 rsa==4.9.1
-ruff==0.14.0
+ruff==0.14.1
 safehttpx==0.1.6
 safetensors==0.6.2
 scikit-image==0.25.2
@@ -542,7 +542,7 @@ semantic-version==2.10.0
 Send2Trash==1.8.3
 sentence-transformers==5.1.1
 sentencepiece==0.2.1
-sentry-sdk==2.41.0
+sentry-sdk==2.42.0
 setuptools==75.2.0
 shap==0.49.1
 shapely==2.1.2
