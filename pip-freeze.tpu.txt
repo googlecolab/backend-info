@@ -4,7 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-accelerate==1.10.1
+accelerate==1.11.0
 aiofiles==25.1.0
 altair==5.5.0
 annotated-types==0.7.0
@@ -12,7 +12,7 @@ anyio==4.11.0
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
 array_record==0.8.1
-arrow==1.3.0
+arrow==1.4.0
 attrs==25.4.0
 audioread==3.0.1
 backcall==0.2.0
@@ -49,13 +49,13 @@ en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.4
 etils==1.13.0
 fastai==2.8.4
-fastcore==1.8.12
+fastcore==1.8.13
 fastdownload==0.0.7
 fastjsonschema==2.21.2
 fastprogress==1.0.3
 fasttransform==0.0.2
 filelock==3.20.0
-flax==0.10.6
+flax==0.10.7
 fonttools==4.60.1
 fqdn==1.5.1
 fsspec==2025.9.0
@@ -72,7 +72,7 @@ google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
 google-genai==1.45.0
 google-resumable-media==2.7.2
-googleapis-common-protos==1.70.0
+googleapis-common-protos==1.71.0
 grpcio==1.75.1
 grpclib==0.4.8
 gspread==6.2.1
@@ -93,15 +93,15 @@ imageio==2.37.0
 immutabledict==4.2.2
 importlib-metadata==4.6.4
 importlib_resources==6.5.2
-iniconfig==2.1.0
+iniconfig==2.3.0
 ipykernel==6.17.1
 ipyparallel==8.8.0
 ipython==7.34.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.1
 isoduration==20.11.0
-jax==0.5.3
-jaxlib==0.5.3
+jax==0.7.2
+jaxlib==0.7.2
 jeepney==0.7.1
 Jinja2==3.1.6
 joblib==1.5.2
@@ -130,7 +130,7 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lazy_loader==0.4
 librosa==0.11.0
-libtpu==0.0.11.4
+libtpu==0.0.17
 llvmlite==0.45.1
 Mako==1.1.3
 marisa-trie==1.3.1
@@ -148,7 +148,7 @@ msgpack==1.1.2
 multidict==6.7.0
 murmurhash==1.0.13
 namex==0.1.0
-narwhals==2.8.0
+narwhals==2.9.0
 nbclassic==1.3.3
 nbclient==0.10.2
 nbconvert==7.16.6
@@ -164,7 +164,7 @@ oauthlib==3.3.1
 opt_einsum==3.4.0
 optax==0.2.6
 optree==0.17.0
-orbax-checkpoint==0.11.24
+orbax-checkpoint==0.11.25
 overrides==7.7.0
 packaging==25.0
 pandas==2.2.2
@@ -193,7 +193,7 @@ pyarrow==21.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycparser==2.23
-pydantic==2.12.2
+pydantic==2.12.3
 pydantic_core==2.41.4
 Pygments==2.19.2
 PyGObject==3.42.1
@@ -234,7 +234,7 @@ simple-parsing==0.1.7
 simplejson==3.20.2
 six==1.17.0
 sklearn-pandas==2.2.0
-smart_open==7.3.1
+smart_open==7.4.0
 sniffio==1.3.1
 soundfile==0.13.1
 soupsieve==2.8
@@ -254,11 +254,11 @@ terminado==0.18.1
 text-unidecode==1.3
 thinc==8.3.6
 threadpoolctl==3.6.0
-tifffile==2025.10.4
+tifffile==2025.10.16
 tinycss2==1.4.0
 tokenizers==0.22.1
 toml==0.10.2
-toolz==1.0.0
+toolz==1.1.0
 torch @ https://download.pytorch.org/whl/cpu/torch-2.8.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl
 torch_xla @ https://storage.googleapis.com/pytorch-xla-releases/wheels/tpuvm/torch_xla-2.8.0-cp312-cp312-manylinux_2_28_x86_64.whl
 torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.8.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl
@@ -269,8 +269,7 @@ tqdm==4.67.1
 traitlets==5.7.1
 transformers==4.57.1
 treescope==0.1.10
-typer==0.19.2
-types-python-dateutil==2.9.0.20251008
+typer==0.20.0
 types-pytz==2025.2.0.20250809
 types-setuptools==80.9.0.20250822
 typing-inspection==0.4.2
@@ -289,5 +288,5 @@ webencodings==0.5.1
 websocket-client==1.9.0
 websockets==15.0.1
 widgetsnbextension==3.6.10
-wrapt==1.17.3
+wrapt==2.0.0
 zipp==3.23.0
