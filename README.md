@@ -9,30 +9,30 @@ production environment, but rather the state as of the most recent submitted
 changes. There may be a one or two day delay to see the changes in Colab
 runtimes.
 
-## Colab’s Fallback Runtime Version
-
-NOTE: Colab will begin rolling out the new runtime selector feature, which
-supports selecting past runtime versions. This feature will replace the existing
-fallback runtime version. If the 'Use fallback runtime version' command is
-unavailable, please utilize the runtime version selector as explained in this
-[FAQ](https://research.google.com/colaboratory/runtime-version-faq.html).
-
-When performing a large upgrade of the runtime, Colab temporarily makes
-available a fallback runtime version representing a version of the runtime prior
-to the upgrade. The purpose of the fallback runtime version is to provide users
-a mechanism to more smoothly upgrade their notebooks to ensure they continue to
-work with Colab’s current runtime version. The fallback runtime version is
-available from the Command Palette via the "Use fallback runtime version"
-command when connected to a runtime. Of note, this setting does not persist
-across sessions – the command will need to be invoked on each new session.
-
-## Colab's Past Runtime Versions (Runtime Version Selector)
+## Colab's Past Runtime Versions
 
 Colab now supports pinning a notebook to one of several past runtime versions,
 which can be desirable for more consistent notebook execution results. More
-information about this feature and the currently available past runtime versions
-is available at the
+information about this feature is available at the
+[blog post](https://developers.googleblog.com/en/google-colab-adds-more-back-to-school-improvements/)
+and the
 [FAQ](https://research.google.com/colaboratory/runtime-version-faq.html).
+Currently available past runtime versions are as follows:
+
+### 2025.07
+
+*   Ubuntu 22.04 LTS
+*   Python 3.11
+*   numpy 2.0.2
+*   PyTorch 2.6.0
+*   Jax 0.5.2
+*   Tensorflow 2.18.0 (not included in TPU runtimes)
+*   R version 4.5.1 (2025-06-13) -- "Great Square Root"
+*   julia version 1.10.9
+
+For the exact details of installed OS & Python packages and versions, refer to
+the individual `*.txt` files at this
+[GitHub commit](https://github.com/googlecolab/backend-info/tree/ef1cba030a9f7a39bf42912a42f6462d6d4908e8).
 
 ## Contributing
 
