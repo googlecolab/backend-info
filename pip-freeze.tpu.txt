@@ -49,7 +49,7 @@ en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.4
 etils==1.13.0
 fastai==2.8.5
-fastcore==1.8.14
+fastcore==1.8.15
 fastdownload==0.0.7
 fastjsonschema==2.21.2
 fastprogress==1.0.3
@@ -70,7 +70,7 @@ google-cloud-core==2.5.0
 google-cloud-storage==2.19.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
-google-genai==1.48.0
+google-genai==1.49.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.71.0
 grpcio==1.76.0
@@ -164,7 +164,7 @@ oauthlib==3.3.1
 opt_einsum==3.4.0
 optax==0.2.6
 optree==0.17.0
-orbax-checkpoint==0.11.26
+orbax-checkpoint==0.11.27
 overrides==7.7.0
 packaging==25.0
 pandas==2.2.2
@@ -193,8 +193,8 @@ pyarrow==22.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycparser==2.23
-pydantic==2.12.3
-pydantic_core==2.41.4
+pydantic==2.12.4
+pydantic_core==2.41.5
 Pygments==2.19.2
 PyGObject==3.42.1
 PyJWT==2.3.0
