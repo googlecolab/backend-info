@@ -16,11 +16,11 @@ albumentations==2.0.8
 ale-py==0.11.2
 alembic==1.17.1
 altair==5.5.0
-annotated-doc==0.0.3
+annotated-doc==0.0.4
 annotated-types==0.7.0
 antlr4-python3-runtime==4.9.3
 anyio==4.11.0
-anywidget==0.9.18
+anywidget==0.9.19
 argon2-cffi==25.1.0
 argon2-cffi-bindings==25.1.0
 array_record==0.8.2
@@ -97,7 +97,7 @@ dask-cuda==25.10.0
 dask-cudf-cu12==25.10.0
 dataproc-spark-connect==0.8.3
 datasets==4.0.0
-db-dtypes==1.4.3
+db-dtypes==1.4.4
 dbus-python==1.2.18
 debugpy==1.8.15
 decorator==4.4.2
@@ -132,7 +132,7 @@ fastjsonschema==2.21.2
 fastprogress==1.0.3
 fastrlock==0.8.3
 fasttransform==0.0.2
-ffmpy==0.6.4
+ffmpy==1.0.0
 filelock==3.20.0
 firebase-admin==6.9.0
 Flask==3.1.2
@@ -221,7 +221,7 @@ hf-xet==1.2.0
 hf_transfer==0.1.9
 highspy==1.12.0
 holidays==0.84
-holoviews==1.21.0
+holoviews==1.22.0
 hpack==4.1.0
 html5lib==1.1
 httpcore==1.0.9
@@ -458,7 +458,7 @@ py4j==0.10.9.7
 pyarrow==18.1.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
-pycairo==1.28.0
+pycairo==1.29.0
 pycocotools==2.0.10
 pycparser==2.23
 pycryptodomex==3.23.0
@@ -537,14 +537,14 @@ scipy==1.16.3
 scooby==0.11.0
 scs==3.2.9
 seaborn==0.13.2
-SecretStorage==3.4.0
+SecretStorage==3.4.1
 semantic-version==2.10.0
 Send2Trash==1.8.3
 sentence-transformers==5.1.2
 sentencepiece==0.2.1
-sentry-sdk==2.43.0
+sentry-sdk==2.44.0
 setuptools==75.2.0
-shap==0.49.1
+shap==0.50.0
 shapely==2.1.2
 shellingham==1.5.4
 simple-parsing==0.1.7
