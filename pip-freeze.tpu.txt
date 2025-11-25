@@ -4,7 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-accelerate==1.11.0
+accelerate==1.12.0
 aiofiles==25.1.0
 altair==5.5.0
 annotated-types==0.7.0
@@ -70,7 +70,7 @@ google-cloud-core==2.5.0
 google-cloud-storage==3.6.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.7.1
-google-genai==1.51.0
+google-genai==1.52.0
 google-resumable-media==2.8.0
 googleapis-common-protos==1.72.0
 grpcio==1.76.0
@@ -151,7 +151,7 @@ nbclient==0.10.2
 nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
-networkx==3.5
+networkx==3.6
 nltk==3.9.1
 notebook==6.5.7
 notebook_shim==0.2.4
@@ -263,7 +263,7 @@ tornado==6.5.1
 tpu-info==0.2.2
 tqdm==4.67.1
 traitlets==5.7.1
-transformers==4.57.1
+transformers==4.57.2
 treescope==0.1.10
 typer-slim==0.20.0
 types-pytz==2025.2.0.20251108
