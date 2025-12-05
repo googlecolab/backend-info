@@ -172,7 +172,7 @@ pexpect==4.9.0
 pickleshare==0.7.5
 pillow==12.0.0
 pip==24.1.2
-platformdirs==4.5.0
+platformdirs==4.5.1
 plotly==5.24.1
 pluggy==1.6.0
 plum-dispatch==2.6.0
