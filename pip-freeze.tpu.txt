@@ -49,7 +49,7 @@ en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.4
 etils==1.13.0
 fastai==2.8.5
-fastcore==1.8.16
+fastcore==1.8.17
 fastdownload==0.0.7
 fastjsonschema==2.21.2
 fastprogress==1.0.3
@@ -151,7 +151,7 @@ nbclient==0.10.2
 nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
-networkx==3.6
+networkx==3.6.1
 nltk==3.9.1
 notebook==6.5.7
 notebook_shim==0.2.4
@@ -183,7 +183,7 @@ prometheus_client==0.23.1
 promise==2.3
 prompt_toolkit==3.0.52
 proto-plus==1.26.1
-protobuf==6.33.1
+protobuf==6.33.2
 psutil==5.9.5
 ptyprocess==0.7.0
 pyarrow==22.0.0
