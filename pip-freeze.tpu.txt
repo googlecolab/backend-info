@@ -276,7 +276,7 @@ transformers==4.57.3
 treescope==0.1.10
 typer-slim==0.21.1
 types-pytz==2025.2.0.20251108
-types-setuptools==80.9.0.20250822
+types-setuptools==80.9.0.20251223
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2025.3
