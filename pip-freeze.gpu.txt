@@ -16,7 +16,7 @@ alabaster==1.0.0
 albucore==0.0.24
 albumentations==2.0.8
 ale-py==0.11.2
-alembic==1.18.3
+alembic==1.18.4
 altair==5.5.0
 annotated-doc==0.0.4
 annotated-types==0.7.0
@@ -31,12 +31,12 @@ array_record==0.8.3
 arrow==1.4.0
 arviz==0.22.0
 astropy==7.2.0
-astropy-iers-data==0.2026.2.2.0.48.1
+astropy-iers-data==0.2026.2.9.0.50.33
 astunparse==1.6.3
 atpublic==5.1
 attrs==25.4.0
 audioread==3.1.0
-Authlib==1.6.6
+Authlib==1.6.7
 autograd==1.8.0
 babel==2.18.0
 backcall==0.2.0
@@ -44,11 +44,11 @@ beartype==0.22.9
 beautifulsoup4==4.13.5
 betterproto==2.0.0b6
 bigframes==2.33.0
-bigquery-magics==0.10.3
+bigquery-magics==0.12.0
 bleach==6.3.0
 blinker==1.9.0
 blis==1.3.3
-blobfile==3.1.0
+blobfile==3.2.0
 blosc2==4.0.0
 bokeh==3.7.3
 Bottleneck==1.4.2
@@ -56,7 +56,7 @@ bqplot==0.12.45
 branca==0.8.2
 brotli==1.2.0
 CacheControl==0.14.4
-cachetools==7.0.0
+cachetools==7.0.1
 catalogue==2.0.10
 certifi==2026.1.4
 cffi==2.0.0
@@ -81,7 +81,7 @@ cramjam==2.11.0
 cryptography==43.0.3
 cuda-bindings==12.9.5
 cuda-core==0.3.2
-cuda-pathfinder==1.3.3
+cuda-pathfinder==1.3.4
 cuda-python==12.9.5
 cuda-toolkit==12.9.1
 cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-25.10.0-cp312-cp312-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
@@ -131,8 +131,8 @@ etils==1.13.0
 etuples==0.3.10
 Farama-Notifications==0.0.4
 fastai==2.8.6
-fastapi==0.128.2
-fastcore==1.12.11
+fastapi==0.128.8
+fastcore==1.12.12
 fastdownload==0.0.7
 fastjsonschema==2.21.2
 fastlite==0.2.4
@@ -168,14 +168,14 @@ gitdb==4.0.12
 GitPython==3.1.46
 glob2==0.7
 google==3.0.0
-google-adk==1.24.0
+google-adk==1.25.0
 google-ai-generativelanguage==0.6.15
 google-api-core==2.29.0
 google-api-python-client==2.189.0
 google-auth==2.47.0
 google-auth-httplib2==0.3.0
 google-auth-oauthlib==1.2.4
-google-cloud-aiplatform==1.136.0
+google-cloud-aiplatform==1.137.0
 google-cloud-appengine-logging==1.8.0
 google-cloud-audit-log==0.4.0
 google-cloud-bigquery==3.40.0
@@ -202,7 +202,7 @@ google-cloud-trace==1.18.0
 google-cloud-translate==3.24.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.8.0
-google-genai==1.62.0
+google-genai==1.63.0
 google-generativeai==0.8.6
 google-pasta==0.2.0
 google-resumable-media==2.8.0
@@ -216,7 +216,7 @@ greenlet==3.3.1
 groovy==0.1.2
 grpc-google-iam-v1==0.14.3
 grpc-interceptor==0.15.4
-grpcio==1.76.0
+grpcio==1.78.0
 grpcio-status==1.71.2
 grpclib==0.4.9
 gspread==6.2.1
@@ -230,7 +230,7 @@ h5netcdf==1.8.1
 h5py==3.15.1
 hdbscan==0.8.41
 hf-xet==1.2.0
-highspy==1.13.0
+highspy==1.13.1
 holidays==0.90
 holoviews==1.22.1
 hpack==4.1.0
@@ -241,7 +241,7 @@ httplib2==0.31.2
 httptools==0.7.1
 httpx==0.28.1
 httpx-sse==0.4.3
-huggingface_hub==1.4.0
+huggingface_hub==1.4.1
 humanize==4.15.0
 hyperframe==6.1.0
 hyperopt==0.2.7
@@ -251,7 +251,7 @@ ImageIO==2.37.2
 imageio-ffmpeg==0.6.0
 imagesize==1.4.1
 imbalanced-learn==0.14.1
-immutabledict==4.2.2
+immutabledict==4.3.0
 importlib_metadata==8.7.1
 importlib_resources==6.5.2
 imutils==0.5.4
@@ -308,13 +308,13 @@ keras-nlp==0.21.1
 keyring==25.7.0
 keyrings.google-artifactregistry-auth==1.1.2
 kiwisolver==1.4.9
-langchain==1.2.8
-langchain-core==1.2.9
-langgraph==1.0.7
+langchain==1.2.10
+langchain-core==1.2.11
+langgraph==1.0.8
 langgraph-checkpoint==4.0.0
 langgraph-prebuilt==1.0.7
-langgraph-sdk==0.3.3
-langsmith==0.6.9
+langgraph-sdk==0.3.5
+langsmith==0.7.1
 lark==1.3.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -339,7 +339,7 @@ logical-unification==0.4.7
 lxml==6.0.2
 Mako==1.3.10
 mapclassify==2.10.0
-Markdown==3.10.1
+Markdown==3.10.2
 markdown-it-py==4.0.0
 MarkupSafe==3.0.3
 matplotlib==3.10.0
@@ -410,7 +410,7 @@ oauth2client==4.1.3
 oauthlib==3.3.1
 omegaconf==2.3.0
 onemkl-license==2025.3.1
-openai==2.17.0
+openai==2.20.0
 opencv-contrib-python==4.13.0.92
 opencv-python==4.13.0.92
 opencv-python-headless==4.13.0.92
@@ -431,7 +431,7 @@ optree==0.18.0
 orbax-checkpoint==0.11.32
 orjson==3.11.7
 ormsgpack==1.12.2
-osqp==1.1.0
+osqp==1.1.1
 overrides==7.7.0
 packaging==26.0
 pandas==2.2.2
@@ -440,8 +440,8 @@ pandas-gbq==0.30.0
 pandas-stubs==2.2.2.240909
 pandocfilters==1.5.1
 panel==1.8.7
-param==2.3.1
-parso==0.8.5
+param==2.3.2
+parso==0.8.6
 parsy==2.2
 partd==1.4.2
 patsy==1.0.2
@@ -522,7 +522,7 @@ python-apt==0.0.0
 python-box==7.3.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
-python-fasthtml==0.12.40
+python-fasthtml==0.12.41
 python-json-logger==4.0.0
 python-louvain==0.16
 python-multipart==0.0.22
@@ -617,7 +617,7 @@ sqlparse==0.5.5
 srsly==2.5.2
 sse-starlette==3.2.0
 stanio==0.5.1
-starlette==0.50.0
+starlette==0.52.1
 statsmodels==0.14.6
 stringzilla==4.6.0
 stumpy==1.13.0
@@ -627,7 +627,7 @@ tabulate==0.9.0
 tbb==2022.3.1
 tblib==3.2.2
 tcmlib==1.4.1
-tenacity==9.1.3
+tenacity==9.1.4
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
 tensorflow==2.19.0
@@ -637,7 +637,7 @@ tensorflow-metadata==1.17.3
 tensorflow-probability==0.25.0
 tensorflow-text==2.19.0
 tensorflow_decision_forests==1.12.0
-tensorstore==0.1.80
+tensorstore==0.1.81
 termcolor==3.3.0
 terminado==0.18.1
 text-unidecode==1.3
@@ -674,8 +674,8 @@ triton==3.5.0
 tsfresh==0.21.1
 tweepy==4.16.0
 typeguard==4.4.4
-typer==0.21.1
-typer-slim==0.21.1
+typer==0.23.0
+typer-slim==0.23.0
 types-pytz==2025.2.0.20251108
 types-setuptools==80.10.0.20260124
 typing-inspection==0.4.2
@@ -698,7 +698,7 @@ wandb==0.24.2
 wasabi==1.1.3
 watchdog==6.0.0
 watchfiles==1.1.1
-wcwidth==0.5.3
+wcwidth==0.6.0
 weasel==0.4.3
 webcolors==25.10.0
 webencodings==0.5.1
@@ -712,7 +712,7 @@ wrapt==2.1.1
 wurlitzer==3.1.1
 xarray==2025.12.0
 xarray-einstats==0.9.1
-xgboost==3.1.3
+xgboost==3.2.0
 xlrd==2.0.2
 xxhash==3.6.0
 xyzservices==2025.11.0
