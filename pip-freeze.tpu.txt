@@ -56,13 +56,13 @@ en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.4
 etils==1.13.0
 fastai==2.8.6
-fastcore==1.12.12
+fastcore==1.12.13
 fastdownload==0.0.7
 fastjsonschema==2.21.2
 fastlite==0.2.4
 fastprogress==1.1.3
 fasttransform==0.0.2
-filelock==3.20.3
+filelock==3.21.0
 flax==0.11.2
 fonttools==4.61.1
 fqdn==1.5.1
@@ -140,7 +140,7 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lazy_loader==0.4
 librosa==0.11.0
-libtpu==0.0.17
+libtpu==0.0.21
 llvmlite==0.46.0
 Mako==1.1.3
 Markdown==3.3.6
@@ -185,7 +185,7 @@ pexpect==4.9.0
 pickleshare==0.7.5
 pillow==12.1.1
 pip==24.1.2
-platformdirs==4.5.1
+platformdirs==4.6.0
 plotly==5.24.1
 pluggy==1.6.0
 plum-dispatch==2.6.1
@@ -280,7 +280,7 @@ torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.9.0%2Bcpu-cp312-c
 torchcodec @ https://download.pytorch.org/whl/cpu/torchcodec-0.8.0-cp312-cp312-manylinux_2_28_x86_64.whl
 torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.24.0%2Bcpu-cp312-cp312-manylinux_2_28_x86_64.whl
 tornado==6.5.1
-tpu-info==0.2.2
+tpu-info==0.8.1
 tqdm==4.67.3
 traitlets==5.7.1
 transformers==5.0.0

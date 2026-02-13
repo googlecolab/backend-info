@@ -131,8 +131,8 @@ etils==1.13.0
 etuples==0.3.10
 Farama-Notifications==0.0.4
 fastai==2.8.6
-fastapi==0.128.8
-fastcore==1.12.12
+fastapi==0.129.0
+fastcore==1.12.13
 fastdownload==0.0.7
 fastjsonschema==2.21.2
 fastlite==0.2.4
@@ -140,7 +140,7 @@ fastprogress==1.1.3
 fastrlock==0.8.3
 fasttransform==0.0.2
 ffmpy==1.0.0
-filelock==3.20.3
+filelock==3.21.0
 fiona==1.10.1
 firebase-admin==6.9.0
 Flask==3.1.2
@@ -171,16 +171,16 @@ google==3.0.0
 google-adk==1.25.0
 google-ai-generativelanguage==0.6.15
 google-api-core==2.29.0
-google-api-python-client==2.189.0
+google-api-python-client==2.190.0
 google-auth==2.47.0
 google-auth-httplib2==0.3.0
 google-auth-oauthlib==1.2.4
 google-cloud-aiplatform==1.137.0
 google-cloud-appengine-logging==1.8.0
 google-cloud-audit-log==0.4.0
-google-cloud-bigquery==3.40.0
+google-cloud-bigquery==3.40.1
 google-cloud-bigquery-connection==1.20.0
-google-cloud-bigquery-storage==2.36.0
+google-cloud-bigquery-storage==2.36.1
 google-cloud-bigtable==2.35.0
 google-cloud-core==2.5.0
 google-cloud-dataproc==5.24.0
@@ -309,7 +309,7 @@ keyring==25.7.0
 keyrings.google-artifactregistry-auth==1.1.2
 kiwisolver==1.4.9
 langchain==1.2.10
-langchain-core==1.2.11
+langchain-core==1.2.12
 langgraph==1.0.8
 langgraph-checkpoint==4.0.0
 langgraph-prebuilt==1.0.7
@@ -451,7 +451,7 @@ pexpect==4.9.0
 pickleshare==0.7.5
 pillow==11.3.0
 pip==24.1.2
-platformdirs==4.5.1
+platformdirs==4.6.0
 plotly==5.24.1
 plotnine==0.14.5
 pluggy==1.6.0
