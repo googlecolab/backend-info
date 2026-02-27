@@ -29,7 +29,7 @@ bleach==6.3.0
 blinker==1.4
 blis==1.3.3
 catalogue==2.0.10
-certifi==2026.1.4
+certifi==2026.2.25
 cffi==2.0.0
 charset-normalizer==3.4.4
 chex==0.1.90
@@ -41,7 +41,7 @@ contourpy==1.3.3
 cryptography==3.4.8
 cycler==0.12.1
 cymem==2.0.13
-datasets==4.5.0
+datasets==4.6.0
 dbus-python==1.2.18
 debugpy==1.8.15
 decorator==5.2.1
@@ -56,7 +56,7 @@ en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.4
 etils==1.13.0
 fastai==2.8.7
-fastcore==1.12.16
+fastcore==1.12.18
 fastdownload==0.0.7
 fastjsonschema==2.21.2
 fastlite==0.2.4
@@ -67,7 +67,7 @@ flax==0.11.2
 fonttools==4.61.1
 fqdn==1.5.1
 frozenlist==1.8.0
-fsspec==2025.10.0
+fsspec==2026.2.0
 gast==0.7.0
 GDAL==3.8.4
 gdown==5.2.1
@@ -79,24 +79,24 @@ google-cloud-core==2.5.0
 google-cloud-storage==3.9.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.8.0
-google-genai==1.64.0
+google-genai==1.65.0
 google-resumable-media==2.8.0
 googleapis-common-protos==1.72.0
-grain==0.2.15
-grpcio==1.78.1
+grain==0.2.16
+grpcio==1.78.0
 grpclib==0.4.9
 gspread==6.2.1
 gspread-dataframe==4.0.0
 h11==0.16.0
 h2==4.3.0
 h5py==3.15.1
-hf-xet==1.3.0
+hf-xet==1.3.1
 hpack==4.1.0
 httpcore==1.0.9
 httplib2==0.20.2
 httptools==0.7.1
 httpx==0.28.1
-huggingface_hub==1.4.1
+huggingface_hub==1.5.0
 humanize==4.15.0
 hyperframe==6.1.0
 idna==3.11
@@ -269,7 +269,7 @@ terminado==0.18.1
 text-unidecode==1.3
 thinc==8.3.10
 threadpoolctl==3.6.0
-tifffile==2026.2.20
+tifffile==2026.2.24
 tinycss2==1.4.0
 tokenizers==0.22.2
 toml==0.10.2
@@ -306,7 +306,7 @@ weasel==0.4.3
 webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
-websockets==15.0.1
+websockets==16.0
 widgetsnbextension==3.6.10
 wrapt==2.1.1
 xxhash==3.6.0
