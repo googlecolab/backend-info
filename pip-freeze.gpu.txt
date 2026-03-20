@@ -686,7 +686,7 @@ typeguard==4.5.1
 typer==0.24.1
 typer-slim==0.24.0
 types-pytz==2026.1.1.20260304
-types-setuptools==80.10.0.20260124
+types-setuptools==82.0.0.20260210
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2025.3
