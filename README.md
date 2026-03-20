@@ -32,7 +32,7 @@ Currently available past runtime versions are as follows:
 
 For the exact details of installed OS & Python packages and versions, refer to
 the individual `*.txt` files at this
-[GitHub commit](https://github.com/googlecolab/backend-info/tree/bd8aaa4580401a7fbf96a52fab5a7acf96f50b73.).
+[GitHub commit](https://github.com/googlecolab/backend-info/tree/bd8aaa4580401a7fbf96a52fab5a7acf96f50b73).
 
 ### 2025.10
 
