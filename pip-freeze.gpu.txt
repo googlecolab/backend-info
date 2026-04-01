@@ -115,7 +115,7 @@ distributed==2026.1.1
 distributed-ucxx-cu12==0.48.0
 distro==1.9.0
 dlib==19.24.6
-dm-tree==0.1.9
+dm-tree==0.1.10
 docstring_parser==0.17.0
 docutils==0.21.2
 dopamine_rl==4.1.2
@@ -435,7 +435,7 @@ opt_einsum==3.4.0
 optax==0.2.8
 optree==0.19.0
 orbax-checkpoint==0.11.33
-orjson==3.11.7
+orjson==3.11.8
 ormsgpack==1.12.2
 osqp==1.1.1
 overrides==7.7.0
@@ -446,7 +446,7 @@ pandas-gbq==0.30.0
 pandas-stubs==2.2.2.240909
 pandocfilters==1.5.1
 panel==1.8.10
-param==2.3.2
+param==2.3.3
 parso==0.8.6
 parsy==2.2
 partd==1.4.2

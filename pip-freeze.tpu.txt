@@ -50,7 +50,7 @@ defusedxml==0.7.1
 dill==0.4.1
 distrax==0.1.5
 distro==1.9.0
-dm-tree==0.1.9
+dm-tree==0.1.10
 docstring_parser==0.17.0
 einops==0.8.2
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
