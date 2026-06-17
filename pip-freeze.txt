@@ -4,7 +4,7 @@
 # staging or production container, but rather the state as of the most recent
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 absl-py==1.4.0
-accelerate==1.13.0
+accelerate==1.14.0
 access==1.1.10.post3
 affine==2.4.0
 aiofiles==24.1.0
@@ -49,7 +49,7 @@ bleach==6.4.0
 blinker==1.9.0
 blis==1.3.3
 blobfile==3.2.0
-blosc2==4.4.2
+blosc2==4.4.5
 bokeh==3.8.2
 Bottleneck==1.4.2
 bqplot==0.12.47
@@ -76,7 +76,7 @@ confection==1.3.3
 cons==0.4.7
 contourpy==1.3.3
 cramjam==2.11.0
-cryptography==48.0.1
+cryptography==49.0.0
 cufflinks==0.17.3
 curl_cffi==0.15.0
 cvxopt==1.3.2
@@ -85,7 +85,7 @@ cycler==0.12.1
 cyipopt==1.5.0
 cymem==2.0.13
 Cython==3.0.12
-dask==2026.3.0
+dask==2026.6.0
 dataproc-spark-connect==1.1.0
 datasets==4.0.0
 db-dtypes==1.7.0
@@ -124,7 +124,7 @@ fastlite==0.2.4
 fastprogress==1.1.6
 fasttransform==0.0.2
 ffmpy==1.0.0
-filelock==3.29.2
+filelock==3.29.3
 firebase-admin==6.9.0
 Flask==3.1.3
 flatbuffers==25.12.19
@@ -140,7 +140,7 @@ gast==0.7.0
 gcsfs==2025.3.0
 GDAL==3.8.4
 gdown==5.2.2
-geemap==0.38.0
+geemap==0.38.1
 geocoder==1.38.1
 geographiclib==2.1
 geopandas==1.1.3
@@ -179,9 +179,9 @@ google-cloud-monitoring==2.31.0
 google-cloud-pubsub==2.39.0
 google-cloud-resource-manager==1.17.0
 google-cloud-secret-manager==2.29.0
-google-cloud-spanner==3.67.0
+google-cloud-spanner==3.68.0
 google-cloud-speech==2.40.0
-google-cloud-storage==3.11.0
+google-cloud-storage==3.12.0
 google-cloud-trace==1.19.0
 google-cloud-translate==3.26.0
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
@@ -200,7 +200,7 @@ greenlet==3.5.1
 groovy==0.1.2
 grpc-google-iam-v1==0.14.4
 grpc-interceptor==0.15.4
-grpcio==1.81.0
+grpcio==1.81.1
 grpcio-status==1.71.2
 grpclib==0.4.9
 gspread==6.2.1
@@ -225,7 +225,7 @@ httplib2==0.31.2
 httptools==0.8.0
 httpx==0.28.1
 httpx-sse==0.4.3
-huggingface_hub==1.18.0
+huggingface_hub==1.19.0
 humanize==4.15.0
 hyperframe==6.1.0
 hyperopt==0.2.7
@@ -291,14 +291,14 @@ keras-nlp==0.26.0
 keyring==25.7.0
 keyrings.google-artifactregistry-auth==1.1.2
 kiwisolver==1.5.0
-langchain==1.3.6
-langchain-core==1.4.3
-langchain-protocol==0.0.16
-langgraph==1.2.4
+langchain==1.3.9
+langchain-core==1.4.7
+langchain-protocol==0.0.17
+langgraph==1.2.5
 langgraph-checkpoint==4.1.1
 langgraph-prebuilt==1.1.0
 langgraph-sdk==0.4.2
-langsmith==0.8.12
+langsmith==0.8.15
 lark==1.3.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -337,7 +337,7 @@ momepy==0.11.0
 more-itertools==10.8.0
 moviepy==1.0.3
 mpmath==1.3.0
-msgpack==1.1.2
+msgpack==1.2.0
 multidict==6.7.1
 multipledispatch==1.0.0
 multiprocess==0.70.16
@@ -365,9 +365,9 @@ numpy==2.0.2
 nvidia-nccl-cu12==2.30.7
 oauth2client==4.1.3
 oauthlib==3.3.1
-omegaconf==2.3.0
+omegaconf==2.3.1
 onemkl-license==2025.3.1
-openai==2.41.0
+openai==2.41.1
 opencv-contrib-python==4.13.0.92
 opencv-python==4.13.0.92
 opencv-python-headless==4.13.0.92
@@ -388,7 +388,7 @@ optree==0.19.1
 orbax-checkpoint==0.12.0
 orjson==3.11.9
 ormsgpack==1.12.2
-osqp==1.1.2
+osqp==1.1.3
 packaging==26.2
 pandas==2.2.2
 pandas-datareader==0.10.0
@@ -402,7 +402,7 @@ parso==0.8.7
 parsy==2.2
 partd==1.4.2
 patsy==1.0.2
-peewee==4.0.6
+peewee==4.0.7
 peft==0.19.1
 pexpect==4.9.0
 pickleshare==0.7.5
@@ -463,7 +463,7 @@ pynndescent==0.6.0
 pyogrio==0.12.1
 pyomo==6.10.1
 PyOpenGL==3.1.10
-pyOpenSSL==26.2.0
+pyOpenSSL==26.3.0
 pyparsing==3.3.2
 pyperclip==1.11.0
 pyproj==3.7.2
@@ -471,7 +471,7 @@ pyroaring==1.1.0
 pysal==25.7
 pyshp==3.0.12
 PySocks==1.7.1
-pyspark==4.0.2
+pyspark==4.0.3
 pytensor==2.38.3
 pytest==8.4.2
 python-apt==0.0.0
@@ -510,7 +510,7 @@ rpds-py==2026.5.1
 rpy2==3.5.17
 rsa==4.9.1
 rtree==1.4.1
-ruff==0.15.16
+ruff==0.15.17
 safehttpx==0.1.7
 safetensors==0.8.0
 scikit-image==0.25.2
@@ -592,6 +592,7 @@ termcolor==3.3.0
 terminado==0.18.1
 text-unidecode==1.3
 textblob==0.19.0
+textual==6.2.1
 tf-slim==1.1.0
 tf_keras==2.20.0
 thinc==8.3.13
@@ -617,7 +618,7 @@ tornado==6.5.7
 tqdm==4.67.3
 traitlets==5.7.1
 traittypes==0.2.3
-transformers==5.10.2
+transformers==5.12.0
 treescope==0.1.10
 tsfresh==0.21.2
 tweepy==4.16.0
