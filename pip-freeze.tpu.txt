@@ -293,7 +293,7 @@ treescope==0.1.10
 truststore==0.10.4
 typer==0.26.8
 types-pytz==2026.2.0.20260518
-types-setuptools==82.0.0.20260518
+types-setuptools==83.0.0.20260724
 typing-inspection==0.4.2
 typing_extensions==4.16.0
 tzdata==2026.3

@@ -5,5 +5,5 @@
 # submitted CL where extract_colabx_testing_tarballs.sh was run.
 Ubuntu 22.04.5 LTS
 Python 3.12.13
-R version 4.6.0 (2026-04-24) -- "Because it was There"
+R version 4.6.1 (2026-06-24) -- "Happy Hop"
 julia version 1.12.6
