@@ -34,12 +34,12 @@ certifi==2026.7.22
 cffi==2.1.1
 charset-normalizer==3.4.9
 chex==0.1.90
-click==8.4.2
+click==8.5.0
 cloudpathlib==0.25.0
 cloudpickle==3.1.2
 confection==1.3.3
 contourpy==1.3.3
-cryptography==50.0.0
+cryptography==50.0.1
 cycler==0.12.1
 cymem==2.0.13
 datasets==4.8.5
@@ -57,7 +57,7 @@ en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_
 entrypoints==0.4
 etils==1.14.0
 fastai==2.8.8
-fastcore==2.2.14
+fastcore==2.2.16
 fastdownload==0.0.7
 fastjsonschema==2.22.2
 fastprogress==1.1.6
@@ -80,8 +80,8 @@ google-cloud-storage==3.13.1
 google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.8.0
 google-genai==2.12.1
-google-resumable-media==2.10.1
-googleapis-common-protos==1.75.1
+google-resumable-media==2.10.2
+googleapis-common-protos==1.75.2
 grain==0.2.18
 grpcio==1.83.0
 grpclib==0.4.9
@@ -199,7 +199,7 @@ prometheus_client==0.26.0
 promise==2.3
 prompt_toolkit==3.0.53
 propcache==0.5.2
-proto-plus==1.28.3
+proto-plus==1.28.4
 protobuf==7.36.0
 psutil==5.9.5
 psygnal==0.15.1
@@ -278,7 +278,7 @@ thinc==8.3.13
 threadpoolctl==3.6.0
 tifffile==2026.8.23
 tinycss2==1.5.1
-tokenizers==0.22.2
+tokenizers==0.23.1
 toml==0.10.2
 toolz==1.1.0
 torch @ https://download.pytorch.org/whl/cpu/torch-2.9.0%2Bcpu-cp313-cp313-manylinux_2_28_x86_64.whl
@@ -290,7 +290,7 @@ tornado==6.5.7
 tpu-info==0.8.1
 tqdm==4.67.3
 traitlets==5.7.1
-transformers==5.15.1
+transformers==5.16.1
 treescope==0.1.10
 truststore==0.10.4
 typer==0.27.1
