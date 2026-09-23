@@ -89,7 +89,7 @@ gspread==6.2.1
 gspread-dataframe==4.0.0
 h11==0.16.0
 h2==4.4.1
-h5py==3.16.0
+h5py==3.14.0
 hf-xet==1.6.0
 hpack==4.2.0
 httpcore==1.0.9
