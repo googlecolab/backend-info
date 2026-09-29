@@ -405,7 +405,7 @@ nvidia-cusparse-cu12==12.5.10.65
 nvidia-cusparselt-cu13==0.8.0
 nvidia-libnvcomp-cu13==5.2.0.13
 nvidia-ml-py==13.610.43
-nvidia-nccl-cu12==2.31.2
+nvidia-nccl-cu12==2.32.3
 nvidia-nccl-cu13==2.28.9
 nvidia-nvimgcodec-cu13==0.8.0.22
 nvidia-nvjitlink==13.0.88
