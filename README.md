@@ -19,6 +19,21 @@ and the
 [FAQ](https://research.google.com/colaboratory/runtime-version-faq.html).
 Currently available past runtime versions are as follows:
 
+### 2026.10
+
+*   Ubuntu 24.04.5 LTS
+*   Python 3.13.18
+*   numpy 2.1.3
+*   PyTorch 2.11.0
+*   Jax 0.11.1
+*   TensorFlow 2.21.0 (not included in TPU runtimes)
+*   R version 4.6.1 (2026-06-24) -- "Happy Hop"
+*   julia version 1.12.6
+
+For the exact details of installed OS & Python packages and versions, refer to
+the individual `*.txt` files at this
+[GitHub commit](https://github.com/googlecolab/backend-info/tree/aaf59a1929a8b637ef5d41272647c8bee3f8fe7c).
+
 ### 2026.07
 
 *   Ubuntu 22.04.5 LTS
