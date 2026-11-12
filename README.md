@@ -79,21 +79,6 @@ For the exact details of installed OS & Python packages and versions, refer to
 the individual `*.txt` files at this
 [GitHub commit](https://github.com/googlecolab/backend-info/tree/bd8aaa4580401a7fbf96a52fab5a7acf96f50b73).
 
-### 2025.10
-
-*   Ubuntu 22.04.4 LTS
-*   Python 3.12.12
-*   numpy 2.0.2
-*   PyTorch 2.8.0
-*   Jax 0.5.3
-*   TensorFlow 2.19.0 (not included in TPU runtimes)
-*   R version 4.5.1 (2025-06-13) -- "Great Square Root"
-*   julia version 1.11.5
-
-For the exact details of installed OS & Python packages and versions, refer to
-the individual `*.txt` files at this
-[GitHub commit](https://github.com/googlecolab/backend-info/tree/7a0599e3401b4c158fc34a8023e042fa3691be32).
-
 ## Contributing
 
 If you have a problem, or see something that could be improved, please
